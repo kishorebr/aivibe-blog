@@ -1,0 +1,18 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="#f3f4f6"/>
+  <rect x="1" y="1" width="398" height="198" fill="none" stroke="#e5e7eb" stroke-width="2"/>
+  
+  <!-- AI Icon -->
+  <g transform="translate(175, 75)">
+    <circle cx="25" cy="25" r="20" fill="#6b7280" opacity="0.3"/>
+    <text x="25" y="32" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="16" font-weight="bold">AI</text>
+  </g>
+  
+  <!-- Text -->
+  <text x="200" y="130" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="14">
+    AIVibe Article
+  </text>
+  <text x="200" y="150" text-anchor="middle" fill="#9ca3af" font-family="Arial, sans-serif" font-size="12">
+    Loading image...
+  </text>
+</svg>

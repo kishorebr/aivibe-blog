@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#8B5CF6"/>
+  <g fill="#FFFFFF" opacity="0.1">
+    <circle cx="300" cy="315" r="100"/>
+    <circle cx="600" cy="315" r="100"/>
+    <circle cx="900" cy="315" r="100"/>
+    <line x1="400" y1="315" x2="500" y2="315" stroke="#FFFFFF" stroke-width="10"/>
+    <line x1="700" y1="315" x2="800" y2="315" stroke="#FFFFFF" stroke-width="10"/>
+  </g>
+  <text x="600" y="315" font-family="Arial, sans-serif" font-size="60" font-weight="bold" text-anchor="middle" fill="#FFFFFF">General AI</text>
+  <text x="600" y="385" font-family="Arial, sans-serif" font-size="40" text-anchor="middle" fill="#FFFFFF">AI & Automation</text>
+</svg>

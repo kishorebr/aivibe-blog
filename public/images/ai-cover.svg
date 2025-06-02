@@ -1,0 +1,72 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="circuitGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="200" fill="url(#bgGradient)"/>
+  
+  <!-- Circuit pattern -->
+  <g stroke="url(#circuitGradient)" stroke-width="2" fill="none">
+    <!-- Horizontal lines -->
+    <line x1="50" y1="50" x2="150" y2="50"/>
+    <line x1="200" y1="80" x2="300" y2="80"/>
+    <line x1="100" y1="120" x2="200" y2="120"/>
+    <line x1="250" y1="150" x2="350" y2="150"/>
+    
+    <!-- Vertical lines -->
+    <line x1="150" y1="30" x2="150" y2="70"/>
+    <line x1="200" y1="60" x2="200" y2="100"/>
+    <line x1="300" y1="60" x2="300" y2="100"/>
+    <line x1="100" y1="100" x2="100" y2="140"/>
+    
+    <!-- Circuit nodes -->
+    <circle cx="150" cy="50" r="4" fill="white" opacity="0.8"/>
+    <circle cx="200" cy="80" r="4" fill="white" opacity="0.8"/>
+    <circle cx="300" cy="80" r="4" fill="white" opacity="0.8"/>
+    <circle cx="100" cy="120" r="4" fill="white" opacity="0.8"/>
+    <circle cx="200" cy="120" r="4" fill="white" opacity="0.8"/>
+    <circle cx="250" cy="150" r="4" fill="white" opacity="0.8"/>
+  </g>
+  
+  <!-- AI Brain icon -->
+  <g transform="translate(160, 60)">
+    <!-- Brain outline -->
+    <path d="M40 20C45 15 55 15 60 20C65 15 75 15 80 20C85 25 85 35 80 40C85 45 85 55 80 60C75 65 65 65 60 60C55 65 45 65 40 60C35 55 35 45 40 40C35 35 35 25 40 20Z" 
+          fill="white" opacity="0.9"/>
+    
+    <!-- Neural connections -->
+    <g stroke="white" stroke-width="1.5" opacity="0.7">
+      <line x1="45" y1="30" x2="55" y2="35"/>
+      <line x1="55" y1="25" x2="65" y2="30"/>
+      <line x1="65" y1="35" x2="75" y2="30"/>
+      <line x1="45" y1="45" x2="55" y2="50"/>
+      <line x1="65" y1="45" x2="75" y2="50"/>
+      <line x1="55" y1="40" x2="65" y2="45"/>
+    </g>
+    
+    <!-- Neural nodes -->
+    <circle cx="50" cy="30" r="2" fill="#667eea"/>
+    <circle cx="60" cy="25" r="2" fill="#667eea"/>
+    <circle cx="70" cy="30" r="2" fill="#667eea"/>
+    <circle cx="50" cy="45" r="2" fill="#667eea"/>
+    <circle cx="60" cy="40" r="2" fill="#667eea"/>
+    <circle cx="70" cy="45" r="2" fill="#667eea"/>
+  </g>
+  
+  <!-- AIVibe text -->
+  <text x="200" y="140" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    AIVibe
+  </text>
+  <text x="200" y="160" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" opacity="0.8">
+    Where AI Meets Everyday Life
+  </text>
+</svg>
