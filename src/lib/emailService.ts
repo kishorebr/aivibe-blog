@@ -27,11 +27,41 @@ export interface BlogPost {
   readTime?: string;
 }
 
-// Subscriber database file path
+// In-memory storage for serverless environments (Vercel)
+let subscribersCache: Subscriber[] = [
+  // Demo subscribers for testing
+  {
+    id: 'demo1',
+    email: 'demo@aivibe.com',
+    subscribedAt: new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString(), // 7 days ago
+    isActive: true,
+    preferences: {
+      frequency: 'weekly',
+      categories: ['General AI', 'Productivity']
+    }
+  },
+  {
+    id: 'demo2',
+    email: 'test@example.com',
+    subscribedAt: new Date(Date.now() - 3 * 24 * 60 * 60 * 1000).toISOString(), // 3 days ago
+    isActive: true,
+    preferences: {
+      frequency: 'weekly',
+      categories: ['Technology', 'AI Tools']
+    }
+  }
+];
+
+// Check if we're in a serverless environment
+const isServerless = process.env.VERCEL || process.env.AWS_LAMBDA_FUNCTION_NAME || process.env.NETLIFY;
+
+// Subscriber database file path (only for local development)
 const SUBSCRIBERS_FILE = path.join(process.cwd(), 'data', 'subscribers.json');
 
-// Ensure data directory exists
+// Ensure data directory exists (only for local development)
 function ensureDataDirectory() {
+  if (isServerless) return; // Skip in serverless environments
+  
   try {
     const dataDir = path.dirname(SUBSCRIBERS_FILE);
     if (!fs.existsSync(dataDir)) {
@@ -42,14 +72,21 @@ function ensureDataDirectory() {
   }
 }
 
-// Load subscribers from file
+// Load subscribers from file or cache
 export function loadSubscribers(): Subscriber[] {
+  if (isServerless) {
+    // In serverless environments, return cached data
+    return subscribersCache;
+  }
+  
   try {
     ensureDataDirectory();
     
     if (fs.existsSync(SUBSCRIBERS_FILE)) {
       const data = fs.readFileSync(SUBSCRIBERS_FILE, 'utf8');
-      return JSON.parse(data);
+      const subscribers = JSON.parse(data);
+      subscribersCache = subscribers; // Update cache
+      return subscribers;
     }
   } catch (error) {
     console.error('Error loading subscribers:', error);
@@ -58,15 +95,24 @@ export function loadSubscribers(): Subscriber[] {
   return [];
 }
 
-// Save subscribers to file
+// Save subscribers to file or cache
 export function saveSubscribers(subscribers: Subscriber[]): void {
+  // Always update cache
+  subscribersCache = [...subscribers];
+  
+  if (isServerless) {
+    // In serverless environments, only use cache
+    console.log('Serverless environment detected, using in-memory storage');
+    return;
+  }
+  
   try {
     ensureDataDirectory();
     fs.writeFileSync(SUBSCRIBERS_FILE, JSON.stringify(subscribers, null, 2), 'utf8');
   } catch (error) {
     console.error('Error saving subscribers:', error);
-    // Don't throw during build time
-    if (process.env.NODE_ENV !== 'production' || process.env.VERCEL_ENV) {
+    // Don't throw in production
+    if (process.env.NODE_ENV !== 'production') {
       throw error;
     }
   }

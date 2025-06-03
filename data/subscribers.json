@@ -12,5 +12,19 @@
         "Technology"
       ]
     }
+  },
+  {
+    "id": "mbgvzp81r7r5m51vnsa",
+    "email": "asfs@erg.com",
+    "subscribedAt": "2025-06-03T19:03:28.369Z",
+    "isActive": true,
+    "preferences": {
+      "frequency": "weekly",
+      "categories": [
+        "General AI",
+        "Productivity",
+        "Technology"
+      ]
+    }
   }
 ]

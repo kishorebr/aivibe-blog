@@ -42,10 +42,16 @@ export async function POST(request: NextRequest) {
       }
     }
     
+    const isServerless = process.env.VERCEL || process.env.AWS_LAMBDA_FUNCTION_NAME || process.env.NETLIFY;
+    const message = isServerless 
+      ? 'Successfully subscribed to AIVibe newsletter! You\'ll receive our weekly AI insights.'
+      : 'Successfully subscribed to AIVibe newsletter! Check your email for a welcome message.';
+    
     return NextResponse.json({
       success: true,
-      message: 'Successfully subscribed to AIVibe newsletter! Check your email for a welcome message.',
-      service: 'Resend'
+      message,
+      service: 'Resend',
+      environment: isServerless ? 'serverless' : 'local'
     }, { status: 200 });
     
   } catch (error) {
