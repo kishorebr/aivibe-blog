@@ -1,5 +1,4 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { removeSubscriber } from '@/lib/emailService';
 
 export async function POST(request: NextRequest) {
   try {
@@ -21,6 +20,9 @@ export async function POST(request: NextRequest) {
         { status: 400 }
       );
     }
+    
+    // Dynamic import to avoid build-time issues
+    const { removeSubscriber } = await import('@/lib/emailService');
     
     // Remove subscriber
     const result = removeSubscriber(email);

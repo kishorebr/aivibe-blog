@@ -1,5 +1,4 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { addSubscriber, sendWelcomeEmail, getActiveSubscribers } from '@/lib/emailService';
 
 export async function POST(request: NextRequest) {
   try {
@@ -21,6 +20,9 @@ export async function POST(request: NextRequest) {
         { status: 400 }
       );
     }
+    
+    // Dynamic import to avoid build-time issues
+    const { addSubscriber, sendWelcomeEmail } = await import('@/lib/emailService');
     
     // Add subscriber
     const result = addSubscriber(email);

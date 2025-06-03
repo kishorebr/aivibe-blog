@@ -1,5 +1,4 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { updateBlogContent, shouldUpdateContent, markContentUpdated } from '@/lib/contentUpdater';
 
 export async function POST(request: NextRequest) {
   try {
@@ -15,6 +14,9 @@ export async function POST(request: NextRequest) {
     }
 
     console.log('Content update API called');
+
+    // Dynamic import to avoid build-time issues
+    const { updateBlogContent, shouldUpdateContent, markContentUpdated } = await import('@/lib/contentUpdater');
 
     // Check if update is needed
     if (!shouldUpdateContent()) {

@@ -1,5 +1,4 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { updateBlogContent, shouldUpdateContent, markContentUpdated } from '@/lib/contentUpdater';
 
 // This endpoint will be called by Vercel Cron Jobs or external cron services
 export async function GET(request: NextRequest) {
@@ -18,6 +17,9 @@ export async function GET(request: NextRequest) {
     }
 
     console.log('Daily cron job triggered at:', new Date().toISOString());
+
+    // Dynamic import to avoid build-time issues
+    const { updateBlogContent, shouldUpdateContent, markContentUpdated } = await import('@/lib/contentUpdater');
 
     // Check if update is needed (should be true for daily runs)
     if (!shouldUpdateContent()) {

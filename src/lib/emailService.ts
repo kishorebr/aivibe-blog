@@ -31,17 +31,21 @@ const SUBSCRIBERS_FILE = path.join(process.cwd(), 'data', 'subscribers.json');
 
 // Ensure data directory exists
 function ensureDataDirectory() {
-  const dataDir = path.dirname(SUBSCRIBERS_FILE);
-  if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir, { recursive: true });
+  try {
+    const dataDir = path.dirname(SUBSCRIBERS_FILE);
+    if (!fs.existsSync(dataDir)) {
+      fs.mkdirSync(dataDir, { recursive: true });
+    }
+  } catch (error) {
+    console.error('Error ensuring data directory:', error);
   }
 }
 
 // Load subscribers from file
 export function loadSubscribers(): Subscriber[] {
-  ensureDataDirectory();
-  
   try {
+    ensureDataDirectory();
+    
     if (fs.existsSync(SUBSCRIBERS_FILE)) {
       const data = fs.readFileSync(SUBSCRIBERS_FILE, 'utf8');
       return JSON.parse(data);
@@ -55,13 +59,15 @@ export function loadSubscribers(): Subscriber[] {
 
 // Save subscribers to file
 export function saveSubscribers(subscribers: Subscriber[]): void {
-  ensureDataDirectory();
-  
   try {
+    ensureDataDirectory();
     fs.writeFileSync(SUBSCRIBERS_FILE, JSON.stringify(subscribers, null, 2), 'utf8');
   } catch (error) {
     console.error('Error saving subscribers:', error);
-    throw error;
+    // Don't throw during build time
+    if (process.env.NODE_ENV !== 'production' || process.env.VERCEL_ENV) {
+      throw error;
+    }
   }
 }
 
@@ -129,9 +135,14 @@ function generateId(): string {
 
 // Get recent blog posts for newsletter
 export function getRecentPosts(limit: number = 10): BlogPost[] {
-  const postsDir = path.join(process.cwd(), 'content', 'posts');
-  
   try {
+    const postsDir = path.join(process.cwd(), 'content', 'posts');
+    
+    if (!fs.existsSync(postsDir)) {
+      console.log('Posts directory not found, returning empty array');
+      return [];
+    }
+    
     const files = fs.readdirSync(postsDir)
       .filter(file => file.endsWith('.md'))
       .map(file => {

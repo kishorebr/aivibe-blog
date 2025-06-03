@@ -1,14 +1,23 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { sendWeeklyNewsletter, getActiveSubscribers } from '@/lib/emailService';
-import { isAuthenticated } from '@/lib/auth';
 
 export async function POST(request: NextRequest) {
   try {
+    // Dynamic imports to avoid build-time issues
+    const { sendWeeklyNewsletter } = await import('@/lib/emailService');
+    const { isAuthenticated } = await import('@/lib/auth');
+    
     // Check for admin authentication or API token
     const authHeader = request.headers.get('authorization');
     const expectedToken = process.env.NEWSLETTER_API_TOKEN;
     
-    const isAdminAuth = isAuthenticated(request);
+    let isAdminAuth = false;
+    try {
+      isAdminAuth = isAuthenticated(request);
+    } catch (error) {
+      // Handle auth check errors during build
+      isAdminAuth = false;
+    }
+    
     const isApiAuth = expectedToken && authHeader === `Bearer ${expectedToken}`;
     
     if (!isAdminAuth && !isApiAuth) {
@@ -51,11 +60,22 @@ export async function POST(request: NextRequest) {
 
 export async function GET(request: NextRequest) {
   try {
+    // Dynamic imports to avoid build-time issues
+    const { getActiveSubscribers } = await import('@/lib/emailService');
+    const { isAuthenticated } = await import('@/lib/auth');
+    
     // Check for admin authentication or API token
     const authHeader = request.headers.get('authorization');
     const expectedToken = process.env.NEWSLETTER_API_TOKEN;
     
-    const isAdminAuth = isAuthenticated(request);
+    let isAdminAuth = false;
+    try {
+      isAdminAuth = isAuthenticated(request);
+    } catch (error) {
+      // Handle auth check errors during build
+      isAdminAuth = false;
+    }
+    
     const isApiAuth = expectedToken && authHeader === `Bearer ${expectedToken}`;
     
     if (!isAdminAuth && !isApiAuth) {

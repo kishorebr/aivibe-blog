@@ -1,5 +1,4 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { sendWeeklyNewsletter } from '@/lib/emailService';
 
 export async function GET(request: NextRequest) {
   try {
@@ -16,6 +15,9 @@ export async function GET(request: NextRequest) {
     }
     
     console.log('🕘 Weekly newsletter cron job triggered');
+    
+    // Dynamic import to avoid build-time issues
+    const { sendWeeklyNewsletter } = await import('@/lib/emailService');
     
     // Send weekly newsletter
     const result = await sendWeeklyNewsletter();
