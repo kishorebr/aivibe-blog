@@ -1,20 +1,19 @@
 ---
-title: 'Smart Home Automation in 2024: Beyond Voice Commands'
-date: '2025-05-31'
-excerpt: >-
-  Discover how AI-powered smart home systems are evolving beyond simple voice
-  commands to create truly intelligent living spaces that anticipate your needs.
-coverImage: >-
-  https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=200&fit=crop&auto=format
-author: AIVibe
+
+title: "Smart Home Automation in 2024: Beyond Voice Commands"
+date: "2025-05-31"
+excerpt: "Discover how AI-powered smart home systems are evolving beyond simple voice commands to create truly intelligent living spaces that anticipate your needs."
+coverImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=200&fit=crop&auto=format"
+author: "AIVibe"
 tags:
-  - Smart Home
-  - AI
-  - Automation
-  - IoT
-  - Technology
-category: Smart Home
-source: 'https://example.com/smart-home-2024'
+  - "Smart Home"
+  - "AI"
+  - "Automation"
+  - "IoT"
+  - "Technology"
+category: "Smart Home"
+source: "https://example.com/smart-home-2024"
+
 ---
 
 # Smart Home Automation in 2024: Beyond Voice Commands

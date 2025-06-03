@@ -1,26 +1,24 @@
 ---
-title: How AI is Transforming Everyday Life in 2024
-date: '2025-05-31'
-excerpt: >-
-  Artificial intelligence is no longer just a buzzword or a technology of the
-  future. It's here now, transforming how we live, work, and interact with the
-  world around us.
-coverImage: >-
-  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
-author: AIVibe
+
+title: "How AI is Transforming Everyday Life in 2024"
+date: "2025-05-31"
+excerpt: "Artificial intelligence is no longer just a buzzword or a technology of the future. It's here now, transforming how we live, work, and interact with the world around us."
+coverImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format"
+author: "AIVibe"
 tags:
-  - AI
-  - Automation
-  - Daily Life
-  - Technology
-  - Future
-category: General AI
-source: 'https://example.com/sample-post'
+  - "AI"
+  - "Automation"
+  - "Daily Life"
+  - "Technology"
+  - "Future"
+category: "General AI"
+source: "https://example.com/sample-post"
+
 ---
 
 # How AI is Transforming Everyday Life in 2024
 
-Artificial intelligence is no longer just a buzzword or a technology of the future. It's here now, transforming how we live, work, and interact with the world around us.
+ is no longer just a buzzword or a technology of the future. It's here now, transforming how we live, work, and interact with the world around us.
 
 ## Smart Home Revolution
 

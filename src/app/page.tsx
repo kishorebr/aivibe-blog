@@ -2,11 +2,15 @@ import { getAllPosts, getAllCategories, getAllTags } from '@/lib/api';
 import PostCard from '@/components/PostCard';
 import NewsletterSubscription from '@/components/NewsletterSubscription';
 import Link from 'next/link';
+import { checkAndUpdateContent } from '@/lib/autoUpdater';
 
 export default function Home() {
   const posts = getAllPosts();
   const categories = getAllCategories();
   const tags = getAllTags();
+
+  // Trigger background content update check
+  checkAndUpdateContent();
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-purple-50">
@@ -59,6 +63,29 @@ export default function Home() {
               <div className="bg-white/80 backdrop-blur-sm rounded-xl p-6 border border-blue-100">
                 <div className="text-3xl font-bold text-blue-600 mb-2">24/7</div>
                 <div className="text-gray-600">AI Updates</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Daily Content Update Notice */}
+      <section className="container mx-auto px-4 mb-12">
+        <div className="bg-gradient-to-r from-green-50 via-blue-50 to-purple-50 rounded-2xl p-6 border border-green-200 shadow-lg">
+          <div className="flex items-center justify-center text-center">
+            <div className="flex items-center gap-3">
+              <div className="flex items-center gap-2">
+                <div className="w-3 h-3 bg-green-500 rounded-full animate-pulse"></div>
+                <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+              </div>
+              <div className="text-left">
+                <div className="font-semibold text-gray-800 text-lg">🔄 Fresh Content Daily</div>
+                <div className="text-gray-600 text-sm">
+                  New AI articles are automatically added every day at 9:00 AM UTC. 
+                  <span className="font-medium text-blue-600"> Check back daily for the latest insights!</span>
+                </div>
               </div>
             </div>
           </div>
@@ -176,10 +203,21 @@ export default function Home() {
               <span className="text-sm font-medium">Newsletter</span>
             </div>
             <h2 className="text-4xl md:text-5xl font-bold mb-6">Stay Ahead of the AI Curve</h2>
-            <p className="text-xl text-blue-100 mb-8 leading-relaxed">
+            <p className="text-xl text-blue-100 mb-6 leading-relaxed">
               Subscribe to our newsletter and receive the latest insights on AI and automation
               for everyday life, delivered straight to your inbox every week.
             </p>
+            <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4 mb-8 border border-white/20">
+              <div className="flex items-center justify-center gap-2 text-blue-100">
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                <span className="font-medium">📧 Weekly Newsletter • Every Monday at 9:00 AM UTC</span>
+              </div>
+              <div className="text-sm text-blue-200 mt-1">
+                Top 10 latest AI stories curated automatically from our daily content updates
+              </div>
+            </div>
             <div className="max-w-md mx-auto">
               <NewsletterSubscription />
             </div>

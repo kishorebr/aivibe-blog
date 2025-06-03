@@ -9,7 +9,14 @@
     "lint": "next lint",
     "generate-sample": "node scripts/generate-sample-post.js",
     "fetch-content": "node scripts/fetch-content.js",
-    "prepare-deploy": "npm run generate-sample && npm run build"
+    "generate-posts": "node scripts/generate-posts.js",
+    "fix-yaml": "node scripts/fix-yaml.js",
+    "clean-yaml": "node scripts/clean-yaml.js",
+    "final-cleanup": "node scripts/final-cleanup.js",
+    "test-unlimited": "node scripts/test-unlimited-simple.js",
+    "test-email": "node scripts/test-email-system.js",
+    "prepare-deploy": "node scripts/prepare-deployment.js",
+    "deploy-ready": "npm run generate-posts && npm run build"
   },
   "dependencies": {
     "@mailchimp/mailchimp_marketing": "^3.0.80",
@@ -22,6 +29,7 @@
     "react-dom": "^19.0.0",
     "remark": "^15.0.1",
     "remark-html": "^16.0.1",
+    "resend": "^4.5.1",
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {

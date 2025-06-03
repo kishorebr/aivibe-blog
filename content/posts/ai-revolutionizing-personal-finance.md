@@ -1,25 +1,24 @@
 ---
-title: How AI is Revolutionizing Personal Finance Management
-date: '2025-05-30'
-excerpt: >-
-  Artificial intelligence is transforming how we manage money, from automated
-  savings to personalized investment advice and fraud detection.
-coverImage: >-
-  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
-author: AIVibe
+
+title: "How AI is Revolutionizing Personal Finance Management"
+date: "2025-05-30"
+excerpt: "Artificial intelligence is transforming how we manage money, from automated savings to personalized investment advice and fraud detection."
+coverImage: "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format"
+author: "AIVibe"
 tags:
-  - Finance
-  - AI
-  - Banking
-  - Investment
-  - Budgeting
-category: Finance
-source: 'https://example.com/ai-finance'
+  - "Finance"
+  - "AI"
+  - "Banking"
+  - "Investment"
+  - "Budgeting"
+category: "Finance"
+source: "https://example.com/ai-finance"
+
 ---
 
 # How AI is Revolutionizing Personal Finance Management
 
-Managing personal finances has traditionally been time-consuming, complex, and often stressful. However, artificial intelligence is dramatically changing this landscape, making financial management more accessible, efficient, and effective for everyone.
+Managing personal finances has traditionally been time-consuming, complex, and often stressful. However,  is dramatically changing this landscape, making financial management more accessible, efficient, and effective for everyone.
 
 ## Automated Budgeting and Savings
 

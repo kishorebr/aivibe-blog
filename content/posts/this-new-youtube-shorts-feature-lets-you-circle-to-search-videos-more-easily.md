@@ -1,32 +1,27 @@
 ---
-title: This new YouTube Shorts feature lets you circle to search videos more easily
-date: '2025-05-30'
-excerpt: |-
-  Innovation      
-        Home
-      
-        Innovation
-      
-        Artificial Intelligence
-         
-      This new YouTube Shorts feature lets you circle to se...
-coverImage: >-
-  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
-author: AIVibe
+
+
+title: "This new YouTube Shorts feature lets you circle to search videos more easily"
+date: "2025-05-30"
+excerpt: "YouTube introduces a new Circle to Search feature for Shorts, making it easier to discover and search for video content using intuitive gesture-based interactions."
+coverImage: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=400&fit=crop&auto=format"
+author: "AIVibe"
 tags:
-  - Ai
-category: General AI
-source: >-
-  https://www.zdnet.com/article/this-new-youtube-shorts-feature-lets-you-circle-to-search-videos-more-easily/
+  - "AI"
+  - "YouTube"
+  - "Search"
+  - "Mobile"
+  - "Technology"
+  - "User Interface"
+category: "Technology"
+source: "https://www.zdnet.com/article/this-new-youtube-shorts-feature-lets-you-circle-to-search-videos-more-easily/"
+
+
 ---
-Innovation      
-      Home
-    
-      Innovation
-    
-      Artificial Intelligence
-       
-    This new YouTube Shorts feature lets you circle to search videos more easily
+
+# This new YouTube Shorts feature lets you circle to search videos more easily
+
+This new YouTube Shorts feature lets you circle to search videos more easily
      
     Now in beta, the new feature allows you to pull up detailed information in a video without leaving the YouTube app.
      Written by 

@@ -4,6 +4,16 @@
   "installCommand": "npm install",
   "framework": "nextjs",
   "outputDirectory": ".next",
+  "crons": [
+    {
+      "path": "/api/cron/daily-update",
+      "schedule": "0 9 * * *"
+    },
+    {
+      "path": "/api/cron/weekly-newsletter",
+      "schedule": "0 9 * * 1"
+    }
+  ],
   "github": {
     "silent": true,
     "autoJobCancelation": true

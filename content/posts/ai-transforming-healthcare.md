@@ -1,26 +1,24 @@
 ---
-title: 'AI in Healthcare: Transforming Patient Care and Medical Research'
-date: '2025-05-29'
-excerpt: >-
-  From early disease detection to personalized treatment plans, artificial
-  intelligence is revolutionizing healthcare delivery and improving patient
-  outcomes.
-coverImage: >-
-  https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=400&h=200&fit=crop&auto=format
-author: AIVibe
+
+title: "AI in Healthcare: Transforming Patient Care and Medical Research"
+date: "2025-05-29"
+excerpt: "From early disease detection to personalized treatment plans, artificial intelligence is revolutionizing healthcare delivery and improving patient outcomes."
+coverImage: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=400&h=200&fit=crop&auto=format"
+author: "AIVibe"
 tags:
-  - Healthcare
-  - AI
-  - Medical
-  - Diagnosis
-  - Technology
-category: Healthcare
-source: 'https://example.com/ai-healthcare'
+  - "Healthcare"
+  - "AI"
+  - "Medical"
+  - "Diagnosis"
+  - "Technology"
+category: "Healthcare"
+source: "https://example.com/ai-healthcare"
+
 ---
 
 # AI in Healthcare: Transforming Patient Care and Medical Research
 
-Artificial intelligence is revolutionizing healthcare in ways that benefit both patients and providers. From improving diagnostic accuracy to accelerating drug discovery, AI applications are transforming every aspect of medicine and healthcare delivery.
+ is revolutionizing healthcare in ways that benefit both patients and providers. From improving diagnostic accuracy to accelerating drug discovery, AI applications are transforming every aspect of medicine and healthcare delivery.
 
 ## Enhanced Diagnostic Capabilities
 

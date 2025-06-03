@@ -1,20 +1,20 @@
 ---
-title: 'The Future of Generative AI: Beyond Text and Images'
-date: '2025-05-28'
-excerpt: >-
-  Generative AI is evolving rapidly, moving beyond text and images to transform
-  music creation, video production, 3D modeling, and more.
-coverImage: >-
-  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
-author: AIVibe
+
+title: "The Future of Generative AI: Beyond Text and Images in 2025"
+date: "2025-01-11"
+excerpt: "Generative AI is evolving rapidly in 2025, moving beyond text and images to transform music creation, video production, 3D modeling, code generation, and scientific research."
+coverImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=400&fit=crop&auto=format"
+author: "AIVibe"
 tags:
-  - AI
-  - Generative AI
-  - Technology
-  - Future
-  - Innovation
-category: General AI
-source: 'https://example.com/future-generative-ai'
+  - "AI"
+  - "Generative AI"
+  - "Technology"
+  - "Future"
+  - "Innovation"
+  - "2025 Trends"
+category: "General AI"
+source: "https://www.artificialintelligence-news.com"
+
 ---
 
 # The Future of Generative AI: Beyond Text and Images

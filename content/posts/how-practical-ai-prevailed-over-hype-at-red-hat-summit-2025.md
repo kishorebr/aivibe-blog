@@ -1,34 +1,27 @@
 ---
-title: How practical AI prevailed over hype at Red Hat Summit 2025
-date: '2025-05-30'
-excerpt: |-
-  Innovation      
-        Home
-      
-        Innovation
-      
-        Artificial Intelligence
-         
-      How practical AI prevailed over hype at Red Hat Summi...
-coverImage: >-
-  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
-author: AIVibe
+
+
+title: "How practical AI prevailed over hype at Red Hat Summit 2025"
+date: "2025-05-30"
+excerpt: "Red Hat Summit 2025 showcased how practical AI applications are taking precedence over hype, with real-world implementations driving business value across enterprise environments."
+coverImage: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&h=400&fit=crop&auto=format"
+author: "AIVibe"
 tags:
-  - Ai
-  - Automation
-  - Llm
-category: General AI
-source: >-
-  https://www.zdnet.com/article/how-practical-ai-prevailed-over-hype-at-red-hat-summit-2025/
+  - "AI"
+  - "Enterprise"
+  - "Red Hat"
+  - "Business"
+  - "Technology"
+  - "Implementation"
+category: "Work"
+source: "https://www.zdnet.com/article/how-practical-ai-prevailed-over-hype-at-red-hat-summit-2025/"
+
+
 ---
-Innovation      
-      Home
-    
-      Innovation
-    
-      Artificial Intelligence
-       
-    How practical AI prevailed over hype at Red Hat Summit 2025
+
+# How practical AI prevailed over hype at Red Hat Summit 2025
+
+How practical AI prevailed over hype at Red Hat Summit 2025
      
     At Red Hat Summit and Ansible Fest 2025, discussions included open source, automation, security, and, of course, AI - but in a refreshing way.
      Written by 
