@@ -60,6 +60,8 @@ export async function POST(request: NextRequest) {
 // GET endpoint to retrieve subscriber count
 export async function GET() {
   try {
+    // Dynamic import to avoid build-time issues
+    const { getActiveSubscribers } = await import('@/lib/emailService');
     const subscribers = getActiveSubscribers();
     
     return NextResponse.json({

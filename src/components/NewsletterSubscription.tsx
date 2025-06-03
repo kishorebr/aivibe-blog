@@ -32,11 +32,11 @@ export default function NewsletterSubscription() {
 
       if (response.ok) {
         setStatus('success');
-        setMessage('Thank you for subscribing! Check your email for confirmation.');
+        setMessage(data.message || 'Thank you for subscribing! You\'ll receive our weekly newsletter with the latest AI insights.');
         setEmail('');
       } else {
         setStatus('error');
-        setMessage(data.error || 'Something went wrong. Please try again.');
+        setMessage(data.message || data.error || 'Something went wrong. Please try again.');
       }
     } catch (error) {
       setStatus('error');

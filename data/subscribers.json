@@ -1,0 +1,16 @@
+[
+  {
+    "id": "mbgvrk1r15166symjkm",
+    "email": "abcd@gmail.com",
+    "subscribedAt": "2025-06-03T18:57:08.415Z",
+    "isActive": true,
+    "preferences": {
+      "frequency": "weekly",
+      "categories": [
+        "General AI",
+        "Productivity",
+        "Technology"
+      ]
+    }
+  }
+]

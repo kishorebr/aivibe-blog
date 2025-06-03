@@ -2,8 +2,9 @@ import { Resend } from 'resend';
 import fs from 'fs';
 import path from 'path';
 
-// Initialize Resend
-const resend = new Resend(process.env.RESEND_API_KEY);
+// Initialize Resend (only if API key is available)
+const resendApiKey = process.env.RESEND_API_KEY;
+const resend = resendApiKey ? new Resend(resendApiKey) : null;
 
 export interface Subscriber {
   id: string;
@@ -383,6 +384,12 @@ function formatDate(dateString: string): string {
 // Send newsletter to all subscribers
 export async function sendWeeklyNewsletter(): Promise<{ success: boolean; message: string; sentCount: number }> {
   try {
+    // Check if Resend is available
+    if (!resend) {
+      console.log('Resend API key not configured, skipping newsletter send');
+      return { success: false, message: 'Email service not configured', sentCount: 0 };
+    }
+    
     const subscribers = getActiveSubscribers();
     const recentPosts = getRecentPosts(10);
     
@@ -446,6 +453,12 @@ export async function sendWeeklyNewsletter(): Promise<{ success: boolean; messag
 // Send welcome email to new subscriber
 export async function sendWelcomeEmail(subscriber: Subscriber): Promise<boolean> {
   try {
+    // Check if Resend is available
+    if (!resend) {
+      console.log('Resend API key not configured, skipping welcome email');
+      return true; // Return true to not fail the subscription
+    }
+    
     const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://aivibe.vercel.app';
     
     const welcomeHtml = `
