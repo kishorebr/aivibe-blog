@@ -1,0 +1,97 @@
+name: Strict Content Update
+
+on:
+  schedule:
+    # Run multiple times per day for strict updates
+    - cron: '0 2 * * *'   # 2 AM UTC
+    - cron: '0 8 * * *'   # 8 AM UTC  
+    - cron: '0 14 * * *'  # 2 PM UTC
+    - cron: '0 20 * * *'  # 8 PM UTC
+  workflow_dispatch: # Allow manual triggering
+    inputs:
+      force_update:
+        description: 'Force content update even if no changes'
+        required: false
+        default: 'false'
+        type: boolean
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  strict-content-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Generate new content (STRICT MODE)
+        run: |
+          echo "🚀 Running STRICT content update..."
+          echo "📅 Current time: $(date)"
+          echo "🎯 Target: Generate exactly 3 new posts"
+          node scripts/update-content.js
+      
+      - name: Verify content was created
+        id: verify
+        run: |
+          # Count new files in the last minute
+          NEW_FILES=$(find content/posts/ -name "*.md" -newermt "1 minute ago" | wc -l)
+          echo "new_files=$NEW_FILES" >> $GITHUB_OUTPUT
+          echo "📊 New files created: $NEW_FILES"
+          
+          if [ "$NEW_FILES" -gt 0 ] || [ "${{ github.event.inputs.force_update }}" == "true" ]; then
+            echo "should_commit=true" >> $GITHUB_OUTPUT
+            echo "✅ Content update successful - proceeding with commit"
+          else
+            echo "should_commit=false" >> $GITHUB_OUTPUT
+            echo "❌ No new content created - something went wrong"
+            exit 1
+          fi
+      
+      - name: List new content
+        if: steps.verify.outputs.should_commit == 'true'
+        run: |
+          echo "📝 New content files:"
+          find content/posts/ -name "*.md" -newermt "1 minute ago" -exec basename {} \;
+      
+      - name: Commit and push changes
+        if: steps.verify.outputs.should_commit == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '🤖 STRICT UPDATE: Add ${{ steps.verify.outputs.new_files }} new AI posts - Run ${{ github.run_id }}'
+          file_pattern: 'content/posts/*.md'
+          commit_user_name: 'aivibe-bot[bot]'
+          commit_user_email: 'aivibe-bot[bot]@users.noreply.github.com'
+          commit_author: 'AIVibe Bot <aivibe-bot[bot]@users.noreply.github.com>'
+      
+      - name: Success notification
+        if: steps.verify.outputs.should_commit == 'true'
+        run: |
+          echo "🎉 STRICT CONTENT UPDATE SUCCESSFUL!"
+          echo "📊 Files created: ${{ steps.verify.outputs.new_files }}"
+          echo "⏰ Time: $(date)"
+          echo "🔄 Next update in ~6 hours"
+      
+      - name: Failure notification
+        if: failure()
+        run: |
+          echo "❌ STRICT CONTENT UPDATE FAILED!"
+          echo "🔍 Check the logs above for details"
+          echo "🔄 Will retry in next scheduled run"
+          # Don't fail the workflow - just log the issue
+          exit 0
