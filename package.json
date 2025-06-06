@@ -17,6 +17,7 @@
     "test-email": "node scripts/test-email-system.js",
     "test-content-update": "node scripts/test-content-update.js",
     "update-content": "node scripts/update-content.js",
+    "monitor-content": "node scripts/monitor-content.js",
     "prepare-deploy": "node scripts/prepare-deployment.js",
     "deploy-ready": "npm run generate-posts && npm run build"
   },

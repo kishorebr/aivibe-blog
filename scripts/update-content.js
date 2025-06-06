@@ -8,7 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 
-// AI topics and content templates
+// AI topics and content templates - Expanded for more variety
 const AI_TOPICS = [
   'Machine Learning Breakthroughs',
   'AI in Healthcare',
@@ -19,7 +19,27 @@ const AI_TOPICS = [
   'Robotics Innovation',
   'AI in Business',
   'Deep Learning Research',
-  'AI Productivity Tools'
+  'AI Productivity Tools',
+  'Generative AI Revolution',
+  'AI-Powered Analytics',
+  'Conversational AI Systems',
+  'AI in Education',
+  'Smart Manufacturing',
+  'AI Security Solutions',
+  'Predictive AI Models',
+  'AI Content Creation',
+  'Autonomous Systems',
+  'AI Data Processing',
+  'Neural Network Innovations',
+  'AI Cloud Computing',
+  'Edge AI Development',
+  'AI Model Optimization',
+  'Reinforcement Learning',
+  'AI Voice Technology',
+  'Computer Vision Applications',
+  'AI Decision Making',
+  'Intelligent Automation',
+  'AI Research Trends'
 ];
 
 const CATEGORIES = [
@@ -130,11 +150,27 @@ The trajectory of ${topic.toLowerCase()} suggests we're entering an era of unpre
 }
 
 function createBlogPost(topic) {
-  const title = `${topic}: Latest Developments and Future Prospects`;
-  const slug = generateSlug(title);
+  const now = new Date();
+  const timestamp = now.getTime();
+  const dateStr = now.toISOString().split('T')[0];
+  const timeStr = now.toTimeString().split(' ')[0].replace(/:/g, '');
+  
+  // Create more varied titles
+  const titleTemplates = [
+    `${topic}: Latest Developments and Future Prospects`,
+    `Breaking: ${topic} Transforms Industry Standards`,
+    `${topic} - Revolutionary Advances in 2025`,
+    `How ${topic} is Reshaping Technology`,
+    `${topic}: Complete Guide to Recent Innovations`,
+    `The Future of ${topic}: Trends and Predictions`,
+    `${topic} Breakthrough: What You Need to Know`,
+    `Exploring ${topic}: Latest Research and Applications`
+  ];
+  
+  const title = getRandomItems(titleTemplates, 1)[0];
+  const slug = generateSlug(`${title}-${timeStr}`); // Add time to ensure uniqueness
   const category = getRandomItems(CATEGORIES, 1)[0];
   const tags = getRandomItems(TAGS, 4);
-  const date = new Date().toISOString().split('T')[0];
   const readTime = `${Math.floor(Math.random() * 5) + 3} min read`;
   
   const excerpt = `Exploring the latest developments in ${topic.toLowerCase()} and their implications for the future of artificial intelligence and automation.`;
@@ -145,7 +181,7 @@ function createBlogPost(topic) {
 title: "${title}"
 excerpt: "${excerpt}"
 category: "${category}"
-date: "${date}"
+date: "${dateStr}"
 tags: [${tags.map(tag => `"${tag}"`).join(', ')}]
 readTime: "${readTime}"
 ---
@@ -174,13 +210,14 @@ async function updateBlogContent() {
     const existingFiles = fs.readdirSync(contentDir);
     console.log(`📊 Found ${existingFiles.length} existing posts`);
 
-    // Generate 2-3 new posts
-    const numberOfPosts = Math.floor(Math.random() * 2) + 2; // 2-3 posts
-    const selectedTopics = getRandomItems(AI_TOPICS, numberOfPosts);
-    
+    // STRICT MODE: Always generate at least 3 new posts
+    const numberOfPosts = 3; // Always create 3 posts
     let createdCount = 0;
+    let attempts = 0;
+    const maxAttempts = 20; // Try up to 20 different topics to ensure we create posts
     
-    for (const topic of selectedTopics) {
+    while (createdCount < numberOfPosts && attempts < maxAttempts) {
+      const topic = getRandomItems(AI_TOPICS, 1)[0];
       const post = createBlogPost(topic);
       const filePath = path.join(contentDir, post.filename);
       
@@ -191,7 +228,17 @@ async function updateBlogContent() {
         createdCount++;
       } else {
         console.log(`⏭️  Skipped: ${post.filename} (already exists)`);
+        // Try with timestamp to make it unique
+        const timestampedPost = createBlogPost(`${topic} - ${new Date().getTime()}`);
+        const timestampedPath = path.join(contentDir, timestampedPost.filename);
+        
+        if (!fs.existsSync(timestampedPath)) {
+          fs.writeFileSync(timestampedPath, timestampedPost.content, 'utf8');
+          console.log(`✅ Created with timestamp: ${timestampedPost.filename}`);
+          createdCount++;
+        }
       }
+      attempts++;
     }
 
     console.log(`\n🎉 Content update completed!`);
