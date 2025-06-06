@@ -505,6 +505,12 @@ export async function sendWelcomeEmail(subscriber: Subscriber): Promise<boolean>
       return true; // Return true to not fail the subscription
     }
     
+    // Additional check for dummy/test keys
+    if (resendApiKey && resendApiKey.includes('dummy')) {
+      console.log('Using dummy API key, skipping welcome email');
+      return true;
+    }
+    
     const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://aivibe.vercel.app';
     
     const welcomeHtml = `
@@ -658,15 +664,20 @@ export async function sendWelcomeEmail(subscriber: Subscriber): Promise<boolean>
 </html>
     `.trim();
     
-    await resend.emails.send({
-      from: 'AIVibe <welcome@aivibe.com>',
-      to: subscriber.email,
-      subject: '🤖 Welcome to AIVibe - Your AI Journey Starts Now!',
-      html: welcomeHtml,
-    });
-    
-    console.log(`Welcome email sent to: ${subscriber.email}`);
-    return true;
+    try {
+      await resend.emails.send({
+        from: 'AIVibe <welcome@aivibe.com>',
+        to: subscriber.email,
+        subject: '🤖 Welcome to AIVibe - Your AI Journey Starts Now!',
+        html: welcomeHtml,
+      });
+      
+      console.log(`Welcome email sent to: ${subscriber.email}`);
+      return true;
+    } catch (emailError) {
+      console.log(`Email API error (continuing anyway): ${emailError.message}`);
+      return true; // Return true to not fail the subscription
+    }
     
   } catch (error) {
     console.error(`Failed to send welcome email to ${subscriber.email}:`, error);
