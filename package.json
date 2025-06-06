@@ -15,6 +15,8 @@
     "final-cleanup": "node scripts/final-cleanup.js",
     "test-unlimited": "node scripts/test-unlimited-simple.js",
     "test-email": "node scripts/test-email-system.js",
+    "test-content-update": "node scripts/test-content-update.js",
+    "update-content": "node scripts/update-content.js",
     "prepare-deploy": "node scripts/prepare-deployment.js",
     "deploy-ready": "npm run generate-posts && npm run build"
   },

@@ -1,0 +1,65 @@
+name: Daily Content Update v2
+
+on:
+  schedule:
+    # Run every day at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  update-content:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Generate new content
+        run: |
+          echo "🚀 Running content update script..."
+          node scripts/update-content.js
+      
+      - name: Check for changes
+        id: changes
+        run: |
+          if [ -n "$(git status --porcelain content/posts/)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "Found new content files"
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+            echo "No new content files"
+          fi
+      
+      - name: Commit and push changes
+        if: steps.changes.outputs.changes == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Auto-update: Add new AI & automation content ${{ github.run_id }}'
+          file_pattern: 'content/posts/*.md'
+          commit_user_name: 'github-actions[bot]'
+          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
+      
+      - name: Summary
+        run: |
+          if [ "${{ steps.changes.outputs.changes }}" == "true" ]; then
+            echo "✅ Content updated and committed successfully"
+          else
+            echo "ℹ️ No new content to update"
+          fi
