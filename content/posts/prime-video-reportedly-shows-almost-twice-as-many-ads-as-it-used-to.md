@@ -1,0 +1,20 @@
+---
+title: Prime Video reportedly shows almost twice as many ads as it used to
+date: '2025-06-11'
+excerpt: >-
+  If it feels like you spend a lot more time watching ads in Prime Video than
+  you used to, that may not be a mistake. Amazon has increased the number of...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Finance
+source: >-
+  https://www.engadget.com/entertainment/streaming/prime-video-reportedly-shows-almost-twice-as-many-ads-as-it-used-to-210650918.html?src=rss
+---
+<p>If it feels like you spend a lot more time watching ads in <a href="https://tech.yahoo.com/streaming/review/amazon-prime-video-review-132835305.html" data-autolinker-wiki-id="Amazon_Prime_Video" data-original-link="">Prime Video</a> than you used to, that may not be a mistake. Amazon has increased the number of ads or &quot;ad load&quot; in Prime Video to four-to-six minutes of ads per hour, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.adweek.com/media/amazon-doubles-prime-video-ad-load/"><em>Adweek </em>reports</a>. Amazon&#39;s plan to increase the amount of advertising in its <a href="https://tech.yahoo.com/streaming/" data-autolinker-wiki-id="Streaming_media" data-original-link="">streaming service</a> was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/big-tech/more-ads-are-coming-to-amazon-prime-video-182906957.html">previously reported</a> in October 2024.</p>
+<p>Shifting to a max of six minutes of ads per hour is nearly double the up to three-and-a-half minutes of ads that could play when Amazon first converted its basic Prime Video subscription to an ad-supported tier. The company used to offer all of Prime Video&#39;s features and an ad-free experience for the cost of Amazon Prime ($159 per year / $15 per month) or $9 per month, but <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.engadget.com/amazons-prime-video-will-show-ads-unless-you-pay-3-more-per-month-111709384.html">announced at the end of 2023</a> that avoiding ads would cost an extra $3 every month. Besides inserting ads, Amazon&#39;s basic plan also <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/amazon-prime-video-wont-offer-dolby-vision-and-atmos-on-its-ad-supported-plan-093327322.html">doesn&#39;t support for features</a> like Dolby Atmos and Dolby Vision.</p>
+<span id="end-legacy-contents"></span><p>Engadget has reached out to Amazon to confirm the ad load changes and will update this article if we hear back.</p>
+<p>Regardless of your tolerance for ads, cheaper ad-supported subscriptions have quickly become expected from most streaming services. Netflix, Max, Peacock and <a href="https://tech.yahoo.com/streaming/review/paramount-plus-review-131418624.html" data-original-link="">Paramount</a>+ all offer subscriptions with ads. Even <a href="https://www.yahoo.com/organizations/apple/" data-autolinker-wiki-id="Apple_Inc." data-original-link="">Apple</a>, who could theoretically afford to lose money on subscriptions, reportedly started <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.engadget.com/apples-latest-hire-could-mean-more-ads-are-coming-to-tv-205910347.html">building a team to sell ads</a> for a possible ad-supported tier of <a href="https://tech.yahoo.com/streaming/review/apple-tv-plus-review-110006011.html" data-original-link="">Apple</a> TV+ in 2023.</p>
+<p>While adding more interruptions to the Prime Video experience isn&#39;t what anyone wants, <em>Adweek</em> does note that streaming services still insert far fewer ad breaks than broadcast TV. The ad load on traditional television &quot;typically ranges from 13 to 16 minutes per hour.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/prime-video-reportedly-shows-almost-twice-as-many-ads-as-it-used-to-210650918.html?src=rss
