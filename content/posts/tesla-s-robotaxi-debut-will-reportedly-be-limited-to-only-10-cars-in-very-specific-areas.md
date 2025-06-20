@@ -1,0 +1,22 @@
+---
+title: >-
+  Tesla's robotaxi debut will reportedly be limited to only 10 cars in very
+  specific areas
+date: '2025-06-19'
+excerpt: >-
+  The long-promised launch of Tesla's robotaxi service in Austin is scheduled
+  for June 22, and it sounds like the company's initial offering will be mod...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Transportation
+category: Finance
+source: >-
+  https://www.engadget.com/transportation/teslas-robotaxi-debut-will-reportedly-be-limited-to-only-10-cars-in-very-specific-areas-205802818.html?src=rss
+---
+<p>The <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.engadget.com/transportation/evs/elon-musk-says-tesla-will-launch-a-robotaxi-service-in-austin-this-june-044745591.html">long-promised launch</a> of Tesla's robotaxi service in Austin is <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/transportation/evs/tesla-will-start-offering-public-robotaxi-rides-in-austin-on-june-22-says-elon-musk-161801916.html">scheduled for June 22</a>, and it sounds like the company's initial offering will be modest at best. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.ft.com/content/2ad302c6-febe-448f-9980-17d116d9695a"><em>The Financial Times </em>writes</a> that Tesla will only have around 10 cars available for rides and that the company plans to make them "avoid the city’s most challenging intersections." If issues arise, remote operators will also reportedly be able to take control of the cars to make sure they reach their final destination.</p>
+<p>Tesla CEO Elon Musk told<a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.cnbc.com/video/2025/05/20/elon-musk-confirms-tesla-plan-for-robotaxis-on-austin-roads-in-june.html"> <em>CNBC</em></a> in May that the robotaxi service might launch with less than a dozen cars, so that's not necessarily a surprise, but the actual scope may be even smaller. Analysts <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.nytimes.com/2025/06/18/business/tesla-robotaxi-austin-elon-musk.html"><em>The New York Times</em></a><em>&nbsp;</em>spoke to believe rides in Tesla's robotaxi will only be available to "company employees or invited guests." It could take months before the service is made available to the wider public.</p>
+<span id="end-legacy-contents"></span><p>Musk formally introduced the company's robotaxi service and its <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.engadget.com/transportation/tesla-unveils-its-cybercab-robotaxi-032132013.html">self-driving Cybercab</a> at an event in October 2024, but the idea has been a promised feature for Tesla owners for even longer. The pitch goes that since all Teslas are equipped with the cameras necessary for the company's self-driving system, any of them can be converted into a cab while not in use. Musk believes autonomous transport could be so widespread that it becomes as cheap as mass transit, while being safer than relying on a human driver.</p>
+<p>Whether the company's Full Self Driving system can pull that off is an open question. Tesla is <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://www.engadget.com/transportation/evs/teslas-fsd-is-under-federal-investigation-after-four-reduced-visibility-crashes-140248063.html">currently being investigated</a> by the National Highway Traffic Safety Administration for autonomous driving-related crashes. The company has also <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:8;pos:1" class="no-affiliate-link" href="https://www.engadget.com/transportation/evs/tesla-is-reportedly-blocking-the-city-of-austin-from-releasing-robotaxi-records-155643815.html">reportedly blocked</a> the city of Austin from handing over its robotaxi records, which suggests it's at least somewhat self-conscious about how it will perform.</p>This article originally appeared on Engadget at https://www.engadget.com/transportation/teslas-robotaxi-debut-will-reportedly-be-limited-to-only-10-cars-in-very-specific-areas-205802818.html?src=rss

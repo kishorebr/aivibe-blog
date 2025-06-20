@@ -1,0 +1,20 @@
+---
+title: Samsung SmartTag 2 trackers are 38 percent off ahead of Prime Day
+date: '2025-06-19'
+excerpt: >-
+  You likely have a million things to take with you when you leave the house
+  each day — phone, wallet, keys and much more. Keeping track of it all can b...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/deals/samsung-smarttag-2-trackers-are-38-percent-off-ahead-of-prime-day-130753759.html?src=rss
+---
+<p>You likely have a million things to take with you when you leave the house each day — phone, wallet, keys and much more. Keeping track of it all can be tough, but a Bluetooth tracker can help by monitoring the location of at least a few of your most important items.</p> 
+<p>Right now, one of our favorites is on sale for a near record-low price. The <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0CCC69HN3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=74e679c9-319c-4d60-a9c7-c51f71b301d5&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=Samsung+Galaxy+SmartTag+2&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwQ0NDNjlITjM_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiNzRlNjc5YzktMzE5Yy00ZDYwLWE5YzctYzUxZjcxYjMwMWQ1Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwQ0NDNjlITjMiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAf99-u9TYe4WOJloqO19hqN3pu4Ek8MC73mtjxw64VLy&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CCC69HN3" class="rapid-with-clickid" data-original-link="https://www.amazon.com/dp/B0CCC69HN3?th=1">Samsung Galaxy SmartTag 2</a> is down to just $19 a pop on Amazon, a 38-percent discount from its standard price. We've seen it slightly cheaper recently, but only by a couple of dollars. The main catch here is that only the white option has this steep of a discount. If you want more than one, consider <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:2;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0CCBP3XN8&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=74e679c9-319c-4d60-a9c7-c51f71b301d5&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=the+four-pack+option&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwQ0NCUDNYTjg_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiNzRlNjc5YzktMzE5Yy00ZDYwLWE5YzctYzUxZjcxYjMwMWQ1Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwQ0NCUDNYTjgiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAdOoRcLisPMOF6R67f5YQXRAWVaV9IcVxAJuBrqjG--F&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CCBP3XN8" class="rapid-with-clickid" data-original-link="https://www.amazon.com/dp/B0CCBP3XN8?th=1">the four-pack option</a>, on sale for $88.</p> <span id="end-legacy-contents"></span>
+<p>
+ <core-commerce id="283849d91c834f62a912ee3c8ea8b26b" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0CCC69HN3?th=1"></core-commerce></p> 
+<p>The <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/samsungs-30-galaxy-smarttag-2-arrives-on-october-11-with-an-all-new-design-082947760.html">Samsung Galaxy SmartTag 2</a> is a solid purchase due to features like being IP67-rated water- and dust-resistant, a sizeable keychain hoop and over 16 months of battery life. It also emits a ring louder than competitors like the AirTag or Tile. The only snag is that you must have a Samsung device in order to use it.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/deals/samsung-smarttag-2-trackers-are-38-percent-off-ahead-of-prime-day-130753759.html?src=rss
