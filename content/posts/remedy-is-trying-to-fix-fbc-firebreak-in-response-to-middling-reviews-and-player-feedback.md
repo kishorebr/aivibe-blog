@@ -1,0 +1,23 @@
+---
+title: >-
+  Remedy is trying to fix FBC: Firebreak in response to middling reviews and
+  player feedback
+date: '2025-06-20'
+excerpt: >-
+  Remedy has shared its plans to improve FBC: Firebreak, the new multiplayer
+  Control spinoff, following a string of less-than-stellar reviews that criti...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/gaming/remedy-is-trying-to-fix-fbc-firebreak-in-response-to-middling-reviews-and-player-feedback-203805921.html?src=rss
+---
+<p>Remedy has <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://steamcommunity.com/games/2272540/announcements/detail/536605349656920275">shared its plans</a> to improve <em>FBC: Firebreak, </em>the new multiplayer <em>Control</em> spinoff, following a string of less-than-stellar reviews that criticized the game's rough early hours. <em>FBC: Firebreak</em> was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/gaming/remedys-new-game-is-fbc-firebreak-a-co-op-shooter-in-the-control-universe-180702570.html">announced in October 2024</a> as the first online multiplayer game from Remedy, and another pitstop on the way to an eventual <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.engadget.com/control-2-announcement-platforms-141548453.html"><em>Control 2</em></a><em>.</em></p>
+<p>The <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://steamcommunity.com/games/2272540/announcements/detail/536605349656920273">full patch notes</a> for Remedy's first update are available to view on Steam, but in brief, the biggest change the developer is making is to how missions are unlocked. Previously, <em>Firebreak</em> required players to play a simpler, shorter version of the game's missions (like dealing with multiplying post-it notes or pink goo, for example), before a more complex version of the mission became available. Now those full-fat missions are available from the start, and completing one unlocks the next type. Remedy's update also rebalances the cost of cosmetics and makes it easier to see and find in-game collectibles, among other tweaks.</p>
+<span id="end-legacy-contents"></span><p>The developer is planning to make larger changes to how <em>FBC: Firebreak</em> explains the synergies of in-game weapons and abilities, but those onboarding improvements will take longer to implement. Future updates adding new missions and cosmetics where already planned for the game, so fixes will presumably be worked into the existing roadmap.</p>
+<p>We enjoyed our <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.engadget.com/gaming/fbc-firebreak-preview-controlled-chaos-183106500.html">hands-on time with <em>FBC: Firebreak</em></a>, but reviewers report a less rosy picture after playing the game over a longer period of time. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.eurogamer.net/fbc-firebreak-review"><em>Eurogamer</em></a> found <em>Firebreak</em> charming in Remedy's typical oddball way, but also inconsistent in terms of difficulty. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://www.gamespot.com/reviews/fbc-firebreak-review-controlled-chaos/1900-6418376/"><em>GameSpot</em></a> noted similar messiness in the game's mission design, and also the general lack of explanation for weapons and abilities. The more damning and existential problem highlighted by <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:8;pos:1" class="no-affiliate-link" href="https://www.techradar.com/gaming/fbc-firebreak-review"><em>TechRadar</em></a> is the dearth of story in the game, something that <em>Control</em> generally excelled at. Remedy doesn't appear to have a plan to address any perceived narrative shortcomings in <em>FBC: Firebreak</em>, and since it's a multiplayer game, the company may just have different goals.</p>
+<p><em>FBC: Firebreak</em> is available now for $40 on PlayStation 5, Xbox Series X/S and PC. If you pay for Xbox Game Pass Ultimate or PlayStation Plus Game Catalog, you can play the game at no additional cost.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/remedy-is-trying-to-fix-fbc-firebreak-in-response-to-middling-reviews-and-player-feedback-203805921.html?src=rss
