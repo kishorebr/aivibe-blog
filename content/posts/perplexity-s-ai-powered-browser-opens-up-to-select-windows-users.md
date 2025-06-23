@@ -1,0 +1,19 @@
+---
+title: Perplexity's AI-powered browser opens up to select Windows users
+date: '2025-06-22'
+excerpt: >-
+  Perplexity is planning to open up its Comet browser that's powered by "agentic
+  search" to Windows users, according to the company's CEO. Aravind Srini...
+coverImage: >-
+  https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Openai
+category: Transportation
+source: >-
+  https://www.engadget.com/ai/perplexitys-ai-powered-browser-opens-up-to-select-windows-users-180629870.html?src=rss
+---
+<p>Perplexity is planning to open up its Comet browser that's powered by "agentic search" to Windows users, according to the company's CEO. Aravind Srinivas <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://x.com/AravSrinivas/status/1936578563672817781">posted on X</a> that the Windows build of Comet is ready and has sent out invites to early testers already. Perplexity's CEO also hinted at a potential release for Android devices, adding that it was "moving at a crazy pace and moving ahead of schedule."</p>
+<p>In May, Perplexity launched a beta version of its AI-powered Comet browser, only available to Mac users running <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/the-mac-turns-40-how-apple-silicon-cured-its-midlife-crisis-161520642.html">Apple Silicon</a>. The intelligent browser comes with AI features baked in, like the ability to ask it questions, check shopping carts for discounts and dig up unanswered emails. The beta version even showcases a "<a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://x.com/testingcatalog/status/1936174666453758431">Try on</a>" feature where users can upload a photo of themselves and Comet will generate an image of them wearing a selected piece of clothing.</p>
+<span id="end-legacy-contents"></span><p>There's still no official debut set, but Srinivas previously hinted at an upcoming release in <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://x.com/AravSrinivas/status/1936135755077988808">an X post</a> earlier this month. Comet is still only offering a waitlist for those interested, but the browser has already stirred up controversy. The company's CEO previously <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/perplexity-is-building-a-browser-in-part-to-collect-customer-data-for-targeted-ads-230132091.html">made comments</a> during a podcast interview that Perplexity would use Comet "to get data even outside the app to better understand you." Srinivas <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://x.com/AravSrinivas/status/1915532930270503290">later clarified on X</a> that the comment was taken out of context, adding that "every user will be given the option to not be part of the personalization" when it comes to targeted ads. When Comet is released, the agentic browser will face competition from <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/operas-new-fully-agentic-browser-can-surf-the-web-for-you-145035874.html">Opera Neon</a> and similar offerings from Google and <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:8;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/openais-operator-can-surf-the-web-for-you-210029243.html">OpenAI</a>.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/perplexitys-ai-powered-browser-opens-up-to-select-windows-users-180629870.html?src=rss
