@@ -1,0 +1,23 @@
+---
+title: Neither AI nor E Ink can make touchscreen trackpads a good idea
+date: '2025-07-03'
+excerpt: >-
+  E Ink, the company behind the highly readable displays you'll find in ereaders
+  the world over, has created a new touchscreen trackpad for some reason....
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Tools
+category: General AI
+source: >-
+  https://www.engadget.com/computing/laptops/neither-ai-nor-e-ink-can-make-touchscreen-trackpads-a-good-idea-202505733.html?src=rss
+---
+<p>E Ink, the company behind the highly readable displays you'll find in ereaders the world over, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.eink.com/news/detail/E-Ink-Utilizes-Intel-Smart-Base%20to-Launch-Innovative-ePaper-with-Touch-Enabled-Application">has created</a> a new touchscreen trackpad for some reason. And rather than act as an extension of your laptop's screen, E Ink thinks it should be a dedicated home for AI interactions.</p>
+<p>The new touchscreen trackpad appears to use a color E Ink display, not unlike what you'll find on the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/kobos-new-ereaders-include-its-first-with-color-displays-040153210.html">Kobo Libra Colour</a> or the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.engadget.com/mobile/tablets/kindle-colorsoft-review-the-missing-link-in-amazons-ereader-lineup-131529685.html">Kindle Colorsoft</a>, and is supposed to offer the normal swiping, tapping, dragging and clicking functionality of a normal trackpad. When you're not using it like that, E Ink imagines the trackpad offering "second-screen capabilities," like quick access to "frequently used shortcuts and system notifications and GenAI contents like text/image summaries, gaming tactics, or custom AI tasks."</p>
+<span id="end-legacy-contents"></span><p>E Ink says it leveraged several different Intel technologies to prototype its AI tools, and it specifically designed the trackpad so it's useable even if your laptop is off. Unfortunately, that doesn't make the idea of cramming a touchscreen into a laptop trackpad any less whack.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/3685d4d0-584a-11f0-a3db-5901c1fb42a5" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/3685d4d0-584a-11f0-a3db-5901c1fb42a5" style="height:1440px;width:2560px;" alt="A closeup of the E Ink touchscreen trackpad." data-uuid="538fd5ca-d1aa-3b53-b09c-8d0be3ef5f0b"><figcaption></figcaption><div class="photo-credit">E Ink</div></figure>
+<p>Using an E Ink display is novel, sure, but plenty of attempts have been made to turn the seemingly untapped resource of the trackpad into another place for content, and none of them have caught on. ASUS in particular has taken multiple bites at the apple with its <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/2019-05-27-asus-screenpad-2-0-touchscreen-trackpad-hands-on.html">ScreenPad feature</a>, which it first introduced on the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.engadget.com/2018-06-05-asus-zenbook-pro-15-screenpad.html">ZenBook Pro 15</a>. The ScreenPad could be an extension of your main display, but it also ran simple apps and widgets. E Ink believes one of the advantages of its trackpad is that it'll consume less power than those previous versions, but was anyone worried about a laptop's trackpad affecting its battery life before they also had to be screens?</p>
+<p>Putting a display in a trackpad<a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.engadget.com/2018-06-05-asus-zenbook-pro-screenpad-touchpad-touchscreen.html"> isn't going to be the reason</a> anyone upgrades to a premium laptop. Beyond that, it's just not intuitive. You have to both learn to look down to see what's on the trackpad and learn not to cover it, something hands naturally do while using a laptop.&nbsp;</p>
+<p>If you're not dissuaded, E Ink hasn't actually shared when its trackpad will be available. Given the use of the Intel tech, though, odds are good it shows up in an expensive "AI PC" at some point in the future.</p>This article originally appeared on Engadget at https://www.engadget.com/computing/laptops/neither-ai-nor-e-ink-can-make-touchscreen-trackpads-a-good-idea-202505733.html?src=rss

@@ -1,0 +1,28 @@
+---
+title: MindsEye dev warns staff about layoffs amid talk of saboteurs and 'relaunch'
+date: '2025-07-03'
+excerpt: >-
+  Microsoft isn't the only gaming company talking about layoffs this week.
+  MindsEye developer Build a Rocket Boy (BARB) notified around 300 employees
+  th...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Finance
+  - Work
+category: Finance
+source: >-
+  https://www.engadget.com/gaming/mindseye-dev-warns-staff-about-layoffs-amid-talk-of-saboteurs-and-relaunch-183934780.html?src=rss
+---
+<p>Microsoft isn't the only gaming company talking about layoffs this week. <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/gaming/clones-sandworms-scrapbooking-and-other-new-indie-games-worth-checking-out-110031834.html"><em>MindsEye</em></a> developer Build a Rocket Boy (BARB) notified around 300 employees that they risk losing their jobs. However, the drama doesn't end there. The studio has reportedly blamed saboteurs for its woes… again.</p>
+<p>BARB workers posted on LinkedIn this week about receiving "risk of redundancy" emails. (That followed confirmation last month that the company formally <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.ign.com/articles/mindseye-developer-build-a-rocket-boy-begins-layoff-process-amid-disastrous-launch-studio-sources-say">began</a> a layoff process.)</p>
+<span id="end-legacy-contents"></span><p>Unfortunately, layoffs are par for the course these days. As for the rest of BARB's story? That's where things get weird.</p>
+<p><em>IGN</em> <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.ign.com/articles/mindseye-devs-uk-workforce-of-around-300-receive-at-risk-emails-as-former-gta-lead-leslie-benzies-finally-addresses-staff">reported</a> that BARB founder Leslie Benzies addressed staff in a video call this week. (He's a former Rockstar North president and GTA producer.) Benzies is said to have blamed BARB's and <em>MindsEye</em>'s problems on internal and external saboteurs.</p>
+<p>That echoes comments made by co-CEO Mark Gerhard ahead of <em>MindsEye</em>'s launch. He <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.eurogamer.net/mindseye-boss-claims-games-negative-reaction-ahead-of-release-has-been-paid-for-in-concerted-effort-against-studio">claimed</a> pre-release negative feedback was "100 percent" financed by someone. Who did Gerhard blame? Well, he didn't say outright. But he seemed to hint that Rockstar was involved. "Doesn't take much to guess who," he said. (Benzies <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/2016-01-12-rockstar-north-gta-boss-leslie-benzies-resigns.html">departed the GTA developer</a> on rocky terms, legal disputes in tow.)</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/a1420010-583a-11f0-bfef-eb78a65ac335" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/a1420010-583a-11f0-bfef-eb78a65ac335" style="height:1080px;width:1920px;" alt="Over-the-shoulder view of the game MindsEye's protagonist shooting at drones." data-uuid="b66bf476-f841-3645-ad19-a051a3ef8b37"><figcaption></figcaption><div class="photo-credit">BARB / IOI</div></figure>
+<p>In yesterday's call, Benzies also reportedly vowed to relaunch <em>MindsEye</em>. That's a tough trick to pull off. Just look at the industry's few success stories. <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/2013-02-21-the-battle-is-joined-starting-new-and-fighting-through-final-fa.html"><em>Final Fantasy XIV</em></a> is part of an established franchise that has been a gaming household name for decades. And then you have titles like <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/gaming/playstation/no-mans-sky-update-adds-billions-of-stars-and-even-more-planets-165102362.html"><em>No Man's Sky</em></a> and <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/cyberpunk-2077s-free-20-update-arrives-september-21-064242975.html"><em>Cyberpunk 2077</em></a> that were gradually updated. They both arrived with considerably more interest from the gaming world than <em>MindsEye</em>. The latter's appeal largely came from Benzies' involvement. Will that even carry much weight after all the drama surrounding the launch?</p>
+<p>That isn't to say <em>MindsEye</em> couldn't improve dramatically and find a following. The single-player action-adventure game has a noticeable GTA influence, which will appeal to many. Criticism was aimed at its bugs (fixable), well-worn storyline (greedy humans and robot armies) and gameplay (drive, shoot, repeat). But it also has impressive cinematics and a tight linear arc. A tighter, bug-free version could scratch an itch for fans of Cyberpunk and Watch Dogs.</p>
+<p><em>MindsEye</em> is also published by IO Interactive, which worked on <a data-i13n="cpos:9;pos:1" href="https://www.engadget.com/gaming/hitman-world-of-assassination-is-coming-to-ios-and-table-tops-160036401.html"><em>Hitman: World of Assassination</em></a> for years after launch. If BARB can hustle to regain players' trust, perhaps it could at least live to fight another day.</p>
+<p>Still, <em>MindsEye</em>'s list of ingredients doesn't exactly scream "gamers will come back." And with around 300 fewer employees working on it, that's an even taller order.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/mindseye-dev-warns-staff-about-layoffs-amid-talk-of-saboteurs-and-relaunch-183934780.html?src=rss
