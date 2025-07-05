@@ -1,0 +1,22 @@
+---
+title: Fairphone 6 lands a perfect 10 for repairability
+date: '2025-07-04'
+excerpt: >-
+  Dutch company Fairphone continues to lead the charge on consumer- and
+  planet-friendly electronics, proving that a great phone doesn't have to be
+  impos...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/mobile/fairphone-6-lands-a-perfect-10-for-repairability-190001687.html?src=rss
+---
+<p>Dutch company Fairphone continues to lead the charge on consumer- and planet-friendly electronics, proving that a great phone doesn't have to be impossible to repair or environmentally unsustainable. The <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/mobile/smartphones/the-modular-fairphone-6-offers-two-day-battery-life-and-a-modern-design-143634840.html">Fairphone 6</a> has just been released, coming two years after the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/fairphone-5-is-boring-how-exciting-094530738.html">last generation</a> of the phone built to last. The folks over at <a data-i13n="elm:affiliate_link;sellerN:ifixit;elmt:;cpos:3;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=c00d85db-85fb-45f3-a540-57642aa8e3f6&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=2dfbaa06-8ca9-482e-83fa-8e7ee8abff3d&amp;featureId=text-link&amp;merchantName=ifixit&amp;linkText=iFixit+wasted+no+time&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5pZml4aXQuY29tL05ld3MvMTExNjEzL2ZhaXJwaG9uZS02LXRlYXJkb3duLXByb29mLXBob25lcy1kb250LWhhdmUtdG8tYmUtZGlzcG9zYWJsZSIsImNvbnRlbnRVdWlkIjoiMmRmYmFhMDYtOGNhOS00ODJlLTgzZmEtOGU3ZWU4YWJmZjNkIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5pZml4aXQuY29tL05ld3MvMTExNjEzL2ZhaXJwaG9uZS02LXRlYXJkb3duLXByb29mLXBob25lcy1kb250LWhhdmUtdG8tYmUtZGlzcG9zYWJsZSJ9&amp;signature=AQAAAYQ5wf0Tmyj0NuFWW5WDLk8CQtmCGq8SoPCgJxgI1Sv_&amp;gcReferrer=https%3A%2F%2Fwww.ifixit.com%2FNews%2F111613%2Ffairphone-6-teardown-proof-phones-dont-have-to-be-disposable" class="rapid-with-clickid" data-original-link="https://www.ifixit.com/News/111613/fairphone-6-teardown-proof-phones-dont-have-to-be-disposable">iFixit wasted no time</a> in conducting a teardown of this new entry to see how it stacks up against previous generations. The Fairphone 6 scored a perfect 10 out of 10, like every generation of Fairphone bar the very first.</p>
+<p>Fairphones are modular, and have been designed with easy repair in mind, but there is one change from the previous generations that makes things harder. Whereas the last few Fairphones have used hard batteries that could be flipped out with your fingernail, the new handset packs a soft-pouch cell that’s thinner than its predecessors. That’s slimmed the phone down, but it does mean the battery is now held in place with five screws.</p>
+<span id="end-legacy-contents"></span><div id="aba7427f07a245d994d7cf360280cd0a"><iframe src="https://www.youtube.com/embed/bXseyTdynCo?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="www.youtube.com"></iframe></div>
+<p>It’s the same with every other component on the handset, since none of the components are held in with glue. The lack of adhesives does account for the phone’s IP 55 rating, which is lower than the rest of the industry. But given you can’t exactly get Samsung to send you a <a data-i13n="cpos:4;pos:1" href="https://support.fairphone.com/hc/en-us/articles/24590029621138-The-Fairphone-Gen-6-Replace-a-Spare-Part">video guide</a> telling you how to open your phone with nothing more than a T5 Torx screwdriver, so there’s give and take.</p>
+<p>iFixit is quick to point out that the Fairphone 6 isn’t a bleeding-edge smartphone, nor is it intended to be. It’s designed from the ground up to be as sustainable and repair-friendly as possible, and this means some trade-offs compared with flagship devices. The Fairphone 6’s use of USB 2.0, a less pixel-dense screen, and only 8GB of RAM are all necessary design choices when built with longer life cycles in mind. Nevertheless, this almost certainly won’t affect the day-to-day use of the handset for most consumers, and owning a device you can truly repair yourself just might be worth it.</p>
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/mobile/fairphone-6-lands-a-perfect-10-for-repairability-190001687.html?src=rss
