@@ -1,0 +1,35 @@
+---
+title: >-
+  Donkey Kong Bananza's creators reflect on the game's path to delightful
+  destruction
+date: '2025-07-16'
+excerpt: >-
+  On Tuesday, Nintendo published an interview with the creators of Donkey Kong
+  Bananza. The second big Switch 2 tentpole title comes from the team that...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/gaming/nintendo/donkey-kong-bananzas-creators-reflect-on-the-games-path-to-delightful-destruction-201600462.html?src=rss
+---
+<p>On Tuesday, Nintendo published an interview with the creators of <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/gaming/nintendo/donkey-kong-bananza-hands-on-a-funky-fresh-take-on-nintendos-favorite-ape-130057272.html"><em>Donkey Kong Bananza</em></a>. The second big <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/gaming/nintendo/nintendo-switch-2-review-more-of-what-you-love-120048430.html">Switch 2</a> tentpole title comes from the team that made <em>Super Mario Odyssey</em>. The developers explained how they laid the foundation for DK's first 3D adventure since the Nintendo 64 era.</p>
+<p>Destruction is at the heart of <em>Donkey Kong Bananza</em>. Everything in his environment can be smashed to bits. Not only is that a fun mechanic, but it also adds an element of verticality and freedom of exploration. That's an ideal fit for showcasing the Switch 2's processing power.</p>
+<span id="end-legacy-contents"></span><figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/2391ff10-627d-11f0-bfff-29d4b5b92668" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/2391ff10-627d-11f0-bfff-29d4b5b92668" style="height:1434px;width:2550px;" alt="Cinematic still from the game Donkey Kong Bananza. DK furiously breaking rocks while adorned in banana garb." data-uuid="25504c25-7254-383c-800c-d761f251ab9c"><figcaption></figcaption><div class="photo-credit">Nintendo</div></figure>
+<p>As with so many other Nintendo creations, the first step in getting there was a no-brainer. Consult with Shigeru Miyamoto.</p>
+<p>"We'd built up a lot of expertise in gameplay development for 3D action games through our work on 3D Mario games, including <em>Super Mario Odyssey</em>," producer Kenta Motokura said. "But we needed to dive deeper into the fundamental question of 'What is Donkey Kong?' So, our first step was to seek out Miyamoto-san and Nintendo Executive Officer Yoshiaki Koizumi."</p>
+<p>In their talk, Miyamoto emphasized DK's moves like hand slaps and blowing. Along similar lines, Koizumi pointed to the ape's massive arms, which he uses to punch and hoist heavy objects. That got the team thinking. After all, who doesn't want to control a giant ape who runs around, breaking shit?</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/c1c51c80-627d-11f0-9fcf-7e7e62c0419c" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/c1c51c80-627d-11f0-9fcf-7e7e62c0419c" style="height:635px;width:1129px;" alt="Donkey Kong Country Returns gameplay still. DK slapping a platform." data-uuid="3d1063cd-79bb-3ce4-b1b3-36a3ac09b80d"><figcaption>DK slapping a platform in the 2010 game <em>Donkey Kong Country Returns. </em>Shigeru Miyamoto emphasized the move as a starting point for the new version.</figcaption><div class="photo-credit">Nintendo / Retro</div></figure>
+<p>The <em>Super Mario Odyssey</em> team was uniquely suited to handle that challenge. First, the 2017 title included some light environmental destruction. (Think the cheese rocks in the Luncheon Kingdom and Bowser's smashing in the final level.)</p>
+<p>The team experimented with fully destructible environments soon after <em>Odyssey</em>'s release. (That was long before they knew they'd make a Donkey Kong game.) That included the adorably strange idea of putting smashing fists on a Goomba and setting it loose. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-19-donkey-kong-bananza-part-2/">Part two</a> of the interview includes a short video of one of these tests.</p>
+<p>On a technical level, the key to that mechanic is using voxels (3D pixels). "In <em>Super Mario Odyssey</em>, we started using voxels midway through development, so the areas where we could apply them were limited," Motukura said. "But the trial and error we went through back then directly led to what we were able to do in <em>Donkey Kong Bananza</em>."</p>
+<p>Another interesting tidbit from the interview is that they started working on the game as a Switch 1 title. "We originally began developing <em>Donkey Kong Bananza</em> on Nintendo Switch, but we ran into some challenges," Motokura said. "I think it was around 2021 when we started to think about moving development to Switch 2." In the comparison image below, you can see a much richer environment in the Switch 2 version.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/8323d3d0-627e-11f0-bf6b-784c97f2af3a" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/8323d3d0-627e-11f0-bf6b-784c97f2af3a" style="height:675px;width:1200px;" alt="A side-by-side view of Donkey Kong Bananza on Switch and Switch 2. The latter has a much richer environment." data-uuid="767340c2-ad5d-33bd-8855-c5562d472030"><figcaption></figcaption><div class="photo-credit">Nintendo</div></figure>
+<p>Art director Daisuke Watanabe explained that the new console's hardware opened new doors. "We first looked into how we could upgrade what we'd originally built for Switch to take advantage of Switch 2," Watanabe said. "One of the most obvious improvements was that we could place far more objects in the environment than before. Being able to place more objects in the terrain didn't just enhance the game's visual richness. More importantly, it increased the amount of things players could destroy, which amplified the exhilaration of being able to demolish anything and everything."</p>
+<p>There are many more nuggets in Nintendo's interview. This includes animal transformations and Pauline's role in the game. (She must be the forgiving type, given how they started.) The chat also explores how DK's modern art style evolved.</p>
+<p>You can visit <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-19-donkey-kong-bananza-part-1/">Nintendo's website</a> for the full lowdown. <em>Donkey Kong Bananza</em> will be available tomorrow, July 17.</p>
+<div id="5cbf41ea63b64b89bac8fd75184a6c61"><iframe width="560" height="315" src="https://www.youtube.com/embed/mIddsPkdX9U?si=UdTUROb9oyp7zCFv" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/gaming/nintendo/donkey-kong-bananzas-creators-reflect-on-the-games-path-to-delightful-destruction-201600462.html?src=rss
