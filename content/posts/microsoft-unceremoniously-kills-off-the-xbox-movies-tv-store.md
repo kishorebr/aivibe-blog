@@ -1,0 +1,20 @@
+---
+title: Microsoft unceremoniously kills off the Xbox Movies & TV store
+date: '2025-07-18'
+excerpt: >-
+  Microsoft has rather abruptly closed down its Movies &amp; TV app, which is
+  accessible on Xbox and Windows PCs via the Microsoft Store. This allowed p...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/entertainment/tv-movies/microsoft-unceremoniously-kills-off-the-xbox-movies-tv-store-171554115.html?src=rss
+---
+<p>Microsoft has rather abruptly closed down its Movies &amp; TV app, which is accessible on Xbox and Windows PCs via the Microsoft Store. This allowed people to rent or buy movies or TV shows natively through their console or computer’s storefront, but in a newly updated <a data-i13n="elm:affiliate_link;sellerN:;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=515b3400-6ea7-4f58-a718-cf982487767b&amp;featureId=text-link&amp;linkText=support&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3N1cHBvcnQubWljcm9zb2Z0LmNvbS9lbi1nYi93aW5kb3dzL3dhdGNoLW1vdmllcy1hbmQtdHYtc2hvd3Mtb24tdGhlLW1pY3Jvc29mdC1tb3ZpZXMtdHYtYXBwLTU5MzI4NDIyLTA1M2YtMzBiMy04NDNhLWY4Nzc0NTY3YTg1ZSNjdyIsImNvbnRlbnRVdWlkIjoiNTE1YjM0MDAtNmVhNy00ZjU4LWE3MTgtY2Y5ODI0ODc3NjdiIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3N1cHBvcnQubWljcm9zb2Z0LmNvbS9lbi1nYi93aW5kb3dzL3dhdGNoLW1vdmllcy1hbmQtdHYtc2hvd3Mtb24tdGhlLW1pY3Jvc29mdC1tb3ZpZXMtdHYtYXBwLTU5MzI4NDIyLTA1M2YtMzBiMy04NDNhLWY4Nzc0NTY3YTg1ZSNjdyJ9&amp;signature=AQAAATDYpqXqtrob2GvUq6tNDws6aTspWcQSL6CCIS18dNfG&amp;gcReferrer=https%3A%2F%2Fsupport.microsoft.com%2Fen-gb%2Fwindows%2Fwatch-movies-and-tv-shows-on-the-microsoft-movies-tv-app-59328422-053f-30b3-843a-f8774567a85e%23cw" class="rapid-with-clickid" data-original-link="https://support.microsoft.com/en-gb/windows/watch-movies-and-tv-shows-on-the-microsoft-movies-tv-app-59328422-053f-30b3-843a-f8774567a85e#cw">support</a> page Microsoft said the service has ended.</p>
+<p>"Microsoft no longer offers new entertainment content for purchase, including movies and TV shows, on Microsoft.com, Microsoft Store on Windows, and the Microsoft Store on Xbox" the statement reads. "However, you can continue to access your purchased content in the Movies &amp; TV app on Xbox or Windows device."</p>
+<span id="end-legacy-contents"></span><p>Microsoft added that downloaded movies and shows will remain in your account and continue to play in their maximum supported resolution, but there’s no way of moving your purchased content to another service. However, you can sign up for <a data-i13n="cpos:2;pos:1" href="https://moviesanywhere.com/home">Movies Anywhere</a>, a service that lets you register movies that you purchased on different storefronts and sync them to other ones so you aren’t locked into one platform. According to the Microsoft support page, it’s still possible to do this with your Movies &amp; TV purchases if you’re in the US.</p>
+<p>You can also continue to install other third-party video streaming and purchasing apps on both the Xbox and Windows stores, including Prime Video and Apple TV, and right now nothing is changing with those. The company does not offer refunds on previous purchases.</p>
+<p>Microsoft Movies &amp; TV was first introduced as Xbox Video in 2012, which replaced the Zune Video Marketplace it had been operating since 2006. It was Microsoft’s answer to the likes of Apple’s iTunes Store and Amazon’s various on-demand offerings. Microsoft also made a concerted effort to position the ill-fated Xbox One, which first launched in 2013, as an all-in-one multimedia box, but today’s closure of the Movies &amp; TV app is yet another sign that it has now completely moved on from that era.</p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/tv-movies/microsoft-unceremoniously-kills-off-the-xbox-movies-tv-store-171554115.html?src=rss
