@@ -1,0 +1,21 @@
+---
+title: The Pixel Watch 4 might charge via a wireless charging stand
+date: '2025-07-24'
+excerpt: >-
+  The Pixel Watch 4 could use an entirely different charging system when its
+  officially announced in a few weeks, according to leaked renders from Andro...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/wearables/the-pixel-watch-4-might-charge-via-a-wireless-charging-stand-193621297.html?src=rss
+---
+<p>The Pixel Watch 4 could use an entirely different charging system when its officially announced in a few weeks, according to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.androidheadlines.com/google-pixel-watch-4-charging">leaked renders from <em>Android Headlines</em></a>. Rather than charging through fiddly pogo pins like past Pixel Watches, the renders suggest Google might finally adopt a simpler form of wireless charging.</p>
+<p>The renders show the new Pixel Watch charging in a stand on its side, while displaying the current charge, the time and an upcoming alarm, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://support.apple.com/en-za/guide/watch/apd27ce65478/watchos#:~:text=Set%20up%20Apple%C2%A0Watch%20as%20a%20nightstand%20clock%20with%20alarm">not unlike an Apple Watch</a>. The stand reportedly powers up the smartwatch through conductive metal contacts on the left side, opposite the Pixel Watch 4&#39;s crown. The new charging contacts were visible in <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.engadget.com/wearables/the-pixel-watch-4-could-be-thicker-and-offer-wireless-charging-164555210.html">an earlier leak of the Pixel Watch 4</a>, which also suggested the new smartwatch could be thicker than the Pixel Watch 3.</p>
+<span id="end-legacy-contents"></span><figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/82e04cc0-68c1-11f0-ace7-a9f38efaca41" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/82e04cc0-68c1-11f0-ace7-a9f38efaca41" style="height:1440px;width:2560px;" alt="A render of a Pixel Watch 4 charging stand with a USB-C connector on one side and the stand on the other." data-uuid="9606f1d2-d779-3ae7-9912-21d6c82cda93"><figcaption></figcaption><div class="photo-credit">Android Headlines</div></figure>
+<p><em>Android Headlines</em> reports that Google&#39;s decision to change how the watch charges could unlock several new benefits. The Pixel Watch 4 will reportedly have a &quot;25 percent faster charging speed,&quot; room for new sensors and a design that&#39;s easier to repair than past Pixel Watches, thanks to a removable back plate.</p>
+<p>The new watch is also rumored to feature <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.androidheadlines.com/google-pixel-watch-4-specs">a brighter display</a> and <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.androidheadlines.com/google-pixel-watch-4">come in new colors</a>. You can buy the Pixel Watch 3 in Polished Silver, Champagne Gold or Matte Black, in both 41mm and 45mm sizes. The Pixel Watch 4 will reportedly come in black, silver, gold and a blueish-gray &quot;Moonstone.&quot;</p>
+<p>Google is expected to debut the Pixel Watch 4 alongside several new Pixel 10 phones <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.engadget.com/mobile/smartphones/the-next-made-by-google-event-better-known-as-the-pixel-launch-is-set-for-august-20-162832319.html">on August 20</a>. You can read <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://www.engadget.com/mobile/smartphones/what-to-expect-at-the-google-pixel-10-launch-event-on-august-20-214510264.html">Engadget&#39;s preview</a> of what Google might announce for an overview of what to expect at the event.</p>This article originally appeared on Engadget at https://www.engadget.com/wearables/the-pixel-watch-4-might-charge-via-a-wireless-charging-stand-193621297.html?src=rss
