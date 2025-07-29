@@ -1,0 +1,20 @@
+---
+title: Sony sues Tencent over its Horizon Zero Dawn clone
+date: '2025-07-28'
+excerpt: >-
+  Sony is suing Tencent for copying nearly every aspect of its Horizon games for
+  the upcoming Light of Motiram, an open-world hunting game with some obv...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Finance
+source: >-
+  https://www.engadget.com/gaming/sony-sues-tencent-over-its-horizon-zero-dawn-clone-191009077.html?src=rss
+---
+<p>Sony is suing Tencent for copying nearly every aspect of its Horizon games for the upcoming <em>Light of Motiram</em>, an open-world hunting game with some obvious similarities to Sony&#39;s franchise, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.reuters.com/legal/litigation/sony-sues-tencent-allegedly-ripping-off-horizon-video-games-2025-07-28/">as first reported by <em>Reuters</em></a>. Tencent first announced the new game <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/gaming/pc/a-new-game-from-tencent-looks-like-a-pretty-blatant-horizon-ripoff-174935880.html">in November 2024</a>.</p>
+<p>The lawsuit goes into detail on the various ways Tencent&#39;s new game appears to be unlawfully copying memorable aspects of <em>Horizon Zero Dawn</em>, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.engadget.com/horizon-forbidden-west-review-water-robot-dinos-080126554.html"><em>Horizon Forbidden West</em></a> and <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/lego-horizon-adventures-might-be-sonys-most-important-game-of-the-year-160026354.html"><em>Lego Horizon Adventures</em></a><em>. </em>That include the basic setup of the game (a post-apocalyptic setting where tribes of humans coexist with machines), the visual appearance of <em>Light of Motiram</em>&#39;s<em>&nbsp;</em>characters and even how Sony presents the franchise online. It all adds up to what Sony describes as a &quot;slavish clone&quot; of the Horizon franchise, something Engadget and other publications easily clocked when Tencent first announced the game.</p>
+<span id="end-legacy-contents"></span><figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/c1ec11a0-6be2-11f0-b6ee-c7e9102dabd5" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-07/c1ec11a0-6be2-11f0-b6ee-c7e9102dabd5" style="height:1440px;width:2560px;" alt="An image of a Light of Motiram banner and a Horizon Zero Dawn banner. Both feature female character, robot animals and natural landscapes." data-uuid="3beee181-52e3-3bc5-8cc1-79b6a3708b94"><figcaption></figcaption><div class="photo-credit">Sony</div></figure>
+<p>The most damning part of Sony&#39;s lawsuit is its claim that Tencent tried to license the Horizon IP before it even announced <em>Light of Motiram</em>. The company wanted to &quot;develop its own Horizon<em>&nbsp;</em>game in collaboration with SIE (Sony Interactive Entertainment),&quot; Sony claims, and proposed licensing the Horizon IP to create a mobile game that introduced &quot;Eastern aesthetics&quot; and elements like &quot;survival and crafting, pet taming, [multiplayer game modes], etc.&quot; After Sony rejected the offer, Tencent announced <em>Light of Motiram</em> anyway, with many of the mechanics it pitched and using many recognizable visual elements of the Horizon franchise.</p>
+<p>In response to the damage and customer confusion caused by Tencent making <em>Light of Motiram</em>, Sony wants an injunction that prevents Tencent from continuing to develop or release the game, along with money and the destruction of anything related to <em>Light of Motiram</em>. The ball is in Tencent&#39;s court to argue otherwise, which seems like it might be difficult.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/sony-sues-tencent-over-its-horizon-zero-dawn-clone-191009077.html?src=rss
