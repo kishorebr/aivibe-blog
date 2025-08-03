@@ -1,0 +1,19 @@
+---
+title: X has to prove it wasn't negligent when removing CSAM from its site
+date: '2025-08-02'
+excerpt: >-
+  X isn&#39;t off the hook yet when it comes to a significant legal case about
+  child sex abuse content on its platform. On Friday, a circuit judge from...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/big-tech/x-has-to-prove-it-wasnt-negligent-when-removing-csam-from-its-site-173645506.html?src=rss
+---
+<p>X isn&#39;t off the hook yet when it comes to a significant legal case about child sex abuse content on its platform. On Friday, a circuit judge from the US Court of Appeals ruled that X Corp. has to again face claims that it was negligent in taking down child sex abuse content and didn&#39;t have an effective reporting infrastructure for these offenses.</p>
+<p><a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://aboutblaw.com/bi5c">This ruling</a> from Judge Danielle Forrest is the latest step in a lawsuit filed in 2021 against Twitter, before it was <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/twitter-has-officially-moved-to-xcom-120028269.html">rebranded to X</a>. The suit lists two underage boys as the plaintiffs and alleges Twitter, now X, &quot;slow-walked its response to reports about, and did not immediately remove from the platform, pornographic content that a trafficker had coerced plaintiffs into producing.&quot;</p>
+<span id="end-legacy-contents"></span><p>A previous decision with a three-judge panel unanimously decided that X was legally immune thanks to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.engadget.com/a-bipartisan-bill-is-looking-to-end-section-230-protections-for-tech-companies-055356915.html">Section 230</a> of the Communications Decency Act, which offers wide-reaching protections to online platforms from the content that&#39;s posted by its users. This latest decision from Judge Forrest agrees with parts of the previous ruling, but claims that X was negligent in this case and has to defend itself against the lawsuit&#39;s claims that the platform makes it &quot;too difficult to report child pornography that is posted on Twitter.&quot;</p>
+<p>The case revolves around a 13-year-old and a 14-year-old boy who were tricked by online sex traffickers into sending sexually explicit photos, according to the lawsuit. The illegal content was then posted to Twitter, and the 13-year-old filed a report against it through Twitter&#39;s content reporting interface, as detailed in the suit. The boy&#39;s mother also filed a report, didn&#39;t receive anything but an automated response, and had to follow up before receiving a response that Twitter didn&#39;t find any policy violations and wouldn&#39;t take further action, according to the lawsuit. The suit claimed that Twitter eventually removed the post nine days after the initial report, suspended the poster&#39;s account and reported the content to the National Center for Missing and Exploited Children, which is required by federal law. The lawsuit could set a major precedent in how social media platforms operate, especially if it makes it to the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/social-media/supreme-court-upholds-tiktok-ban-150901494.html">Supreme Court</a>, but X will first have to defend itself against these claims again in district court thanks to this latest decision.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/x-has-to-prove-it-wasnt-negligent-when-removing-csam-from-its-site-173645506.html?src=rss
