@@ -1,0 +1,21 @@
+---
+title: Rivian sues Ohio DMV over partial ban on direct car sales
+date: '2025-08-04'
+excerpt: >-
+  Rivian has filed a lawsuit against Ohio&#39;s Department of Motor Vehicles
+  because of the state&#39;s partial ban on direct car sales, The Verge repor...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Transportation
+category: Work
+source: >-
+  https://www.engadget.com/transportation/evs/rivian-sues-ohio-dmv-over-partial-ban-on-direct-car-sales-191259497.html?src=rss
+---
+<p>Rivian has filed a lawsuit against Ohio&#39;s Department of Motor Vehicles because of the state&#39;s partial ban on direct car sales,<a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.theverge.com/news/718186/rivian-ohio-lawsuit-direct-sales-ban"> <em>The Verge </em>reports</a>. The company says that the ban &quot;reduces competition, decreases consumer choice and drives up consumer costs and inconvenience.&quot; Rivian believes Ohio&#39;s law is particularly unfair because it contains a carveout for the company&#39;s competitor Tesla.</p>
+<p>Ohio <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://codes.ohio.gov/ohio-revised-code/section-4517.12">currently requires</a> the state DMV to not provide a dealership license to &quot;a manufacturer, or a parent company, subsidiary, or affiliated entity of a manufacturer, applying for a license to sell or lease new or used motor vehicles at retail.&quot; The law keeps car sales in the hands of independently owned car dealerships — except for Tesla. An exception was created for Tesla in 2014, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.dispatch.com/story/news/politics/2014/03/25/deal-will-let-tesla-operate/24231453007/"><em>The Columbus Dispatch </em>writes</a>, after the EV maker reached an agreement with the Ohio Dealership Association. Now cars in the state are sold through traditional car dealerships, and three dealerships owned and operated by Tesla.</p>
+<span id="end-legacy-contents"></span><p>&quot;Rivian believes that consumers should be able to choose the vehicles they purchase,&quot; Rivian&#39;s Chief Administrative Officer Mike Callahan shared in a statement. &quot;Consumer choice is a bedrock principle of America&#39;s economy. Ohio&#39;s archaic prohibition against the direct-sales of vehicles is unconstitutional, irrational and harms Ohioans by reducing competition and choice and driving up costs and inconvenience.&quot;</p>
+<p>The company&#39;s lawsuit does a good job of laying out the illogical situation Ohio has created with its ban. Rivian is allowed to perform repairs on cars in the state and deliver cars purchased out-of-state to Ohioans. &quot;Nonsensically, the thing that Rivian cannot do is actually complete the sale of Rivian vehicles in Ohio,&quot; the company writes. &quot;This imposes an extraordinary burden on Ohio consumers and Rivian for no legitimate reason.&quot;</p>
+<p>As <em>The Verge</em> notes, bans on direct car sales have historically exist to prevent large, established car companies from having a monopoly on the sale of their own cars. Going direct to consumer is one of the ways EV makers have differentiated themselves from older brands, something companies like Tesla and Rivian can&#39;t do in states with bans. Rivian could try and strike a deal like Tesla, but filing a federal lawsuit suggests the company could be aiming to win a bigger, more lasting change. Rivian has achieved similar wins in the past. The state of Illinois <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.seyfarth.com/news-insights/court-rules-that-rivian-and-lucid-may-sell-vehicles-direct-to-consumers-in-illinois.html">sued to stop Rivian and Lucid Motors</a> from selling directly to consumers in 2022, but ultimately lost.</p>This article originally appeared on Engadget at https://www.engadget.com/transportation/evs/rivian-sues-ohio-dmv-over-partial-ban-on-direct-car-sales-191259497.html?src=rss
