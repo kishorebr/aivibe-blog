@@ -1,0 +1,30 @@
+---
+title: >-
+  Google: Actually, AI in Search is driving more queries and higher quality
+  clicks
+date: '2025-08-06'
+excerpt: >-
+  Last month, a Pew Research Center report shed light on Google&#39;s AI
+  Overviews&#39; effect on web publishing. In short, the analysis painted an
+  abys...
+coverImage: >-
+  https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Transportation
+source: >-
+  https://www.engadget.com/ai/google-actually-ai-in-search-is-driving-more-queries-and-higher-quality-clicks-204946965.html?src=rss
+---
+<p>Last month, a Pew Research Center <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/">report</a> shed light on Google&#39;s AI Overviews&#39; effect on web publishing. In short, the analysis painted an abysmal outlook for anyone relying on web traffic. But on Wednesday, Google Search head Liz Reid penned a <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://blog.google/products/search/ai-search-driving-more-queries-higher-quality-clicks/">blog post</a> that puts quite a different spin on things. The Google VP claims traffic from search to websites is &quot;relatively stable&quot; and that click quality has increased.</p>
+<p>Reid&#39;s framing boils down to <em>everything is peachy, and AI is making things better — even for websites! </em>She wrote that Google Search&#39;s total organic click volume to websites has been &quot;relatively&quot; stable year-over-year. Reid also claimed Google sends more &quot;quality clicks&quot; (visitors who don&#39;t quickly bounce) to websites than a year ago. The company says people are also happier with the search experience.</p>
+<span id="end-legacy-contents"></span><p>The company didn&#39;t share any numbers — the post has no data whatsoever — to support its claims.</p>
+<p>Google&#39;s explanation for the rosy outlook? &quot;With AI Overviews, people are searching more and asking new questions that are often longer and more complex,&quot; Reid wrote. &quot;In addition, with AI Overviews, people are seeing more links on the page than before. More queries and more links mean more opportunities for websites to surface and get clicked.&quot;</p>
+<p>Reid does highlight a shifting landscape. She says user trends are resulting in lower traffic for some sites and increased traffic for others. Of course, the Google Search head didn&#39;t call out any specific websites. But she claims forums, videos, podcasts and posts with &quot;authentic voices and first-hand perspectives&quot; are thriving. Reid added that content like &quot;an in-depth review, an original post, a unique perspective, or a thoughtful first-person analysis&quot; does well.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-08/88213860-7303-11f0-aef2-e129a62ce1e2" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-08/88213860-7303-11f0-aef2-e129a62ce1e2" style="height:1130px;width:2009px;" alt="A Google AI Overview for the query " data-uuid="b1f82add-3a09-3a80-9e60-d778b6007666"><figcaption></figcaption><div class="photo-credit">Google / Engadget</div></figure>
+<p>The Google VP said people seeking simple Q&amp;A types of searches are leaning more on AI. &quot;For some questions where people are looking for a quick answer, like &#39;when is the next full moon,&#39; people may be satisfied with the initial AI Overviews response and not click further,&quot; Reid wrote. &quot;This has also been true for other answer features we&#39;ve added, like the Knowledge Graph or sports scores. But for many other types of questions, people continue to click through, as they want to dig deeper into a topic, explore further or make a purchase. This is why we see click quality increasing — an AI response might provide the lay of the land, but people click to dive deeper and learn more, and when they do, these clicks are more valuable.&quot;</p>
+<p>It&#39;s quite the contrast from the Pew report. It found that visitors who saw an AI summary clicked a traditional search result in eight percent of all visits. Those without an AI summary? They clicked on a traditional result in 15 percent of their visits. As for those source links in AI summaries? Pew found that only one percent of people clicked on those. Users were also more likely to end their browsing after visiting a page with an AI summary.</p>
+<p>That aligned with comments <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/ai/cloudflare-ceo-says-people-arent-checking-ai-chatbots-source-links-120016921.html">Cloudflare CEO Matthew Prince made in June</a>. He said search traffic referrals keep plummeting. &quot;The future of the web is going to be more and more like AI, and that means that people are going to be reading the summaries of your content, not the original content,&quot; he said. Prince said that a decade ago, Google sent a publisher one visitor for every two pages it crawled. Early this year, it dropped to one visitor for every six pages. He said that, in June, it was down to one for every 18.</p>
+<p>I can&#39;t tell you who to believe. But here&#39;s what the ultimate source had to say:</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-08/1bf16140-7305-11f0-b3ff-2720fd96c1f0" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-08/1bf16140-7305-11f0-b3ff-2720fd96c1f0" style="height:626px;width:1327px;" alt="Straight from the source!" data-uuid="8c168a89-7f15-3452-a46d-83792eefb1ea"><figcaption></figcaption><div class="photo-credit">Google / Engadget</div></figure>
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/ai/google-actually-ai-in-search-is-driving-more-queries-and-higher-quality-clicks-204946965.html?src=rss
