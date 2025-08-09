@@ -1,0 +1,22 @@
+---
+title: Steam for Chromebooks is reportedly being discontinued
+date: '2025-08-08'
+excerpt: >-
+  The dream of Chromebooks that double as gaming laptops appears to be on its
+  last legs. 9to5Google reports that Google is ending support for Steam for...
+coverImage: >-
+  https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Education
+source: >-
+  https://www.engadget.com/gaming/steam-for-chromebooks-is-reportedly-being-discontinued-194020340.html?src=rss
+---
+<p>The dream of Chromebooks that double as gaming laptops appears to be on its last legs. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://9to5google.com/2025/08/07/steam-chromebook-2026/"><em>9to5Google </em>reports</a> that Google is ending support for Steam for Chromebooks starting January 1, 2026. Porting the application launcher was part of an extended push from the company to make Chromebooks a place to play games. Companies like ASUS and Acer announced and released <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/google-cloud-gaming-chromebooks-asus-lenovo-acer-130030080.html">gaming Chromebooks</a>, but the idea never seemed to catch on.</p>
+<p>Google&#39;s plan to retire Steam for Chromebooks was discovered when <em>9to5Google</em> tried to install the launcher on a new laptop. &quot;The Steam for Chromebook Beta program will conclude on January 1st, 2026,&quot; a new notice reads when you download Steam. &quot;After this date, games installed as part of the Beta will no longer be available to play on your device. We appreciate your participation in and contribution to learnings from the beta program, which will inform the future of Chromebook gaming.&quot;</p>
+<span id="end-legacy-contents"></span><p>Engadget has contacted Google and Valve for confirmation that Steam for Chromebooks is being discontinued. We&#39;ll update this article if we hear back.</p>
+<p>Reports that Steam would eventually be available on ChromeOS started <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.engadget.com/2020-01-17-google-chrome-steam-chromebooks.html">as far back as 2020</a>. The joint effort to port the launcher to Chromebooks was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/steam-alpha-chrome-os-chromebooks-190212883.html">a surprise announcement at GDC 2022</a>. Google released a Steam alpha that March, which ultimately <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.engadget.com/steam-for-chromebooks-alpha-preview-174030567.html">worked better than expected</a>. A beta version of the app <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.engadget.com/steam-chrome-os-beta-updates-160018804.html">came a few months later in November</a>, adding support for several new Chromebooks. The app has existed in beta since then, without any major updates from Google or Valve.</p>
+<p>One reason Google could be giving up is that <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://support.google.com/chromebook/answer/14220699?hl=en#zippy=%2Csupported-devices%2Ccompatible-steam-games:~:text=Compatible%20Steam%20games">the number of games</a> that can actually run on Chromebooks is limited, thanks to the underpowered CPUs and integrated graphics that most ChromeOS devices use. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:8;pos:1" class="no-affiliate-link" href="https://chromeos.dev/en/posts/windows-games-on-chromeos">Valve&#39;s Proton compatibility software</a> — which helps Windows games run on the Linux-based Steam Deck — is technically available for Chromebooks, but it can&#39;t make up for a lack of processing power.</p>
+<p>Without Steam, using either NVIDIA GeForce Now or Xbox Cloud Gaming is the best option for running modern console and PC games on your Chromebook. ChromeOS can also runs Android apps, but then you have to be comfortable playing what you can get from the Play Store.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/steam-for-chromebooks-is-reportedly-being-discontinued-194020340.html?src=rss
