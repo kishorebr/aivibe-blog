@@ -1,0 +1,20 @@
+---
+title: Intel's CEO has successfully wooed President Trump
+date: '2025-08-12'
+excerpt: >-
+  It sounds like President Trump no longer thinks Intel&#39;s CEO should resign.
+  Trump has revealed on Truth Social that he met with Lip-Bu Tan, Howard...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Finance
+source: >-
+  https://www.engadget.com/big-tech/intels-ceo-has-successfully-wooed-president-trump-035339132.html?src=rss
+---
+<p>It sounds like President Trump no longer thinks <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/big-tech/intel-ceo-lip-bu-tan-responds-to-trump-comments-that-he-should-resign-123008812.html">Intel&#39;s CEO should resign</a>. Trump has <a data-i13n="cpos:2;pos:1" href="https://truthsocial.com/@realDonaldTrump/posts/115012131343690532">revealed</a> on Truth Social that he met with Lip-Bu Tan, Howard Lutnick, the Secretary of Commerce, and Howard Lutnick, the Secretary of the Treasury. He didn&#39;t discuss the details of their meeting, but he described it as &quot;a very interesting one.&quot; Trump added: &quot;His success and rise is an amazing story.&quot; If you&#39;ll recall, Trump alleged that Tan was &quot;highly conflicted&quot; due to his investments in hundreds of Chinese firms and should resign. <a data-i13n="cpos:3;pos:1" href="https://www.reuters.com/world/china/trump-holds-high-stakes-meeting-with-intel-ceo-after-calling-his-resignation-2025-08-11/"><em>Reuters</em></a> had previously reported that some of those companies had links to the Chinese military. &quot;Mr. Tan and my Cabinet members are going to spend time together, and bring suggestions to me during the next week,&quot; Trump said in his post.</p>
+<div id="3b99e31269b54c5281e232a4367bbbea"><div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom:100%;"><a href="https://truthsocial.com/@realDonaldTrump/115012131343690532"></a></div></div></div> 
+<p>According to a report by the <a data-i13n="cpos:4;pos:1" href="https://www.ft.com/content/42b32597-97f7-4f12-b9bf-5ea4da2a483b"><em>Financial Times</em></a>, Tan <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/big-tech/intel-ceo-lip-bu-tan-responds-to-trump-comments-that-he-should-resign-123008812.html">wrote a letter</a> to Intel employees about the issue, telling that there had been a lot of misinformation about the roles he&#39;d held. &quot;I wanted to be absolutely clear... I have always operated within the highest legal and ethical standards,&quot; he reportedly wrote in the letter. He also said that Intel was communicating with the White House &quot;to address the matters that have been raised and ensure they have the facts.&quot;</p>
+<span id="end-legacy-contents"></span><p>Trump&#39;s call for Tan to resign reportedly came about due a letter from Tom Cotton, the Republican head of the Senate Intelligence Committee, to the Intel CEO. Cotton apparently expressed concerns aout the &quot;security and integrity of Intel&#39;s operations&quot; due to Tan&#39;s ties with China. Tan was named the CEO of Intel in March, taking over a company that was losing money due to its foundry business being unable to secure big customers and <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/general/intel-is-separating-its-ailing-foundry-business-from-the-main-company-110043046.html">lagging behind rivals</a> like Taiwan Semiconductor. Since taking over, Tan has enforced several cost-cutting measures, including <a data-i13n="cpos:7;pos:1" href="https://www.reuters.com/business/intel-is-cutting-more-jobs-ceo-tan-tries-fix-manufacturing-missteps-2025-07-24/">cutting jobs</a> with the goal of reducing its workforce by 22 percent by the end of the year. He also recently told investors that Intel could abandon the development of its next-gen manufacturing technology if it fails to secure a large client.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/intels-ceo-has-successfully-wooed-president-trump-035339132.html?src=rss

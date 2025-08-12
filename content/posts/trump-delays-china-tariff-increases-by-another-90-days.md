@@ -1,0 +1,19 @@
+---
+title: Trump delays China tariff increases by another 90 days
+date: '2025-08-11'
+excerpt: >-
+  President Donald Trump has signed an executive order extending lower tariffs
+  with China for another 90 days, CNBC reports. The new executive order was...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/big-tech/trump-delays-china-tariff-increases-by-another-90-days-201443024.html?src=rss
+---
+<p>President Donald Trump has signed an executive order extending lower tariffs with China for another 90 days, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.cnbc.com/2025/08/11/trump-china-tariffs-deadline-extended.html?taid=689a3b7ee7db590001803d72"><em>CNBC </em>reports</a>. The new executive order was signed before <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/general/us-and-china-agree-to-slash-tariffs-for-90-days-120050454.html">the previous agreement</a> was set to end on August 12 at midnight.</p>
+<p>The extension will maintain the current 30 percent tariff on goods from China while representatives from both countries negotiate a new trade deal. The previous agreement lowered US tariffs down from 145 percent to 30 percent, and Chinese tariffs down from 145 percent to 10 percent.</p>
+<span id="end-legacy-contents"></span><p>At the time, it was unclear how the move would impact the price of electronics manufactured in China, but for at least some companies, it&#39;s still led to higher costs. While the price of the Switch 2 is remaining the same, Nintendo announced at the beginning of August that the price of the Switch 1 would increase by $40 or more. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.engadget.com/audio/sonos-is-raising-prices-this-year-to-make-up-for-tariff-expenses-123031336.html">Sonos</a> has said that some of its products would increase in price, but hasn&#39;t shared details. Both <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/cameras/djis-osmo-pocket-3-camera-now-starts-at-799-following-trumps-tariffs-131536721.html">DJI</a> and <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.engadget.com/gaming/microsoft-is-raising-prices-on-the-xbox-series-s-and-series-x-132004594.html">Microsoft</a> announced price hikes on some of their products back in May, too.</p>
+<p>For companies manufacturing products abroad, the sudden swerves in Trump administration trade policy seem almost as difficult to deal with as the tariffs themselves. That erratic protectionism is reshaping global trade, and it&#39;s also won concessions from companies trying to do business as normal. Apple committed to spending <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.engadget.com/big-tech/apple-to-invest-another-100-billion-into-the-us-to-avoid-tariffs-210250020.html">an extra $100 billion</a> on US manufacturing last week to avoid being subjected to tariffs. And early today, both AMD and NVIDIA <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/nvidia-may-give-us-government-a-cut-of-its-profits-to-sell-ai-chips-to-china-120003260.html">reportedly agreed</a> to pay the US 15 percent of their profits to be allowed to sell GPUs in China.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/trump-delays-china-tariff-increases-by-another-90-days-201443024.html?src=rss
