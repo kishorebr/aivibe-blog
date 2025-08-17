@@ -1,0 +1,19 @@
+---
+title: Court blocks FTC investigation into Media Matters' alleged scheme against X
+date: '2025-08-16'
+excerpt: >-
+  The court has blocked the Federal Trade Commission&#39;s investigation into
+  Media Matters, the media nonprofit that previously published research show...
+coverImage: >-
+  https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Transportation
+source: >-
+  https://www.engadget.com/social-media/court-blocks-ftc-investigation-into-media-matters-alleged-scheme-against-x-160021473.html?src=rss
+---
+<p>The court has <a data-i13n="cpos:1;pos:1" href="https://www.nytimes.com/2025/08/15/technology/media-matters-ftc-musk-injunction.html">blocked</a> the Federal Trade Commission&#39;s investigation into Media Matters, the media nonprofit that previously published research showing that ads appeared on X alongside neo-Nazi and other antisemitic content. In 2023, Elon Musk&#39;s X <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/x-lawsuit-accuses-media-matters-of-running-a-campaign-to-drive-advertisers-away-from-its-website-040022933.html">filed a lawsuit against</a> the media watchdog following an advertiser exodus. It accused Media Matters of &quot;knowingly and maliciously manufactur[ing] side-by-side images depicting advertisers&#39; posts on X Corp.&#39;s social media platform beside Neo-Nazi and white national fringe content.&quot; Just this May, the FTC started looking into whether the nonprofit violated antitrust laws by allegedly colluding with advertising and advocacy groups to boycott X.&nbsp;</p>
+<p>In June, Media Matters <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/social-media/media-matters-is-suing-the-ftc-to-block-investigation-into-x-advertiser-boycott-204514805.html">sued the FTC</a>, accusing it of unfairly targeting the group in retaliation for past criticisms of X. &quot;The Federal Trade Commission seeks to punish Media Matters for its journalism and speech in exposing matters of substantial public concern — including how X.com has enabled and profited from extremist content that proliferated after Elon Musk took over the platform formerly known as Twitter,&quot; the group said at the time. Now, Judge Sparkle L. Sooknanan has granted a preliminary injunction in the nonprofit&#39;s favor.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>Sooknanan has agreed with the group that the FTC&#39;s investigation is &quot;a retaliatory act&quot; and has noted that it is &quot;likely to succeed on its First Amendment retaliation claim.&quot; She wrote in her decision that such probes would deter other reporters from speaking again. &quot;Indeed, the FTC&#39;s [investigation] has had its intended effect.&quot; Apparently, because of the probe, Media Matters has &quot;decided against pursuing certain stories about the FTC, Chairman Ferguson, and Mr. Musk.&quot;</p>
+<p>&quot;The court’s ruling demonstrates the importance of fighting over folding, which far too many are doing when confronted with intimidation from the Trump administration,&quot; Angelo Carusone, the president of Media Matters, told <a data-i13n="cpos:4;pos:1" href="https://www.nytimes.com/2025/08/15/technology/media-matters-ftc-musk-injunction.html"><em>The New York Times</em></a>. &quot;We will continue to stand up and fight for the First Amendment rights that protect every American.&quot; As the publication notes, courts had also blocked investigations into the group by the attorneys general in Texas and Missouri. Musk&#39;s lawsuits against the nonprofit, however, are still ongoing.</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/court-blocks-ftc-investigation-into-media-matters-alleged-scheme-against-x-160021473.html?src=rss

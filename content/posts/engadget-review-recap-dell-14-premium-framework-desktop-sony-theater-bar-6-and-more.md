@@ -1,0 +1,34 @@
+---
+title: >-
+  Engadget review recap: Dell 14 Premium, Framework Desktop, Sony Theater Bar 6
+  and more
+date: '2025-08-16'
+excerpt: >-
+  With a barrage of new Apple and Google devices around the corner, our reviews
+  team is clearing their desks of new products before the pre-fall deluge...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/engadget-review-recap-dell-14-premium-framework-desktop-sony-theater-bar-6-and-more-130008670.html?src=rss
+---
+<p>With a barrage of new Apple and Google devices around the corner, our <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/reviews/">reviews</a> team is clearing their desks of new products before the pre-fall deluge begins. There's a well-rounded mix of in-depth testing this time around, including a detailed preview of watchOS 26 and more VPN trials. Kick off the weekend by catching up on all of the reviews you might've missed over the last few weeks from Engadget.</p> 
+<h2 id="jump-link-dell-14-premium">Dell 14 <strong>Premium</strong></h2> 
+<p> <core-commerce id="cd5aa4809906469f9ad2750a14bf5c47" data-type="product-list" data-original-url="https://www.dell.com/en-us/shop/dell-laptops/dell-14-premium-laptop/spd/dell-da14250-laptop"></core-commerce></p> 
+<p>While we're still trying to wrap our heads around Dell's naming scheme decision, the company continues to churn out new devices. The latest to cross senior reviews writer Sam Rutherford's desk was the Dell 14 Premium. You might remember this model as the XPS 14, and according to Sam, Dell retained "the DNA" that made previous versions some of the best notebook PCs you could buy. "Even with a new and rather uninspired name, it probably shouldn't come as a surprise that the Dell 14 Premium remains one of the best Windows laptops on the market," <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/computing/laptops/dell-premium-14-review-new-name-same-great-laptop-120047563.html">he said</a>. "It has the same sleek design from back when it was still called the XPS 14 but with some refreshed specs and components for 2025."</p> <span id="end-legacy-contents"></span> 
+<h2 id="jump-link-framework-desktop-2025">Framework Desktop (2025)</h2> 
+<p> <core-commerce id="49fbf978422243c5b756aeb2de50068e" data-type="product-list" data-original-url="https://frame.work/products/desktop-diy-amd-aimax300/configuration/new"></core-commerce></p> 
+<p>Framework is known for its modular, repairable laptops, but the company has now tried its hand at bringing the same formula to a desktop. Unfortunately, the first attempt isn't nearly as modular or repairable as a regular PC, according to senior editor Daniel Cooper. "Framework was open about the fact this was something akin to a side project, outside its regular remit to build modular laptops, based on a particularly exciting chip," <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/computing/framework-desktop-2025-review-powerful-but-perhaps-not-for-everyone-150011909.html">he explained</a>. "So while I think the all-in-one approach is a backward step compared to regular PCs, I get the rationale for doing so here."</p> 
+<h2 id="jump-link-sony-bravia-theater-bar-6">Sony Bravia Theater Bar 6</h2> 
+<p> <core-commerce id="61289d8b71c54ed7af58bb62dcb93c9e" data-type="product-list" data-original-url="https://www.amazon.com/Sony-Powerful-Wireless-subwoofer-Surround/dp/B0DYWPJYF1?th=1"></core-commerce></p> 
+<p>This year's crop of soundbars finally arrived over the summer, so I've been spending lots of time with home theater speakers recently. The latest was the Sony Bravia Theater Bar 6, a soundbar/subwoofer combo that sits in the middle of the company's current lineup. Despite great sound and dialogue performance, the caveats here are real dealbreakers. "The lack of Wi-Fi on a $650 soundbar is absurd, mostly because it strips users of the convenience of AirPlay, Chromecast and other wireless connection options," <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/home/home-theater/sony-bravia-theater-bar-6-review-great-sound-greater-frustration-144512450.html">I wrote</a>. "I also can’t get over the need to use a thumb drive for updates when OTA downloads for new firmware have been the norm on soundbars for years."</p> 
+<h2 id="jump-link-lenovo-thinkpad-x9-14-aura-edition">Lenovo ThinkPad X9-14 Aura Edition</h2> 
+<p> <core-commerce id="dc0a4ddf5f7f4e7cb810b5ec2a98992f" data-type="product-list" data-original-url="https://www.lenovo.com/us/en/configurator/cto/index.html?bundleId=21QACTO1WWUS1"></core-commerce></p> 
+<p>Lenovo's ThinkPads are popular office laptops, and the X9-14 is the latest in a long line of business machines. Contributing writer Rami Tabari explains that this model offers a lot of the qualities that make ThinkPads great, but the price, low-power CPU and subpar keyboard leave something to be desired. "I can’t justify the average consumer paying $1,283 for the ThinkPad X9-14 with specs you’d find in laptops that cost hundreds of dollars less (minus the RAM, of course)," <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/computing/laptops/lenovo-thinkpad-x9-14-aura-edition-review-a-solid-business-laptop-with-some-quirks-171551190.html">he noted</a>. "For small business owners, I recommend waiting for a sale or consider a business laptop marketed more toward you (again, the ASUS ExpertBook P5 (P5405) is a great choice)."</p> 
+<h2 id="jump-link-watchos-26-preview-and-norton-vpn-review">watchOS 26 preview and Norton VPN review</h2> 
+<p>We're quickly approaching the arrival of a new set of Apple Watches, so senior buying advice reporter Amy Skorheim spent two weeks with the upcoming version of watchOS. Her favorite new features are the AI workout partner and added gesture, but <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/wearables/watchos-26-preview-its-the-little-things-140035949.html">she explained</a> that it's the little things that make this annual overhaul worthwhile.&nbsp;</p> 
+<p>Meanwhile, senior writer Sam Chapman returned to the land of VPNs to test Norton's version as a standalone app. While this service isn't necessarily bad, it also doesn't offer enough to rise above the heap that includes ExpressVPN, Surfshark and others. "After a week of working with Norton VPN, I have to conclude that the only way it distinguishes itself is the Norton name," <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/cybersecurity/vpn/norton-vpn-review-a-vpn-that-fails-to-meet-nortons-standards-170037086.html">he said</a>. "For everything else it does, a competitor does it better."</p>This article originally appeared on Engadget at https://www.engadget.com/engadget-review-recap-dell-14-premium-framework-desktop-sony-theater-bar-6-and-more-130008670.html?src=rss
