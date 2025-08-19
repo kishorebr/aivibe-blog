@@ -1,0 +1,20 @@
+---
+title: NordVPN will discontinue Meshnet on December 1
+date: '2025-08-18'
+excerpt: >-
+  NordVPN announced today in a blog post that its Meshnet feature will shut down
+  on December 1. All aspects of Meshnet will stop working on that date, t...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/cybersecurity/vpn/nordvpn-will-discontinue-meshnet-on-december-1-175538284.html?src=rss
+---
+<p>NordVPN announced today in a <a data-i13n="elm:affiliate_link;sellerN:NordVPN;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=c52a3d27-2d9a-44d8-8cf2-6f6387b122a0&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=868c8923-0cdb-4c2b-af6d-f097635729c5&amp;featureId=text-link&amp;merchantName=NordVPN&amp;linkText=blog+post&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL25vcmR2cG4uY29tL2Jsb2cvbWVzaG5ldC1zaHV0ZG93bi8iLCJjb250ZW50VXVpZCI6Ijg2OGM4OTIzLTBjZGItNGMyYi1hZjZkLWYwOTc2MzU3MjljNSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly9ub3JkdnBuLmNvbS9ibG9nL21lc2huZXQtc2h1dGRvd24vIn0&amp;signature=AQAAAWPVxhxiMD1xCN06E-uPLEuIpV1kn-PWTGhJamMK4Bib&amp;gcReferrer=https%3A%2F%2Fnordvpn.com%2Fblog%2Fmeshnet-shutdown%2F" class="rapid-with-clickid" data-original-link="https://nordvpn.com/blog/meshnet-shutdown/">blog post</a> that its Meshnet feature will shut down on December 1. All aspects of Meshnet will stop working on that date, though nothing else about NordVPN will be affected. If you were using Meshnet to connect computers, route web traffic through a personal device or share files, you&#39;ll need to find another solution by December.</p>
+<p>As I mentioned in my <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/cybersecurity/vpn/nordvpn-review-2025-innovative-features-a-few-missteps-163000578.html">NordVPN review</a>, Meshnet was one of the most envelope-pushing features on any <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html">VPN</a>, letting users link their devices through a NordLynx tunnel without needing to go through a third-party server. Once the tunnel was set up, you could access either device through the other one to share files or access services. With enough connected devices, you could check your work email, visit a friend&#39;s media server, play a remote game on another server and watch your home-based TV subscriptions — all from a single laptop anywhere on the planet. Unbelievably, it was even free to use.</p>
+<span id="end-legacy-contents"></span><p>I&#39;m sad to see Meshnet go, but as NordVPN&#39;s blog post makes clear, it never found its audience. As exciting as it was to people like me who spend all day squinting at the guts of VPNs, it didn&#39;t provide enough everyday value to catch on with the majority of NordVPN&#39;s customers. Hindsight shows us that Meshnet&#39;s benefits, like remote desktop and file sharing, were mainly business-oriented; selling those was always going to be an uphill battle in a market where <a data-i13n="cpos:4;pos:1" href="https://www.security.org/resources/vpn-consumer-report-annual/">VPNs are more commonly used for personal reasons</a>.</p>
+<p>If you&#39;re one of the few people who was actually using Meshnet, you have a few months to arrange alternatives. Should you want to stay within the NordVPN ecosystem, you can replace its file sharing features with <a data-i13n="cpos:5;pos:1" href="https://nordlocker.com/plans/">NordLocker</a>, which gives you 3 GB of storage for free. Of course, <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/pro-tips-for-using-google-drive-150029273.html">Google Drive</a> is also an option. For remote access, NordVPN recommends <a data-i13n="cpos:7;pos:1" href="https://www.zerotier.com/">ZeroTier</a>, a platform where you can connect up to 10 devices without paying.</p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/vpn/nordvpn-will-discontinue-meshnet-on-december-1-175538284.html?src=rss
