@@ -1,0 +1,19 @@
+---
+title: The White House now has a TikTok account
+date: '2025-08-20'
+excerpt: >-
+  The White House has joined TikTok, the social media app that President Trump
+  wanted to ban during his first term. Its first post shows clips of Trump...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Work
+source: >-
+  https://www.engadget.com/social-media/the-white-house-now-has-a-tiktok-account-032420845.html?src=rss
+---
+<p>The White House has joined TikTok, the social media app that President Trump wanted to ban during his first term. Its <a data-i13n="cpos:1;pos:1" href="https://www.tiktok.com/@whitehouse/video/7540412027907362062">first post</a> shows clips of Trump in various events with Kendrick Lamar&#39;s track playing in the background. <a data-i13n="cpos:2;pos:1" href="https://www.nytimes.com/2025/08/19/us/politics/white-house-tiktok-trump.html"><em>The New York Times</em></a> notes that it references a popular video edit of Creed, a boxing movie starring Michael B. Jordan, on the app. In the TikTok post, Trump could be heard saying &quot;I am your voice,&quot; while the caption reads &quot;America we are BACK! What&#39;s up TikTok?&quot;&nbsp;</p>
+<p>Trump&#39;s administration believes TikTok helped him win over young voters in the 2024 Presidential election, with the account he used to campaign having over 15 million followers. &quot;President Trump&#39;s message dominated TikTok during his presidential campaign, and we&#39;re excited to build upon those successes and communicate in a way no other administration has before,&quot; White House press secretary Karoline Leavitt <a data-i13n="cpos:3;pos:1" href="https://www.reuters.com/world/us/white-house-launches-tiktok-account-with-trump-saying-i-am-your-voice-2025-08-19/">said in a statement</a>.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>The president wasn&#39;t always fond of the platform. He once vowed to <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/tiktok-us-ban-trump-023941270.html">ban the app in the US</a> and <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/tiktok-wechat-executive-order-014615752.html">signed an executive order</a> to outlaw any transaction between the app and its China-based parent company ByteDance for national security reasons. TikTok&#39;s &quot;data collection threatens to allow the Chinese Communist Party access to Americans&#39; personal and proprietary information — potentially allowing China to track the locations of Federal employees and contractors, build dossiers of personal information for blackmail, and conduct corporate espionage,&quot; the <a data-i13n="cpos:6;pos:1" href="https://www.npr.org/2020/08/06/900019185/trump-signs-executive-order-that-will-effectively-ban-use-of-tiktok-in-the-u-s">executive order read</a>.&nbsp;</p>
+<p>After taking office earlier this year, however, Trump quickly <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/big-tech/trump-delays-tiktok-ban-for-at-least-75-days-via-executive-order-014523110.html">put a pause</a> on the law that was supposed to ban TikTok in the US. He even <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/social-media/trump-is-extending-the-deadline-for-a-tiktok-deal-by-another-75-days-180526714.html">delayed</a> the ban a <a data-i13n="cpos:9;pos:1" href="https://www.engadget.com/social-media/donald-trump-will-delay-a-looming-tiktok-ban-for-a-third-time-231757522.html">couple more times</a> to give ByteDance more time to sell its US business. Trump previously claimed that a &quot;very wealthy&quot; group is poised to buy TikTok, but the administration has yet to reveal the identities of the people in it.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/the-white-house-now-has-a-tiktok-account-032420845.html?src=rss
