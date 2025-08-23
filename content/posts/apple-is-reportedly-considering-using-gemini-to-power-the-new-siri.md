@@ -1,0 +1,23 @@
+---
+title: Apple is reportedly considering using Gemini to power the new Siri
+date: '2025-08-22'
+excerpt: >-
+  Apple might use Gemini to power its revamped version of Siri, Bloomberg
+  reports. The companies are in the early stages of exploring a partnership,
+  wit...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Chatgpt
+  - Openai
+category: General AI
+source: >-
+  https://www.engadget.com/ai/apple-is-reportedly-considering-using-gemini-to-power-the-new-siri-184528449.html?src=rss
+---
+<p>Apple might use Gemini to power its revamped version of Siri, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2025-08-22/apple-explores-using-google-gemini-ai-to-power-revamped-siri?embedded-checkout=true"><em>Bloomberg </em>reports</a>. The companies are in the early stages of exploring a partnership, with Google training a version of its Gemini model that can run on Apple&#39;s servers. The iPhone maker was previously reported to be considering similar partnerships with <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/apple-may-power-siri-with-anthropic-or-openai-models-amid-ai-struggles-212028351.html">OpenAI and Anthropic</a>.</p>
+<p>&quot;The company is simultaneously developing two versions of the new Siri: one dubbed Linwood that is powered by its models and another code-named Glenwood that runs on outside technology, &quot; <em>Bloomberg</em> writes. A final decision has yet to be made on what AI model Apple will ultimately use, but it&#39;s entirely possible it sticks with its internally-developed models.</p>
+<span id="end-legacy-contents"></span><p>While seceding a potentially key technology to a competitor seems decidedly un-Apple, it&#39;s a testament to how much difficulty the company has had rolling out Apple Intelligence. Apple included the majority of its new AI features in the release of <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ios-18-gets-a-revamped-control-center-and-loads-of-home-screen-customization-options-172350046.html">iOS 18</a>, but failed to ship an updated version of Siri that can draw on personal data to take action in apps. Apple ultimately admitted the Siri update <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/apple-is-delaying-its-smarter-more-personal-siri-183513424.html">was delayed</a> in March, with the new launch now expected <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/apples-ai-infused-siri-may-not-show-up-until-spring-2026-221212681.html">sometime in 2026</a>.</p>
+<p>The turmoil caused by the delay reportedly led to Apple&#39;s various AI projects <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2025-04-24/apple-to-strip-secret-robotics-unit-from-ai-chief-weeks-after-moving-siri">changing hands internally</a>, and the company&#39;s decision to consider using a third-party AI model. As of the launch of the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://www.engadget.com/mobile/smartphones/google-pixel-10-series-hands-on-the-base-model-takes-center-stage-160040470.html">Pixel 10</a>, Gemini now offers a similar set of capabilities to what Apple promised with the new Siri. It could presumably do the same things on iOS with the right changes. Using a version of Gemini that runs on Apple&#39;s hardware and servers — the company calls this Private Cloud Compute — could also add an additional layer of security.</p>
+<p>Apple was reportedly planning to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:8;pos:1" class="no-affiliate-link" href="https://www.engadget.com/apple-may-integrate-googles-gemini-ai-into-ios-in-the-future-220240081.html">offer Gemini</a> as an alternative to ChatGPT in Apple Intelligence, but the option has yet to ship. Having Gemini power some of its AI features would put Apple in a similar position to Samsung, who&#39;s Galaxy AI relies on a mix of custom models and Gemini.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/apple-is-reportedly-considering-using-gemini-to-power-the-new-siri-184528449.html?src=rss
