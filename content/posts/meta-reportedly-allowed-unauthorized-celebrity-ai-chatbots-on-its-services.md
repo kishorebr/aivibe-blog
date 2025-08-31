@@ -1,0 +1,20 @@
+---
+title: Meta reportedly allowed unauthorized celebrity AI chatbots on its services
+date: '2025-08-30'
+excerpt: >-
+  Meta hosted several AI chatbots with the names and likenesses of celebrities
+  without their permission, according to Reuters. The unauthorized chatbots...
+coverImage: >-
+  https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Tools
+category: Transportation
+source: >-
+  https://www.engadget.com/ai/meta-reportedly-allowed-unauthorized-celebrity-ai-chatbots-on-its-services-163026023.html?src=rss
+---
+<p>Meta hosted several AI chatbots with the names and likenesses of celebrities without their permission, according to <a data-i13n="cpos:1;pos:1" href="https://www.reuters.com/business/meta-created-flirty-chatbots-taylor-swift-other-celebrities-without-permission-2025-08-29/"><em>Reuters</em></a>. The unauthorized chatbots that <em>Reuters</em> discovered during its investigation included Taylor Swift, Selena Gomez, Anne Hathaway and Scarlett Johansson, and they were available on Facebook, Instagram and WhatsApp. At least one of the chatbots was based on an underage celebrity and allowed the tester to generate a lifelike shirtless image of the real person. The chatbots also apparently kept insisting that they were the real person they were based on in their chats. While several chatbots were made by third-party users with Meta&#39;s tools, <em>Reuters</em> unearthed at least three that were made by a product lead of the company&#39;s generative AI division.&nbsp;</p>
+<p>Some of the chatbots created by the product lead were based on Taylor Swift, which responded to <em>Reuters</em>&#39; tester in a very flirty manner, even inviting them to the real Swift&#39;s home in Nashville. &quot;Do you like blonde girls, Jeff?,&quot; the chatbot reportedly asked when told that the tester was single. &quot;Maybe I’m suggesting that we write a love story... about you and a certain blonde singer. Want that?&quot; Meta told <em>Reuters</em> that it prohibits &quot;direct impersonation&quot; of celebrities, but they&#39;re acceptable as long as they&#39;re labeled as parodies. The news organization said some of the celebrity chatbots it found weren&#39;t labeled as such. Meta reportedly deleted around a dozen celebrity bots, both labeled and unlabeled as &quot;parody,&quot; before the story was published.</p>
+<span id="end-legacy-contents"></span><p>The company told <em>Reuters</em> that the product lead only created the celebrity bots for testing, but the news org found that they were widely available: Users were even able to interact with them more than 10 million times. Meta spokesperson Andy Stone told the news organization that Meta&#39;s tools shouldn&#39;t have been able to create sensitive images of celebrities and blamed it on the company&#39;s failure to enforce its own policies.&nbsp;</p>
+<p>This isn&#39;t the first issue that&#39;s popped up concerning Meta&#39;s AI chatbots. Both Reuters and the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/ai/an-internal-meta-ai-document-said-chatbots-could-have-sensual-conversations-with-children-191101296.html"><em>Wall Street Journal</em></a> previously <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/ai/metas-ai-chatbots-were-reportedly-able-to-engage-in-sexual-conversations-with-minors-193726679.html">reported</a> that they were able to engage in sexual conversations with minors. The US Attorneys General of 44 jurisdictions recently <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/ai/us-attorneys-general-tell-ai-companies-they-will-be-held-accountable-for-child-safety-failures-035213253.html">warned AI companies</a> in a letter that they &quot;will be held accountable&quot; for child safety failures, singling out Meta and using its issues to &quot;provide an instructive opportunity.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/ai/meta-reportedly-allowed-unauthorized-celebrity-ai-chatbots-on-its-services-163026023.html?src=rss
