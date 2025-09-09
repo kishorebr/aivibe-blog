@@ -1,0 +1,20 @@
+---
+title: Google expands AI Mode beyond English for the first time
+date: '2025-09-08'
+excerpt: >-
+  Google is opening up AI Mode to more languages. Starting today, the AI chatbot
+  the company is integrating into Google Search is available in Hindi, In...
+coverImage: >-
+  https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Transportation
+source: >-
+  https://www.engadget.com/ai/google-expands-ai-mode-beyond-english-for-the-first-time-192245955.html?src=rss
+---
+<p>Google is opening up <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/ai/ai-mode-adds-a-dedicated-search-chatbot-to-google-170016310.html">AI Mode</a> to more languages. Starting today, the AI chatbot the company is integrating into Google Search is available in Hindi, Indonesian, Japanese, Korean and Brazilian Portuguese.&nbsp;</p>
+<p>The company has been rapidly expanding access to the search experience. In May, Google started offering it to <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/ai/google-is-rolling-out-ai-mode-to-everyone-in-the-us-174917628.html">everyone in the US</a> (and later the UK and India) after starting public tests just two months earlier.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>Google <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/ai/google-expands-ai-mode-with-extra-features-for-search-205252812.html">added more features</a> to AI Mode in July, including support for the Gemini 2.5 Pro model and Deep Search. As of last month, AI Mode has been present in <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/ai/google-ai-mode-is-expanding-to-180-countries-and-adding-an-agentic-restaurant-finder-154833417.html">more than 180 countries</a>. But until now, AI Mode had only been available in English. This is the <a data-i13n="cpos:5;pos:1" href="https://support.google.com/websearch/answer/16011537?visit_id=638913809240149338-2722212691&amp;p=aimodeavailability&amp;rd=1#aimodeavailability&amp;zippy=%2Csupported-languages">first language support expansion</a> for the chatbot.&nbsp;</p>
+<p>&quot;Building a truly global Search goes far beyond translation — it requires a nuanced understanding of local information,&quot; Hema Budaraju, Google&#39;s vice president of search product management <a data-i13n="cpos:6;pos:1" href="https://blog.google/products/search/ai-mode-expands-more-languages/">wrote in a blog post</a>. &quot;With the advanced multimodal and reasoning capabilities of our custom version of Gemini 2.5 in Search, we’ve made huge strides in language understanding, so our most advanced AI search capabilities are locally relevant and useful in each new language we support.&quot;</p>
+<p>Google has been <a data-i13n="cpos:7;pos:1" href="http://engadget.com/ai/google-actually-ai-in-search-is-driving-more-queries-and-higher-quality-clicks-204946965.html">claiming</a> recently that traffic to websites from Search is &quot;relatively stable&quot; since the rollout of AI Overviews and that <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:8;pos:1" class="no-affiliate-link" href="https://www.bbc.com/future/article/20250611-ai-mode-is-google-about-to-change-the-internet-forever">&quot;the web is thriving.&quot;</a> However, the company admitted something very different in a court filing last week. Its lawyers <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:9;pos:1" class="no-affiliate-link" href="https://www.seroundtable.com/google-open-web-is-in-rapid-decline-40068.html">stated</a> that &quot;the open web is already in rapid decline.&quot; That, plus the expansion of AI Mode, will surely be welcomed with open arms by publishers who are <a data-i13n="cpos:10;pos:1" href="https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/">seriously feeling the pinch of declining web traffic</a>.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/google-expands-ai-mode-beyond-english-for-the-first-time-192245955.html?src=rss
