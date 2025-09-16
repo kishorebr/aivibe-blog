@@ -1,0 +1,21 @@
+---
+title: China says NVIDIA's Mellanox acquisition violated antitrust law
+date: '2025-09-15'
+excerpt: >-
+  A regulator has accused NVIDIA of violating China&#39;s antitrust laws over
+  its acquisition of chipmaker Mellanox. In its preliminary findings of an i...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Finance
+source: >-
+  https://www.engadget.com/big-tech/china-says-nvidias-mellanox-acquisition-violated-antitrust-law-200409929.html?src=rss
+---
+<p>A regulator has accused NVIDIA of violating China&#39;s antitrust laws over its acquisition of chipmaker Mellanox. In its preliminary findings of an investigation it commenced <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/computing/chinese-regulators-are-investigating-nvidia-for-potential-antitrust-violations-200136726.html"><ins>in December</ins></a>, the State Administration for Market Regulation (SAMR) claimed that the company breached both national regulations and the conditional terms China outlined when it rubberstamped the $6.9 billion takeover. The SAMR hasn&#39;t announced any penalties yet, as the investigation will continue.</p>
+<p>The SAMR is said to have determined its preliminary findings several weeks ago. According to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.ft.com/content/fa7a2e35-df03-45a1-bd0b-3f7207a7d84b"><em><ins>Financial Post</ins></em></a> sources, the regulator held off from releasing its statement until now, as trade talks with the US take place in Madrid, with the idea of giving Chinese officials more leverage. (Those talks have so far resulted in <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/general/a-tiktok-deal-may-finally-be-happening-160448732.html"><ins>a framework agreement for TikTok</ins></a>.)</p>
+<span id="end-legacy-contents"></span><p>NVIDIA and Mellanox <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/2019-03-11-nvidia-acquisition-mellanox.html"><ins>announced the buyout</ins></a> back in 2019. China approved it in April the following year on the condition that NVIDIA continued to supply GPUs and interconnect products to the country and adhere to “fair, reasonable, and non-discriminatory principles,” per the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.scmp.com/tech/tech-war/article/3325595/tech-war-china-finds-us-chip-giant-nvidia-violated-anti-monopoly-law"><em><ins>South China Morning Post</ins></em></a>.</p>
+<p>Last month, it was reported that China was <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/ai/china-reportedly-discouraged-purchase-of-nvidia-ai-chips-due-to-insulting-lutnick-statements-123055120.html">discouraging</a> companies in the country from buying NVIDIA&#39;s H20 chips pending a national security review. Officials were said to have taken offense at remarks from Howard Lutnick, the US commerce secretary. After the US allowed NVIDIA to start offering chips to China again in July following a <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/ai/nvidia-says-it-can-resume-selling-key-ai-chips-to-china-120015817.html"><ins>three-month ban</ins></a>, Lutnick said the company wasn&#39;t going to be selling its most cutting-edge tech there.</p>
+<p>&quot;We don&#39;t sell them our best stuff, not our second best stuff, not even our third best. The fourth one down, we want to keep China using it,&quot; he told <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:8;pos:1" class="no-affiliate-link" href="https://www.cnbc.com/2025/07/15/howard-lutnick-says-china-is-only-getting-nvidias-4th-best-ai-chip.html"><em>CNBC</em></a>. &quot;The idea is the Chinese are more than capable of building their own. You want to keep one step ahead of what they can build, so they keep buying our chips. You want to sell the Chinese enough that their developers get addicted to the American technology stack.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/china-says-nvidias-mellanox-acquisition-violated-antitrust-law-200409929.html?src=rss
