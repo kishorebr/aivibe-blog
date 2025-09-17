@@ -1,0 +1,28 @@
+---
+title: NHTSA is investigating Tesla over its electronic door handles
+date: '2025-09-16'
+excerpt: >-
+  Who says journalism is dead? Less than a week after Bloomberg published a
+  damning report about Tesla&#39;s &quot;dangerous doors,&quot; the US
+  Nationa...
+coverImage: >-
+  https://images.unsplash.com/photo-1551434678-e076c223a692?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+  - Transportation
+category: Productivity
+source: >-
+  https://www.engadget.com/transportation/evs/nhtsa-is-investigating-tesla-over-its-electronic-door-handles-203605393.html?src=rss
+---
+<p>Who says journalism is dead? Less than a week after <em>Bloomberg</em> published a <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/features/2025-tesla-dangerous-doors/">damning report</a> about Tesla&#39;s &quot;dangerous doors,&quot; the US National Highway Traffic Safety Administration (NHTSA) is now looking into it. On Tuesday, the regulator said it <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2025-09-16/tesla-tsla-faces-probe-by-us-auto-safety-agency-over-door-handles?embedded-checkout=true">opened an investigation</a> into the automaker&#39;s electrically powered doors. The problem: They stop working if the vehicle&#39;s low-voltage battery fails.</p>
+<p>The NHTSA&#39;s probe will cover the <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/tesla-2021-models-top-epa-ev-efficiency-131759815.html">2021 Model Y</a>, which covers an estimated 174,290 vehicles. But the agency <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://static.nhtsa.gov/odi/inv/2025/INOA-PE25010-18817.pdf">suggested</a> in a document that it could expand its investigation. That makes sense: Every Tesla ever made uses electrically powered door handles. So, this could potentially get very expensive for the otherwise <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/transportation/evs/tesla-accused-of-messing-with-odometers-to-get-out-of-repair-bills-165625372.html">perfectly lovable company</a>.</p>
+<span id="end-legacy-contents"></span><p>Tesla uses a flush door handle design for its vehicles. A 12-volt battery powers the door&#39;s ability to pop the handle and release the latch. It&#39;s one of the <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/2017-01-11-tesla-hires-key-apple-designer.html">Apple-like design details</a> that helped the automaker become a household name. But cars aren&#39;t iPhones, and sleekness can&#39;t take a backseat to safety in the auto space.</p>
+<p>Tesla vehicles have a mechanical backup system in the cabin that enables the doors to be opened manually in case of a power loss. But the manual release location varies by model and is often hard to find. And even if you do know where it is, that won&#39;t help if a small child or pet is trapped inside.</p>
+<p>&quot;Although Tesla vehicles have manual door releases inside of the cabin, in these situations, a child may not be able to access or operate the releases even if the vehicle&#39;s driver is aware of them,&quot; the NHTSA wrote in its public summary document.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/7d80e1b0-933a-11f0-a772-7cb9472c1e42" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/7d80e1b0-933a-11f0-a772-7cb9472c1e42" style="height:3737px;width:5605px;" alt="A Tesla Cybertruck parked in a lot." data-uuid="bfd045cf-b43a-332c-a95a-6105eb6d87e8"><figcaption></figcaption><div class="photo-credit">Mylo Kaye / Unsplash</div></figure>
+<p><em>Bloomberg</em>&#39;s original report recounted some heinous stories of Tesla owners dealing with electronic door failures. There was an off-duty firefighter who struggled to break into a burning Model Y in 2023. The occupant was trapped in the passenger seat by airbags and couldn&#39;t reach the manual release. Losing precious seconds due to the door design, she suffered third-degree facial burns and had lasting lung damage from smoke inhalation.</p>
+<p>There are reportedly more. Last November in California, three college students died trapped inside a Cybertruck after it caught fire. The same month, five people in Wisconsin died inside a Model S. The cluster of bodies in the front seat suggested to the detective they may have struggled to escape.</p>
+<p>Then, this spring in LA, a star college basketball recruit managed to escape only after kicking out a Cybertruck window when it caught fire. &quot;I try to open the door, and the door&#39;s not opening,&quot; Alijah Arenas <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2025-06-26/alijah-arenas-on-usc-basketball-star-s-tesla-cybertruck-crash">said</a>. He was placed in a medically induced coma due to extensive smoke inhalation.</p>
+<p><em>Bloomberg</em> discovered that the NHTSA has received over 140 complaints about stuck Tesla doors since 2018. The regulator cited nine &quot;failure reports&quot; that led it to probe the company. In four cases, the people resorted to breaking the window. &quot;Entrapment in a vehicle is particularly concerning in emergency situations, such as when children are entrapped in a hot vehicle,&quot; NHTSA said.</p>This article originally appeared on Engadget at https://www.engadget.com/transportation/evs/nhtsa-is-investigating-tesla-over-its-electronic-door-handles-203605393.html?src=rss
