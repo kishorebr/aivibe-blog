@@ -1,0 +1,39 @@
+---
+title: >-
+  Engadget review recap: iPhone 17 lineup, AirPods Pro 3, Apple Watch Series 11
+  and more
+date: '2025-09-21'
+excerpt: >-
+  Last week's Apple event meant we were in for a barrage of reviews this week.
+  We spent lots of time putting the iPhone 17 family, including the new iPh...
+coverImage: >-
+  https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Healthcare
+source: >-
+  https://www.engadget.com/engadget-review-recap-iphone-17-lineup-airpods-pro-3-apple-watch-series-11-and-more-120014319.html?src=rss
+---
+<p>Last week's Apple event meant we were in for a barrage of <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/reviews/">reviews</a> this week. We spent lots of time putting the iPhone 17 family, including the new iPhone Air, through its paces. We also tested the AirPods Pro 3 and Apple Watch Series 11 that were unveiled just over a week ago. In non-Apple reviews, there's in-depth analysis of a premium Chromebook and the latest Tamagotchi device. Read on to catch up on everything you might've missed over the last few weeks.&nbsp;</p> 
+<h2 id="jump-link-apple-iphone-air">Apple iPhone Air</h2> 
+<p> <core-commerce id="b887dcac8bcf4026ad2ee701acb2bd7d" data-type="product-list" data-original-url="https://www.apple.com/shop/buy-iphone/iphone-air"></core-commerce></p> 
+<p>Apple replaced the iPhone 16 Plus with the ultra-thin iPhone Air, but the new phone is more than just a gimmick. As senior reviews writer Sam Rutherford observed, the company opted for sleekness with a purpose, and it did so without sacrificing too much battery life. "While Apple might not want to say so just yet, I'm willing to bet that this device will also be the template for an upcoming foldable iPhone," <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/mobile/smartphones/iphone-air-review-thinness-with-purpose-120037520.html">he concluded</a>.&nbsp;</p> <span id="end-legacy-contents"></span> 
+<h2 id="jump-link-apple-iphone-17">Apple iPhone 17</h2> 
+<p> <core-commerce id="82b83e5b746f4a25831db8aac96e60d7" data-type="product-list" data-original-url="https://www.apple.com/shop/buy-iphone/iphone-17"></core-commerce></p> 
+<p>We've become bored with Apple's tickle-down scheme for the regular iPhone over the years. The company has repeatedly opted to bring features from the Pro line down to these devices. This time, it finally gave the iPhone 17 a 120Hz display, and you won't have to wait for the best camera updates. "Even if you’re coming from the iPhone 16, you’ll reap the benefits of the overhauled display and improved cameras," <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/mobile/smartphones/iphone-17-review-closer-to-pro-110055511.html">I wrote</a>. "I don’t say any of that lightly as I’m not a person who recommends getting a new phone every year."</p> 
+<h2 id="jump-link-apple-iphone-17-pro-and-pro-max">Apple iPhone 17 Pro and Pro Max</h2> 
+<p> <core-commerce id="a6e5fa084b7a443ea3be750acccb31cf" data-type="product-list" data-original-url="https://www.apple.com/iphone-17-pro/"></core-commerce></p> 
+<p>The Pro and Pro Max versions of the iPhone have always held a camera advantage over the regular model, and that's still true. But the main differences now also include better thermal management, an aluminum unibody case and an optional 6.9-inch display. "This year’s iPhone lineup is forcing me to re-think the idea of a Pro phone," <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/mobile/smartphones/iphone-17-pro-and-pro-max-review-an-impactful-redesign-120002202.html">managing editor Cherlynn Low said</a>. "Is it one that looks and feels expensive or is it one that’s slightly more durable and maybe doesn’t appear as stylish?"</p> 
+<h2 id="jump-link-apple-airpods-pro-3">Apple AirPods Pro 3</h2> 
+<p> <core-commerce id="179947b826554322a94a02e7dfdcad26" data-type="product-list" data-original-url="https://www.amazon.com/Apple-Cancellation-Translation-Headphones-High-Fidelity/dp/B0FQFB8FMG"></core-commerce></p> 
+<p>If Apple had only improved both the active noise cancellation (ANC) and sound performance of the AirPods Pro 3, it would've been a decent upgrade. However, the company went well beyond that with the additions of Live Translation and heart-rate tracking. But the best part about this model is the strong possibility that the company isn't done with it yet. "If recent history is any indication, the company will continue to add new features to this third-generation version," <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/audio/headphones/airpods-pro-3-review-a-significant-update-to-apples-best-earbuds-120028170.html">I said</a>. "I highly doubt that Apple is finished exploiting the power of the H2 chip, so it's just getting started with what the AirPods Pro 3 can do."</p> 
+<h2 id="jump-link-apple-watch-series-11">Apple Watch Series 11</h2> 
+<p> <core-commerce id="02876f9425d9403fbfcda14484fc3f50" data-type="product-list" data-original-url="https://www.amazon.com/Apple-Watch-Smartwatch-Aluminium-Always/dp/B0FQFL8PZ5/"></core-commerce></p> 
+<p>The best smartwatch for iPhone owners keeps getting better. With upgrades to design, battery life, health monitoring and more, the Series 11 is a big refresh for the wearable device. However, it might not be the best option for most people. "With the Watch SE 3, you’ll still be able to access a wide range of health and fitness features like wrist temperature monitoring, sleep score, emergency SOS, fall and crash detection and more," <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/wearables/apple-watch-series-11-review-a-reliable-wearable-for-when-it-matters-most-120016945.html">Cherlynn concluded</a>. "It’s a compelling option at an appealing price."</p> 
+<h2 id="jump-link-acer-chromebook-plus-spin-514">Acer Chromebook Plus Spin 514</h2> 
+<p> <core-commerce id="8cae5fef024f4ef3ba74d03e99a28abd" data-type="product-list" data-original-url="https://www.bestbuy.com/product/acer-chromebook-plus-spin-514-14-wuxga-touch-laptop-with-google-ai-mediatek-kompanio-ultra-12gb-ram-ufs-256gb-wi-fi-7-platinum-silver/JJ8V8HG3JS"></core-commerce></p> 
+<p>There's some wide variance in performance among Chromebooks, but Acer's Chromebook Plus Spin 514 offers power, longevity and utility. The main downside is you'll have to pay a premium for it. "At $700, we’re pushing the top of what anyone should spend on a Chromebook," <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/computing/laptops/acer-chromebook-plus-spin-514-review-the-new-chromeos-sweet-spot-090014823.html">deputy editor Nathan Ingraham wrote</a>. "While the more powerful chip and long battery life will be worth it for some people, Acer itself is providing some strong competition with its standard Chromebook Plus 514 which came out this summer."</p> 
+<h2 id="jump-link-tamagotchi-paradise">Tamagotchi Paradise</h2> 
+<p> <core-commerce id="da80e4165ec04095b9366144fb74a819" data-type="product-list" data-original-url="https://www.amazon.com/Tamagotchi-43422-Paradise-Blue-Water/dp/B0DX8B8XGW"></core-commerce></p> 
+<p>If taking care of a virtual pet is more your speed these days, weekend editor Cheyenne McDonald spent some time tending to her digital flock. "All in all, Tamagotchi Paradise feels fuller than 2023's Uni, especially as the latter existed at its launch before all the downloadable content started coming in," <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/gaming/tamagotchi-paradise-trades-stressful-virtual-pet-parenting-for-nature-and-tranquility-130049511.html">she said</a>. "There's a lot of fun to be had with this one, so long as you're open to a little (okay, a lot of) change."</p>This article originally appeared on Engadget at https://www.engadget.com/engadget-review-recap-iphone-17-lineup-airpods-pro-3-apple-watch-series-11-and-more-120014319.html?src=rss

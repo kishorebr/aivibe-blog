@@ -1,0 +1,30 @@
+---
+title: >-
+  Trump administration to impose a $100,000 fee for H-1B visas, but now says
+  it'll be a one-time charge
+date: '2025-09-21'
+excerpt: >-
+  President Donald Trump has signed a new executive order, which adds a $100,000
+  fee to H-1B visa applications. But according to White House Press Secre...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+  - Tools
+category: Work
+source: >-
+  https://www.engadget.com/big-tech/trump-administration-to-impose-a-100000-per-year-fee-for-h-1b-visas-041417692.html?src=rss
+---
+<p>President <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/big-tech/donald-trump-is-reportedly-preparing-a-sweep-of-pro-ai-executive-orders-171856144.html">Donald Trump</a> has <a data-i13n="cpos:2;pos:1" href="https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-suspends-the-entry-of-certain-alien-nonimmigrant-workers/">signed</a> a new executive order, which adds a $100,000 fee to H-1B visa applications. But according to White House Press Secretary Karoline Leavitt, it won't be an annual fee as the administration initially said it would be. During the signing at the Oval Office on Friday, Commerce Secretary Howard Lutnick said multiple times that the fee would be applied per year. In a follow-up <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://x.com/PressSec/status/1969495900478488745">X post</a> on Saturday, however, Leavitt wrote "to be clear," the fee is not annual but "one-time fee that applies only to the petition."</p>
+<p><a data-i13n="cpos:4;pos:1" href="https://www.nytimes.com/2025/09/19/us/politics/trump-h-1b-visas-fee.html"><em>The New York Times</em></a> reported on Friday that the Secretary of Homeland Security will restrict approval for visa applications of people who are "currently outside the United States" unless accompanied by the fee, though the rule "allows case-by-case exemptions if [it's] in the national interest." This new requirement will only apply to new visa applicants, a White House official told <em>The Times</em>, and it will likely face legal challenges. If it does get implemented, though, it could deal a huge blow to the tech industry.</p>
+<span id="end-legacy-contents"></span><p>In her post, though, Leavitt said, "Those who already hold H-1B visas and are currently outside of the country right now will NOT be charged $100,000 to re-enter. H-1B visa holders can leave and re-enter the country to the same extent as they normally would; whatever ability they have to do that is not impacted by yesterday’s proclamation." She also wrote, "This applies only to new visas, not renewals, and not current visa holders. It will first apply in the next upcoming lottery cycle."</p>
+<div id="947d1ec7aac44588b5bbad4ac6fca108"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">To be clear:<br><br>1.) This is NOT an annual fee. It’s a one-time fee that applies only to the petition.<br><br>2.) Those who already hold H-1B visas and are currently outside of the country right now will NOT be charged $100,000 to re-enter. <br><br>H-1B visa holders can leave and re-enter the…</p>— Karoline Leavitt (@PressSec) <a href="https://twitter.com/PressSec/status/1969495900478488745?ref_src=twsrc%5Etfw">September 20, 2025</a></blockquote>
+ 
+
+</div>
+<p>While several sectors in the US use the program to bring skilled workers into the country, some of its biggest beneficiaries are in the tech sector. According to the <a data-i13n="cpos:5;pos:1" href="https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub">US Citizen and Immigration Services</a>, Amazon has the most number (over 10,000) of workers on the H-1B visa. Microsoft, Meta, Apple and Google are also in the top ten list of employers that brought over H-1B workers, with between 4,000 and 5,500 employees on the visa. Walmart, Intel, IBM and NVIDIA have a considerable number of H-1B workers, as well. As <a data-i13n="cpos:6;pos:1" href="https://techcrunch.com/2025/09/19/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/"><em>TechCrunch</em></a> has noted, Elon Musk, who used to be close to the president, came over to the US on the H-1B, as did Instagram co-founder Mike Krieger.&nbsp;</p>
+<p>In the <a data-i13n="cpos:7;pos:1" href="https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/">White House's announcement</a>, the administration explained that some employers have abused the H-1B visa to "artificially suppress wages," creating a disadvantageous market for Americans. "Information technology (IT) firms in particular have prominently manipulated the H-1B system, significantly harming American workers in computer-related fields," the announcement read.&nbsp;</p>
+<p>Trump has also signed an order for a new visa program called the "<a data-i13n="cpos:8;pos:1" href="https://www.whitehouse.gov/presidential-actions/2025/09/the-gold-card/">Gold Card</a>," which the administration says will prioritize "the admission of aliens who will affirmatively benefit the Nation, including successful entrepreneurs, investors, and businessmen and women." It's an expedited immigrant visa program, available to anybody who can afford the "requisite gift" the government asks for. Specifically, the gift made to the US Department of Commerce must be "$1 million for an individual donating on his or her own behalf and $2 million for a corporation or similar entity donating on behalf of an individual."</p>
+<p><strong>Update, September 21, 2025 10:11AM ET:</strong> This article has been updated to reflect new information from White House press secretary Karoline Leavitt walking back the administration's initial claim that the fee would be applied per year. Leavitt now says it will not be annual.&nbsp;&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/trump-administration-to-impose-a-100000-per-year-fee-for-h-1b-visas-041417692.html?src=rss
