@@ -1,0 +1,25 @@
+---
+title: Here's how EventVPN is different from other free VPNs
+date: '2025-09-22'
+excerpt: >-
+  EventVPN, a new freemium VPN built by the same team and on the same
+  infrastructure as ExpressVPN, launched on September 18 for iOS and macOS. It
+  comes...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/cybersecurity/vpn/heres-how-eventvpn-is-different-from-other-free-vpns-213014671.html?src=rss
+---
+<p>EventVPN, a new freemium VPN built by the same team and on the same infrastructure as ExpressVPN, <a data-i13n="elm:affiliate_link;sellerN:ExpressVPN;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=4255ebf1-6185-403e-9be2-91ab47ad1ac3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=592414c2-ca45-4918-aa2d-7565fa74c261&amp;featureId=text-link&amp;merchantName=ExpressVPN&amp;linkText=launched+on+September+18&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5leHByZXNzdnBuLmNvbS9ibG9nL2ZyZWUtdnBuLWV2ZW50dnBuLyIsImNvbnRlbnRVdWlkIjoiNTkyNDE0YzItY2E0NS00OTE4LWFhMmQtNzU2NWZhNzRjMjYxIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5leHByZXNzdnBuLmNvbS9ibG9nL2ZyZWUtdnBuLWV2ZW50dnBuLyJ9&amp;signature=AQAAAeCSc8sdRnAHn1L5ooBINfQf4sJ2OqYDg87tR1e_zTWB&amp;gcReferrer=https%3A%2F%2Fwww.expressvpn.com%2Fblog%2Ffree-vpn-eventvpn%2F" class="rapid-with-clickid" data-original-link="https://www.expressvpn.com/blog/free-vpn-eventvpn/">launched on September 18</a> for iOS and macOS. It comes with unlimited free bandwidth, a relative rarity among free VPNs, and carries over ExpressVPN's kill switch and post-quantum WireGuard protocol. Free users get 35 server locations and one device connection, while paid users get 125 locations and eight simultaneous connections.</p> 
+<p>EventVPN isn't the first free VPN that actually aims to ensure user privacy — the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/cybersecurity/vpn/proton-vpn-review-2025-a-nonprofit-service-with-premium-performance-153046073.html">free version of Proton VPN</a> is also safe, as are a few others on our <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html">best VPN list</a>, like hide.me and Windscribe. However, ExpressVPN isn't wrong that free VPNs often <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/cybersecurity/vpn/vpns-are-booming-in-the-uk-after-age-restriction-laws-but-free-options-carry-big-risks-060036636.html">don't have their users' interests at heart</a>. The EventVPN announcement left me with one big question: what's it doing to be safer, more private and/or better than other free options?</p> <span id="end-legacy-contents"></span> 
+<p>The most interesting feature of EventVPN — and one I can't currently find duplicated on any other free VPN — is that it has no user data backend whatsoever. It uses Apple ID validation to manage accounts and connection tokens without storing any information itself. This doesn't move the security needle much (Apple isn't immune to data leaks either), but it does make it theoretically impossible for EventVPN to sell user information.</p> 
+<p>Of course, a clear privacy policy that EventVPN sticks to would accomplish the same thing. But just like with RAM-only servers automatically deleting user activity logs, it's always nice to have an option other than trusting the VPN provider to keep its word. And to be fair, <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/vpn-review-expressvpn-2023-gaming-streaming-160052492.html">ExpressVPN has a clear privacy policy that it sticks to</a>, so there's good reason to believe EventVPN will do the same for <a data-i13n="cpos:6;pos:1" href="https://www.eventvpn.com/privacy/">its own policy</a>.</p> 
+<p>There is one unfortunate cost to that relative privacy, though: EventVPN's free plan requires you to watch ads. When I briefly tested it, I was shown one 30-second ad whenever I connected and another when I disconnected. It's galling to be asked to watch ads for a service that also has a paid tier ($9.99 per month, or $69.99 for a year), since I've already named three other equally good freemium VPNs that don't show ads at all. At least EventVPN anonymizes the ads, showing advertisers a masked identifier instead of any real info on you.</p> 
+<p>To sum up, EventVPN is a lot better than free VPNs that turn you into the product, but its ads put it a step behind ProtonVPN, hide.me, Windscribe and even TunnelBear. If ExpressVPN has always worked far better for you than any other provider, it might be worth using EventVPN as a backup free service. Otherwise, there are better options.</p> 
+<p> <core-commerce id="3ca09b89929f43a9bb667a9be9b3cffe" data-type="product-list" data-original-url="https://www.eventvpn.com/"></core-commerce></p> 
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/vpn/heres-how-eventvpn-is-different-from-other-free-vpns-213014671.html?src=rss

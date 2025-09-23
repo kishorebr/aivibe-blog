@@ -1,0 +1,21 @@
+---
+title: Stellantis confirms data breach involving customers' contact information
+date: '2025-09-22'
+excerpt: >-
+  Stellantis — the parent of several auto brands including Dodge, Ram and
+  Chrysler — said customers&#39; personal information was included in a data
+  bre...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Transportation
+category: Finance
+source: >-
+  https://www.engadget.com/big-tech/stellantis-confirms-data-breach-involving-customers-contact-information-194136744.html?src=rss
+---
+<p><a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/transportation/another-big-car-company-gives-up-on-hydrogen-133011978.html"><ins>Stellantis</ins></a> — the parent of several auto brands including Dodge, Ram and Chrysler — said customers&#39; personal information was included in a data breach. The automaker said <a data-i13n="cpos:2;pos:1" href="https://media.stellantisnorthamerica.com/newsrelease.do?id=27079"><ins>in a statement</ins></a> that &quot;contact information&quot; was procured, but not &quot;financial or sensitive personal&quot; data, as that is not stored on the third-party platform that was breached.</p>
+<p>&quot;We recently detected unauthorized access to a third-party service provider’s platform that supports our North American customer service operations,&quot; Stellantis said. &quot;Upon discovery, we immediately activated our incident response protocols, initiated a comprehensive investigation and took prompt action to contain and mitigate the situation. We are also notifying the appropriate authorities and directly informing affected customers.&quot; The company encouraged customers to be on guard against phishing and social engineering attacks, and to be careful about sharing personal information with anyone who contacts them unexpectedly.</p>
+<span id="end-legacy-contents"></span><p>Stellantis has not disclosed what types of contact information were involved in the breach, how many customers were affected or whether it&#39;s offering them privacy or credit protection services. A spokesperson told Engadget the automaker is &quot;not providing any additional information beyond our statement.&quot;</p>
+<p><a data-i13n="cpos:3;pos:1" href="https://www.bleepingcomputer.com/news/security/automaker-giant-stellantis-confirms-data-breach-after-salesforce-hack/"><em><ins>Bleeping Computer</ins></em></a> says a group called ShinyHunters claimed credit for the breach. The group told the publication it obtained more than 18 million records, containing contact details and names, from Stellantis&#39; Salesforce instance. ShinyHunters has <a data-i13n="cpos:4;pos:1" href="https://www.bleepingcomputer.com/news/security/shinyhunters-behind-salesforce-data-theft-attacks-at-qantas-allianz-life-and-lvmh/"><ins>reportedly</ins></a> stolen data from other Salesforce clients over the last several months, including <a data-i13n="elm:affiliate_link;sellerN:Google Cloud - North America;elmt:;cpos:5;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=53056deb-0e54-4c87-964d-2e7d085829e8&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=b248b98c-a47f-4d81-aa9d-55281db40ace&amp;featureId=text-link&amp;merchantName=Google+Cloud+-+North+America&amp;linkText=Google&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL2Nsb3VkLmdvb2dsZS5jb20vYmxvZy90b3BpY3MvdGhyZWF0LWludGVsbGlnZW5jZS92b2ljZS1waGlzaGluZy1kYXRhLWV4dG9ydGlvbiIsImNvbnRlbnRVdWlkIjoiYjI0OGI5OGMtYTQ3Zi00ZDgxLWFhOWQtNTUyODFkYjQwYWNlIiwib3JpZ2luYWxVcmwiOiJodHRwczovL2Nsb3VkLmdvb2dsZS5jb20vYmxvZy90b3BpY3MvdGhyZWF0LWludGVsbGlnZW5jZS92b2ljZS1waGlzaGluZy1kYXRhLWV4dG9ydGlvbiJ9&amp;signature=AQAAAboekYa-LyAGzQ0eJPAS4FHM00gTMInw1ZJTVd9NxD77&amp;gcReferrer=https%3A%2F%2Fcloud.google.com%2Fblog%2Ftopics%2Fthreat-intelligence%2Fvoice-phishing-data-extortion" class="rapid-with-clickid" data-original-link="https://cloud.google.com/blog/topics/threat-intelligence/voice-phishing-data-extortion"><ins>Google</ins></a>, Qantas, Adidas and LVMH.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/stellantis-confirms-data-breach-involving-customers-contact-information-194136744.html?src=rss
