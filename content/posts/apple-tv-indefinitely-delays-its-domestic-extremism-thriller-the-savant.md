@@ -1,0 +1,20 @@
+---
+title: Apple TV+ indefinitely delays its domestic extremism thriller 'The Savant'
+date: '2025-09-23'
+excerpt: >-
+  Apple has delayed the release of its new series The Savant just three days
+  before it was supposed to premiere on September 26, Deadline reports. The s...
+coverImage: >-
+  https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Transportation
+source: >-
+  https://www.engadget.com/entertainment/streaming/apple-tv-indefinitely-delays-its-domestic-extremism-thriller-the-savant-223044979.html?src=rss
+---
+<div id="d1698dade413460498ee779de09a1080"><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/UYQiGBupM8I?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="www.youtube.com"></iframe></div></div>
+<p>Apple has delayed the release of its new series <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.apple.com/tv-pr/news/2025/07/apple-tv-unveils-first-look-at-limited-series-the-savant-starring-and-executive-produced-by-academy-award-winner-jessica-chastain/"><em>The Savant</em></a> just three days before it was supposed to premiere on September 26, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://deadline.com/2025/09/the-savant-jessica-chastain-postponed-apple-1236553658/"><em>Deadline </em>reports</a>. The series follows an investigator, played by Jessica Chastain, who infiltrates a domestic extremist group in the US. Apple hasn&#39;t provided a new release date for the show.</p>
+<p>&quot;After careful consideration, we have made the decision to postpone <em>The Savant</em>,&quot; the company shared in a statement to <em>Deadline</em>. &quot;We appreciate your understanding and look forward to releasing the series at a future date.&quot; The timing of the sudden delay, and the lack of explanation for why the company is delaying the show, could be telling. Disney made a similar knee-jerk reaction in <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://apnews.com/article/jimmy-kimmel-show-suspended-charlie-kirk-a2bfa904429c318fe52e7d3493c6883d">placing Jimmy Kimmel Live! on indefinite hiatus</a> following a joke Kimmel made about the reaction to the killing of right-wing activist Charlie Kirk.</p>
+<span id="end-legacy-contents"></span><p>Given that <em>The Savant</em> likely focuses on preventing acts of political violence, it might make you wonder who Apple is worried its show will offend. But it&#39;s also entirely possible that the company is trying to avoid people making <em>any</em> kind of association between its TV show and a very public assassination.</p>
+<p>Apple generally avoids rocking the boat whenever possible, particularly when it could hurt its business interests. <em>The Problem With Jon Stewart</em> was <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/jon-stewarts-apple-tv-show-reportedly-ends-following-clash-over-ai-and-china-080117666.html">reportedly cancelled</a> when Jon Stewart wanted to cover topics Apple deemed controversial, like China and artificial intelligence. Apple does business in China, so it seems likely the company was skittish about airing anything that could be viewed as criticism, even if having difficult conversations was the premise of Stewart&#39;s show. The decision to pull <em>The Savant</em>, even if despite reading like the company is worried about offending right-wing extremists, was likely made from a similar place of caution.</p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/apple-tv-indefinitely-delays-its-domestic-extremism-thriller-the-savant-223044979.html?src=rss
