@@ -1,0 +1,23 @@
+---
+title: Apple clarifies some iPhone 17 Pro 'scratches' are caused by MagSafe stands
+date: '2025-09-24'
+excerpt: >-
+  If you&#39;ve heard that Apple&#39;s new iPhone 17 Pro models are more prone
+  to scratches than past models, the story is not as cut and dry as it migh...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/mobile/smartphones/apple-clarifies-some-iphone-17-pro-scratches-are-caused-by-magsafe-stands-200016073.html?src=rss
+---
+<p>If you&#39;ve heard that Apple&#39;s new <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.engadget.com/mobile/smartphones/iphone-17-pro-and-pro-max-review-an-impactful-redesign-120002202.html">iPhone 17 Pro</a> models are more prone to scratches than past models, the story is not as cut and dry as it might appear. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2025-09-19/chinese-iphone-buyers-complain-of-scratches-on-new-pro-models?embedded-checkout=true"><em>Bloomberg </em>reported</a> on September 19 that in-store iPhone Air and iPhone 17 Pro were already showing scratches, including circular marks from where the phones mounted on MagSafe stands. Now <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://9to5mac.com/2025/09/24/apple-responds-to-iphone-17-pro-scratch-and-durability-concerns/">Apple tells <em>9to5Mac</em></a> those marks aren&#39;t scratches but rather &quot;material transfer&quot; from the stands to the body of the phone.</p>
+<p>Apple&#39;s explanation suggests that simply cleaning demo iPhone 17 Pro units and replacing old MagSafe stands will prevent those markings from happening in the future. That doesn&#39;t account for the scratches some iPhone 17 Pro owners have noticed <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://x.com/VerdeSelvans/status/1968963202386964499">around the phone&#39;s camera bump</a>, though. In a <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.youtube.com/watch?v=KrOBzFwVzwA">recent scratch test video</a>, YouTuber JerryRigEverything<em>&nbsp;</em>speculated that Apple&#39;s decision to not add a chamfer or fillet to the sides of the iPhone 17 Pro&#39;s camera bump left it more prone to damage. Through <em>9to5Mac</em>, Apple says it designed the Pro&#39;s aluminum camera bump in the same way as its other aluminum products and that it&#39;s durable, but prone to &quot;small abrasions&quot; over time.</p>
+<span id="end-legacy-contents"></span><div id="1c996e80e63a4c869c7f2437fb3f7b28"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Demo unit iPhone 17 Pro scratches on day 1… (it’s not even 24 hours yet)<br><br>Use a case immediately if you don’t wait to experience this kind of issue. I’m very disappointed with the quality here <a href="https://t.co/zRjIQrl3zA">pic.twitter.com/zRjIQrl3zA</a></p>— Bradley (@VerdeSelvans) <a href="https://twitter.com/VerdeSelvans/status/1968963202386964499?ref_src=twsrc%5Etfw">September 19, 2025</a></blockquote>
+ 
+
+</div>
+<p>So Apple has effectively denied one instance of the iPhone 17 Pro scratching and sidestepped another. Notably, at no point in <em>9to5Mac</em>&#39;s reporting is Apple or a spokesperson actually quoted, though, which might suggest the company isn&#39;t ready to stick to a single explanation for the issues some users are dealing with. Engadget has contacted Apple for more information and will update this article if we learn more.</p>
+<p>Switching from the titanium frame of the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.engadget.com/mobile/smartphones/iphone-16-pro-longterm-review-apple-intelligence-134517480.html">iPhone 16 Pro</a> to the unibody aluminum one on the iPhone 17 Pro lets Apple&#39;s new phone be both more performant and offer longer battery life. Aluminum does come with a natural drawback, though: It&#39;s less scratch-resistant than titanium. It&#39;s entirely possible reports of iPhone 17 Pro scratches are just a way to squeeze a few more drops of attention out of Apple&#39;s launch, but if the company does have a problem, its choice of material might be the cause.</p>This article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/apple-clarifies-some-iphone-17-pro-scratches-are-caused-by-magsafe-stands-200016073.html?src=rss
