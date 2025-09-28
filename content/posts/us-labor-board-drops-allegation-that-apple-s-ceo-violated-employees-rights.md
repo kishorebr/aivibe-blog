@@ -1,0 +1,22 @@
+---
+title: US labor board drops allegation that Apple's CEO violated employees' rights
+date: '2025-09-27'
+excerpt: >-
+  The National Labor Relations Board has withdrawn "many of the claims" it made
+  against Apple in relation to cases brought in 2021 by former employees,...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/big-tech/us-labor-board-drops-allegation-that-apples-ceo-violated-employees-rights-143053792.html?src=rss
+---
+<p>The National Labor Relations Board has withdrawn "many of the claims" it made against Apple in relation to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.engadget.com/big-tech/us-labor-board-accuses-apple-of-violating-employees-rights-164643503.html">cases brought in 2021</a> by former employees, according to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2025-09-26/us-labor-board-withdraws-claims-that-apple-ceo-violated-workers-rights"><em>Bloomberg</em></a>. In particular, it dismissed an allegation that Apple CEO Tim Cook violated workers' rights when he sent an all-staff email that year, which said "people who leak confidential information do not belong" in the company. Cook also said in the email that Apple was "doing everything in [its] power to identify those who leaked" information from an internal meeting the previous week, wherein management answered workers' questions about pay equity and Texas’ anti-abortion law.</p>
+<p>Apple didn't “tolerate disclosures of confidential information, whether it’s product IP or the details of a confidential meeting," Cook wrote at the time. The NLRB has now withdrawn some of the claims made in complaints by former employee Ashley Gjøvik, including that Apple told employees not to disclose company communications, and that it had suspended Gjøvik in retaliation and fired her unlawfully. But, not all of the allegations have been withdrawn. Apple <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.theregister.com/2025/04/10/apple_agrees_to_settle_unfair/">settled a separate case with Gjøvik back in April</a>, which <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.ashleygjovik.com/blog/04082025-nlrb-win-apple-compelled-to-rescind-unlawful-policies-nationwide">she announced</a> as a win for workers, as the settlement required Apple to revise rules around employee agreements and discussions of company information to clarify "that employees can talk about their pay, working conditions, and union organizing without retaliation," and speak to the press, among other things.</p>
+<span id="end-legacy-contents"></span><p>In addition dropping its claim that Cook's email violated workers' rights, the labor board is also withdrawing its allegation that the firing of activist Janneke Parrish, one of the leaders of the #AppleToo movement, broke the law. It's dismissing its previous allegations that Apple broke the law by imposing confidentiality rules and surveilling workers or making them think they were under surveillance, as well. After an investigation, NLRB previously came to the conclusion that Cook's email and Apple's overall behavior were "interfering with, restraining and coercing employees in the exercise of their rights."</p>
+<p><em>Bloomberg</em> says this is just one instance of the NLRB being more friendly to companies under President Trump. We've reached out to the NLRB for more information.</p>
+<p><strong>Correction, September 27, 2025, 6:42PM ET:</strong> This story incorrectly stated that the NLRB had withdrawn claims made against Apple in complaints filed by employees including Cher Scarlett. Scarlett's charges against Apple, which relate to pay equity, suppression of wage discussions and constructive discharge, have not been withdrawn or dismissed.&nbsp;</p>
+<p>This article has also been updated to include additional information about allegations by former employee Ashley Gjøvik that have been withdrawn, and about Apple's previous settlement with Gjøvik.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/us-labor-board-drops-allegation-that-apples-ceo-violated-employees-rights-143053792.html?src=rss
