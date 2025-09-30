@@ -1,0 +1,24 @@
+---
+title: 'What to expect from Amazon''s event on Tuesday, September 30'
+date: '2025-09-29'
+excerpt: >-
+  Apple isn&#39;t the only big tech company that&#39;s launching hardware this
+  month. Amazon is having its fall hardware event on Tuesday, September 30...
+coverImage: >-
+  https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Smart Home
+source: >-
+  https://www.engadget.com/big-tech/what-to-expect-from-amazons-event-on-tuesday-september-30-210035284.html?src=rss
+---
+<p>Apple isn&#39;t the only big tech company that&#39;s launching hardware this month. Amazon is having its <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/audio/speakers/amazon-may-be-announcing-new-echo-and-kindle-devices-on-september-30-152044048.html">fall hardware event</a> on Tuesday, September 30 at 10AM ET in New York City, and — as it does most years — the company is expected to debut new devices across its myriad product categories. While the event will not be livestreamed, Engadget staff will be in attendance and liveblogging it in real-time. Our pre-show coverage will begin around 8AM ET.&nbsp;&nbsp;&nbsp;</p>
+<p>So what will Amazon be sharing? Using the images in the invitation that went out to members of the press as a jumping-off point, here are our best educated guesses as to what we can expect.&nbsp;</p>
+<span id="end-legacy-contents"></span><figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/3ae04d50-933a-11f0-b7af-f61d2e002e62" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-09/3ae04d50-933a-11f0-b7af-f61d2e002e62" style="height:704px;width:704px;" alt="Image announcing Amazon&#39;s fall hardware event" data-uuid="a237b237-4cb3-3a8e-ae5e-2be43d6add00"><figcaption></figcaption><div class="photo-credit">Amazon</div></figure>
+<p>In February, Amazon introduced some improvements to its voice assistant, promising that <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/ai/alexa-is-a-smarter-more-conversational-ai-version-of-amazons-digital-assistant-154349563.html">Alexa+</a> would be more conversational and more helpful thanks to generative AI. It seems likely that the fall event will put hardware for interacting with Alexa+ front and center, so expect to hear about new models or new software updates for the Echo line of smart speakers. It&#39;s been a couple years since the Echo Show got an update, and it&#39;s been even longer for the standard Echo. Those two products are the most likely to star in the upcoming announcements.</p>
+<p>The invite also includes a photo of a Kindle that depicts a color illustration, so there may be more in store for the ereaders. The <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/mobile/tablets/kindle-scribe-2-review-in-progress-is-slightly-useful-ai-worth-the-extra-cash-140018638.html">Kindle Scribe 2</a> just came out earlier this year, as did the <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/mobile/tablets/kindle-colorsoft-review-the-missing-link-in-amazons-ereader-lineup-131529685.html">Kindle Colorsoft</a>, so maybe there&#39;s a new option in the works that combines the best features of both. As with the Echo, there also hasn&#39;t been much new for the basic model Kindle, so that may also be getting some updates.</p>
+<p>There&#39;s also what appears to be the corner of a television in the invitation, so news about the Fire TV also seems promising. This event is also where Amazon-owned Ring and Eero brands may unveil new products. Any announced items may not be available right away, but the timing does set the stage for some substantial discounts on older generations of Amazon gear. In fact, many of Amazon&#39;s current devices are already on sale — including <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/deals/two-blink-mini-2-cameras-are-on-sale-for-35-in-this-prime-day-deal-201049652.html">Blink</a>, <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/deals/amazons-kindle-scribe-drops-to-a-record-low-price-for-prime-day-134701307.html">Kindle</a> and <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/deals/pick-up-this-battery-powered-ring-doorbell-while-its-down-to-80-ahead-of-prime-day-154508825.html">Ring</a> — as more early <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/deals/the-best-october-prime-day-deals-you-can-get-right-now-early-sales-on-tech-from-apple-amazon-samsung-anker-and-more-050801285.html">October Prime Day deals</a> pop up ahead of the sale&#39;s official start on October 7.</p>
+<p><strong><em>Update, September 29, 2025, 3:20PM ET: </em></strong><em>This story has been updated to note Engadget&#39;s liveblog plans for the Amazon event.</em></p>
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/what-to-expect-from-amazons-event-on-tuesday-september-30-210035284.html?src=rss
