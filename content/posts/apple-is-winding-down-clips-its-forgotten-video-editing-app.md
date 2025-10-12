@@ -1,0 +1,17 @@
+---
+title: 'Apple is winding down Clips, its forgotten video-editing app'
+date: '2025-10-11'
+excerpt: >-
+  It seems to be the end of the road for Apple&#39;s Clips app. The company said
+  on a support page that it has stopped updating the video-editing app, a...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Tools
+category: General AI
+source: >-
+  https://www.engadget.com/apple-is-winding-down-clips-its-forgotten-video-editing-app-210907085.html?src=rss
+---
+<p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">It seems to be the end of the road for Apple&#39;s </span><a target="_blank" class="link" href="https://www.engadget.com/2017-03-21-apple-clips-ios-app-april.html" data-i13n="cpos:1;pos:1"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">Clips</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> app. The company said </span><a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=089e3591-a8c4-4715-a429-7d181eecc99c&amp;featureId=text-link&amp;linkText=on+a+support+page&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3N1cHBvcnQuYXBwbGUuY29tL2VuLXVzLzEyMzM1OSIsImNvbnRlbnRVdWlkIjoiMDg5ZTM1OTEtYThjNC00NzE1LWE0MjktN2QxODFlZWNjOTljIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3N1cHBvcnQuYXBwbGUuY29tL2VuLXVzLzEyMzM1OSJ9&amp;signature=AQAAAflPBEeRToXjlViYtca-FtfCDxmTZDPZWWYn5MvgTWJk&amp;gcReferrer=https%3A%2F%2Fsupport.apple.com%2Fen-us%2F123359" data-i13n="elm:affiliate_link;sellerN:;elmt:;cpos:2;pos:1" data-original-link="https://support.apple.com/en-us/123359"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">on a support page</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> that it has stopped updating the video-editing app, and new users can no longer download it from the App Store. Existing users on iOS and iPadOS will continue to have access for the time being, but the company hasn&#39;t said how long that will last. &quot;If you previously downloaded the Clips app, you can still redownload it from your Apple account in the App Store,&quot; the support page notes.&nbsp;</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">Clips was </span><a target="_blank" class="link" href="https://www.engadget.com/2017-04-06-apple-clips-app-launches-today.html" data-i13n="cpos:3;pos:1"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">introduced in 2017</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> and offers a host of editing tools geared toward creating videos for social media. But Clips never really caught on, and many of the features it boasts are pretty much standard fare on the social apps now. Apple has recommended that Clips users save their&nbsp; videos to their photo libraries or elsewhere, so if you are one of the few users hanging on, you should probably go ahead and do that before it&#39;s too late.&nbsp;</span></p><p style="text-align:left;"><br></p><p style="text-align:left;"></p>This article originally appeared on Engadget at https://www.engadget.com/apple-is-winding-down-clips-its-forgotten-video-editing-app-210907085.html?src=rss
