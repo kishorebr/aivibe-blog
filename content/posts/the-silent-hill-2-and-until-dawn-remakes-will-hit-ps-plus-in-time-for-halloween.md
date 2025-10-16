@@ -1,0 +1,19 @@
+---
+title: >-
+  The Silent Hill 2 and Until Dawn remakes will hit PS Plus in time for
+  Halloween
+date: '2025-10-15'
+excerpt: >-
+  It&#39;s that time of year when trick-or-treaters are finalizing their
+  costumes and horror movie streaming service Shudder surely sees an uptick in
+  us...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/gaming/playstation/the-silent-hill-2-and-until-dawn-remakes-will-hit-ps-plus-in-time-for-halloween-191333113.html?src=rss
+---
+<p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">It&#39;s that time of year when trick-or-treaters are finalizing their costumes and horror movie streaming service Shudder surely sees an uptick in usage. Yes, spooky season is upon us and Sony is getting in on the fun with its </span><a target="_blank" class="link" href="https://blog.playstation.com/2025/10/15/playstation-plus-game-catalog-for-october-silent-hill-2-until-dawn-v-rising-yakuza-like-a-dragon-and-more/" data-i13n="cpos:1;pos:1"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">PlayStation Plus Game Catalog additions</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> for October.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">Starting on October 21, Extra and Premium subscribers will be able to play the remakes of </span><a target="_blank" class="link" href="https://www.engadget.com/silent-hill-2-remake-hits-ps5-and-pc-on-october-8-230731258.html" data-i13n="cpos:2;pos:1"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;"><em>Silent Hill 2</em></span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"> and </span><a target="_blank" class="link" href="https://www.engadget.com/gaming/until-dawn-remake-hits-ps5-and-pc-on-october-4-141559338.html" data-i13n="cpos:3;pos:1"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;"><em>Until Dawn</em></span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"><em> </em>on PS5 at no extra cost. Both games were released last October, so it hasn&#39;t taken too long for them to hit PS Plus. For extra spookiness, 2023&#39;s <em>Alan Wake 2</em> is one of the games that </span><a target="_blank" class="link" href="https://www.engadget.com/gaming/playstation/alan-wake-2-will-be-free-on-ps-plus-in-october-213539815.html" data-i13n="cpos:4;pos:1"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;">all PS Plus members can claim this month</span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">, alongside <em>Cocoon </em>and <em>Goat Simulator 3</em>.</span></p><p style="text-align:left;"><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;">The other Game Catalog additions this time around are <em>Yakuza: Like A Dragon </em>(PS4 and PS5), </span><a target="_blank" class="link" href="https://www.engadget.com/as-dusk-falls-review-xbox-indie-161733419.html" data-i13n="cpos:5;pos:1"><span style="color:rgb(17, 85, 204);font-family:Arial, sans-serif;"><em>As Dusk Falls</em></span></a><span style="color:rgb(0, 0, 0);font-family:Arial, sans-serif;"><em> </em>(PS4, PS5), <em>Poppy Playtime: Chapter 1 </em>(PS4, PS5), <em>Wizard with a Gun</em> (PS5) and <em>V Rising </em>(PS5). Premium subscribers will also get a blast from the past in the shape of <em>Tekken 3 </em>(PS4, PS5), which debuted on the original PlayStation.</span></p><p style="text-align:left;"><br></p><p style="text-align:left;"></p>This article originally appeared on Engadget at https://www.engadget.com/gaming/playstation/the-silent-hill-2-and-until-dawn-remakes-will-hit-ps-plus-in-time-for-halloween-191333113.html?src=rss
