@@ -1,0 +1,19 @@
+---
+title: >-
+  Apple dumps dating apps Tea and TeaOnHer from the App Store over privacy and
+  moderation issues
+date: '2025-10-22'
+excerpt: >-
+  Apple has removed dating apps Tea and TeaOnHer from the App Store for
+  violating rules related to content moderation and user privacy. The company
+  told...
+coverImage: >-
+  https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Transportation
+source: >-
+  https://www.engadget.com/apps/apple-dumps-dating-apps-tea-and-teaonher-from-the-app-store-over-privacy-and-moderation-issues-191305457.html?src=rss
+---
+<p>Apple has removed dating apps Tea and TeaOnHer from the App Store for violating rules related to content moderation and user privacy. The company told <a target="_blank" class="link" href="https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/" data-i13n="cpos:1;pos:1"><em>TechCrunch</em></a><em> </em>that it pulled the apps as they broke several of its <a target="_blank" class="link" href="https://developer.apple.com/app-store/review/guidelines/" data-i13n="cpos:2;pos:1">rules</a>, including one mandating that apps can&#39;t share or otherwise use an individual&#39;s personal info without getting their permission first.&nbsp;</p><p>Apple said they also violated a rule concerning user-generated content, which stipulates that apps need to allow for reporting offensive or concerning material, an option to block abusive users and the ability to filter &quot;objectionable material from being posted.&quot;  In addition, Apple claimed the apps broke rules related to user reviews. It told <em>TechCrunch</em> they had an &quot;excessive&quot; volume of negative reviews and complaints from users, including ones related to minors’ personal details being shared. The company noted that it raised these issues&#39; with the apps&#39; developers, but they were not resolved.</p><p>As it stands, both apps are still available on Android through the Google Play Store. Tea (which is formally called Tea Dating Advice) enables women to post details about men they&#39;ve met or dated. It allows them to post and comment on photos, look up public records on individuals, carry out reverse image searches, share their experiences and rate or review men. Users can, for instance, say whether they&#39;d give a man a &quot;green flag&quot; or a &quot;red flag.&quot;</p><p>TeaOnHer flips that format on its head, with men sharing info about women. Both are pitched as dating safety apps, with Tea telling users they can &quot;ask our anonymous community of women to make sure your date is safe, not a catfish and not in a relationship.&quot;</p><p>Tea first emerged in 2023 and it went viral this year. In July, hackers <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/data-breach-at-tea-reportedly-contains-images-and-dms-from-last-week-224823984.html" data-i13n="cpos:3;pos:1">breached the app</a> and leaked tens of thousands of images, including around 3,000 selfies and photo IDs that users submitted to verify their accounts. The other images included posts, comments and private messages. A second hack exposed more than a million private messages.</p><p>Days after TeaOnHer went live in August (ripping off text from Tea’s App Store description in the process), it emerged that app <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/theres-a-tea-app-for-men-and-it-also-has-security-problems-224435459.html" data-i13n="cpos:4;pos:1">had its own security issues</a>. It was possible to view photo IDs and selfies that users had submitted for account verification, as well as their email addresses.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/apps/apple-dumps-dating-apps-tea-and-teaonher-from-the-app-store-over-privacy-and-moderation-issues-191305457.html?src=rss
