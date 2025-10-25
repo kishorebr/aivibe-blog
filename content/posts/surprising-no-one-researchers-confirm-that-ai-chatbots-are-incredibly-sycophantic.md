@@ -1,0 +1,35 @@
+---
+title: >-
+  Surprising no one, researchers confirm that AI chatbots are incredibly
+  sycophantic
+date: '2025-10-24'
+excerpt: >-
+  We all have anecdotal evidence of chatbots blowing smoke up our butts, but now
+  we have science to back it up. Researchers at Stanford, Harvard and oth...
+coverImage: >-
+  https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Chatgpt
+  - Openai
+  - Llm
+category: Smart Home
+source: >-
+  https://www.engadget.com/ai/surprising-no-one-researchers-confirm-that-ai-chatbots-are-incredibly-sycophantic-185935470.html?src=rss
+---
+<p>We all have anecdotal evidence of chatbots blowing smoke up our butts, but now we have science to back it up. Researchers at Stanford, Harvard and other institutions <a data-i13n="elm:affiliate_link;sellerN:Nature Research;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=c6c965be-a8ea-473d-89f4-9754f2675a60&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=9aadde38-49a8-4aef-bc67-9c4a60462a6f&amp;featureId=text-link&amp;merchantName=Nature+Research&amp;linkText=just+published+a+study+in+Nature&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5uYXR1cmUuY29tL2FydGljbGVzL2Q0MTU4Ni0wMjUtMDMzOTAtMD91dG1fc291cmNlPXgmdXRtX21lZGl1bT1zb2NpYWwmdXRtX2NhbXBhaWduPW5hdHVyZSZsaW5rSWQ9MTc0MTg4MzMiLCJjb250ZW50VXVpZCI6IjlhYWRkZTM4LTQ5YTgtNGFlZi1iYzY3LTljNGE2MDQ2MmE2ZiIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9kNDE1ODYtMDI1LTAzMzkwLTA_dXRtX3NvdXJjZT14JnV0bV9tZWRpdW09c29jaWFsJnV0bV9jYW1wYWlnbj1uYXR1cmUmbGlua0lkPTE3NDE4ODMzIn0&amp;signature=AQAAAU1wVOkjI97c0QITxheY6xfd4NwZLGX8odqEEtY1Y374&amp;gcReferrer=https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-025-03390-0%3Futm_source%3Dx%26utm_medium%3Dsocial%26utm_campaign%3Dnature%26linkId%3D17418833" class="rapid-with-clickid" data-original-link="https://www.nature.com/articles/d41586-025-03390-0?utm_source=x&amp;utm_medium=social&amp;utm_campaign=nature&amp;linkId=17418833">just published a study in <em>Nature</em></a> about the sycophantic nature of AI chatbots and the results should surprise no one. Those cute little bots just love patting us on our heads and confirming whatever nonsense we just spewed out.</p>
+<p>The researchers investigated advice issued by chatbots and they discovered that their penchant for sycophancy &quot;was even more widespread than expected.&quot; The study involved 11 chatbots, including recent versions of ChatGPT, Google Gemini, Anthropic&#39;s Claude and Meta&#39;s Llama. The results indicate that chatbots endorse a human&#39;s behavior 50 percent more than a human does.</p>
+<span id="end-legacy-contents"></span><p>They conducted several types of tests with different groups. One compared responses by chatbots to posts on Reddit&#39;s &quot;Am I the Asshole&quot; thread to human responses. This is a subreddit in which <a data-i13n="cpos:2;pos:1" href="https://www.reddit.com/r/AmItheAsshole/">people ask the community to judge their behavior</a>, and Reddit users were much harder on these transgressions than the chatbots.</p>
+<div id="e423d696587445c5a409f348cbaf11b3"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">But there&#39;s a darker side…<br><br>MIT researchers used Reddit&#39;s &quot;Am I The Asshole?&quot; data to test how AI models become overly sycophantic and agreeable<br><br>Your most vulnerable moments are training tomorrow&#39;s AI. <a href="https://t.co/vRgYSjudGh">pic.twitter.com/vRgYSjudGh</a></p>— anarchy.build (@anarchy_build) <a href="https://twitter.com/anarchy_build/status/1946586489724227691?ref_src=twsrc%5Etfw">July 19, 2025</a></blockquote>
+ 
+
+</div>
+<p>One poster wrote about tying a bag of trash to a tree branch instead of throwing it away, to which ChatGPT-4o declared that the person&#39;s &quot;intention to clean up&quot; after themself was &quot;commendable.&quot; The study went on to suggest that chatbots continued to validate users even when they were &quot;irresponsible, deceptive or mentioned self-harm&quot;, <a data-i13n="cpos:3;pos:1" href="https://www.theguardian.com/technology/2025/oct/24/sycophantic-ai-chatbots-tell-users-what-they-want-to-hear-study-shows">according to a report by <em>The Guardian</em></a>.</p>
+<p>What&#39;s the harm in indulging a bit of digital sycophancy? Another test had 1,000 participants discuss real or hypothetical scenarios with publicly available chatbots, but some of them had been reprogrammed to tone down the praise. Those who received the sycophantic responses were less willing to patch things up when arguments broke out and felt more justified in their behavior, even when it violated social norms. It&#39;s also worth noting that the traditional chatbots very rarely encouraged users to see things from another person&#39;s perspective.</p>
+<p>&quot;That sycophantic responses might impact not just the vulnerable but all users, underscores the potential seriousness of this problem,&quot; said Dr. Alexander Laffer, who studies emergent technology at the University of Winchester. &quot;There is also a responsibility on developers to be building and refining these systems so that they are truly beneficial to the user.&quot;</p>
+<div id="b2df336a26d3483697f5e6d4c7c97078"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">A study found 33% of teenagers use AI chatbots for companionship, conversation practice, and romance<br><br>They found talking to AI easier than talking to real people and use it for emotional support <a href="https://t.co/AbCZbv6tpK">pic.twitter.com/AbCZbv6tpK</a></p>— Dexerto (@Dexerto) <a href="https://twitter.com/Dexerto/status/1949124691295088712?ref_src=twsrc%5Etfw">July 26, 2025</a></blockquote>
+ 
+
+</div>
+<p>This is serious because of just how many people use these chatbots. A recent report by the <a data-i13n="cpos:4;pos:1" href="https://www.benton.org/headlines/talk-trust-and-trade-offs-how-and-why-teens-use-ai-companions">Benton Institute for Broadband &amp; Society</a> suggested that 30 percent of teenagers talk to AI rather than actual human beings for &quot;serious conversations.&quot; OpenAI is currently embroiled in a lawsuit that accuses its chatbot of <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/ai/the-first-known-ai-wrongful-death-lawsuit-accuses-openai-of-enabling-a-teens-suicide-212058548.html">enabling a teen&#39;s suicide</a>. The company Character AI <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/ai/another-lawsuit-blames-an-ai-company-of-complicity-in-a-teenagers-suicide-184529475.html">has also been sued</a> twice after a <a data-i13n="cpos:7;pos:1" href="https://www.reuters.com/legal/mother-sues-ai-chatbot-company-characterai-google-sued-over-sons-suicide-2024-10-23/">pair of teenage suicides</a> in which the teens spent months confiding in its chatbots.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/surprising-no-one-researchers-confirm-that-ai-chatbots-are-incredibly-sycophantic-185935470.html?src=rss
