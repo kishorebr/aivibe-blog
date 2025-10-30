@@ -1,0 +1,20 @@
+---
+title: >-
+  Azure is in recovery following an outage that affected Microsoft 365, Xbox and
+  Minecraft
+date: '2025-10-29'
+excerpt: >-
+  Microsoft’s Azure cloud service is recovering from an outage that affected key
+  apps and services like Microsoft 365 , Xbox and Minecraft. All three sh...
+coverImage: >-
+  https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Productivity
+  - Work
+category: Smart Home
+source: >-
+  https://www.engadget.com/computing/azure-is-in-recovery-following-an-outage-that-affected-microsoft-365-xbox-and-minecraft-172032654.html?src=rss
+---
+<p>Microsoft’s Azure cloud service is recovering from an outage that affected key apps and services like <a target="_blank" class="link" href="https://downdetector.com/status/microsoft-365/" data-i13n="slk:Microsoft 365;cpos:1;pos:1">Microsoft 365</a> , <a target="_blank" class="link" href="https://downdetector.com/status/xbox-live/" data-i13n="slk:Xbox;cpos:2;pos:1">Xbox</a> and <a target="_blank" class="link" href="https://downdetector.com/status/minecraft/" data-i13n="cpos:3;pos:1"><em>Minecraft</em></a>. All three showed spikes in outage reports on DownDetector around 12PM ET, and the <a target="_blank" class="link" href="https://azure.status.microsoft/en-us/status" data-i13n="slk:Azure status page;cpos:4;pos:1">Azure status page</a> indicates that Microsoft first observed technical issues around 12PM ET.</p><p>In its most recent Azure status update at 3:57PM ET, Microsoft says that it “initiated the deployment of our ‘last known good configuration,’” and that “customers may have begun to see initial signs of recovery.” The company is continuing to reroute traffic through “healthy nodes” and believes that Azure should be fully recovered  “by 23:20 UTC,” or 6:20PM ET.</p><p>At the peak of the outage, users on Reddit reported issues <a target="_blank" class="link" href="https://www.reddit.com/r/xbox/comments/1oj8lav/comment/nm1ahk1/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button" data-i13n="cpos:5;pos:1">loading Game Pass</a> on Xbox consoles, along with limited access to productivity and enterprise apps. The outage also appeared to affect Microsoft support pages and <a target="_blank" class="link" href="https://www.reuters.com/business/alaska-airlines-says-website-app-down-2025-10-29/" data-i13n="cpos:6;pos:1">some airline websites</a>.<br><br>A Microsoft spokesperson provided the following statement to Engadget about its Azure issues:</p><blockquote><p>We are working to address an issue affecting Azure Front Door that is impacting the availability of some services. Customers should continue to check their Service Health Alerts and the latest update on this issue can be found on the&nbsp;<a target="_blank" class="link" href="https://protect.checkpoint.com/v2/r01/___https://azure.status.microsoft/en-us/status___.YzJ1OndlY29tbXVuaWNhdGlvbnM6YzpvOjBhZDM0NTNiY2M1NDU0MWY5ZjI5MWYyY2U5ZTIxNjg3Ojc6OGI2Mjo0ZWUwZmFkZjYxN2JlNDFmYzE4ZWNmODA1N2Q3M2JlNzE5YzkzODdiMTBiMWM3NzFiZWE3NzA3NDk0NmQ2Mzc5Omg6RjpG" data-i13n="cpos:7;pos:1">Azure status</a>&nbsp;page.</p></blockquote><p>At least so far, the Azure outage pale in comparison to <a target="_blank" class="link" href="https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html" data-i13n="cpos:8;pos:1">Amazon Web Services outage</a> that occurred last week. Amazon’s outage kept popular apps and services offline for hours.</p><p><strong>Update, October 29, 4:33PM ET:</strong> Added new details on Azure’s recovery.<br><br><strong>Update, October 29, 3:09PM ET:</strong> Added details from the latest Azure status update to article along with a statement from Microsoft.</p>This article originally appeared on Engadget at https://www.engadget.com/computing/azure-is-in-recovery-following-an-outage-that-affected-microsoft-365-xbox-and-minecraft-172032654.html?src=rss
