@@ -1,0 +1,19 @@
+---
+title: Rockstar Games accused of union busting in the UK
+date: '2025-10-31'
+excerpt: >-
+  Rockstar Games, developer of Grand Theft Auto VI, has been accused of
+  deliberately laying off employees who were trying to unionize, Bloomberg
+  reports...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Healthcare
+  - Work
+category: Finance
+source: >-
+  https://www.engadget.com/gaming/rockstar-games-accused-of-union-busting-in-the-uk-221004334.html?src=rss
+---
+<p>Rockstar Games, developer of <em>Grand Theft Auto VI</em>, has been accused of deliberately laying off employees who were trying to unionize, <a target="_blank" class="link" href="https://www.bloomberg.com/news/articles/2025-10-31/-grand-theft-auto-studio-accused-of-union-busting-after-firings?embedded-checkout=true" data-i13n="cpos:1;pos:1"><em>Bloomberg</em> reports</a>. The Independent Workers Union of Great Britain (IWGB) claims over 30 employees who were eliminated at the developer&#39;s offices in the UK and Canada were either already part of a union or attempting to organize.</p><p>&quot;Rockstar has just carried out the most blatant and ruthless act of union busting in the history of the games industry,&quot; IWGB President Alex Marshall said in <a target="_blank" class="link" href="https://iwgb.org.uk/en/post/staff-at-rockstar-fired-en-masse/" data-i13n="cpos:2;pos:1">a blog post</a> about the layoffs. &quot;This flagrant contempt for the law and for the lives of the workers who bring in their billions is an insult to their fans and the global industry.&quot;&nbsp;</p><p>Besides the disruption of having to find a new job, the union notes that several employees who were let go are particularly vulnerable. &quot;Amongst the staff dismissed were those with visas sponsored by Rockstar and those with medical conditions who will lose access to essential workplace healthcare schemes,&quot; the union says. It adds that &quot;all of those dismissed at Rockstar UK were members of the IWGB Game Workers Union discord channel, and appear to have been targeted for this reason.&quot; In response to the IWGB&#39;s claims, Rockstar&#39;s publisher and owner Take-Two Interactive told <em>Bloomberg</em> that the layoffs had nothing to do with union activity and instead were &quot;for gross misconduct, and for no other reason.&quot;</p><p>Rockstar and Take-Two have come into conflict with employees in the past over their <a target="_blank" class="link" href="https://kotaku.com/grand-theft-auto-6-gta-rockstar-games-return-office-1851297508" data-i13n="cpos:3;pos:1">return-to-office policy</a>. Take-Two also laid off staff across multiple studios in <a target="_blank" class="link" href="https://www.engadget.com/take-two-is-shutting-down-the-studios-behind-rollerdrome-and-kerbal-space-program-2-000253545.html" data-i13n="cpos:4;pos:1">2024</a> and <a target="_blank" class="link" href="https://www.engadget.com/gaming/civilization-developer-firaxis-is-laying-off-staff-221105604.html" data-i13n="cpos:5;pos:1">2025</a>, potentially motivated by the decision to <a target="_blank" class="link" href="https://www.engadget.com/gaming/grand-theft-auto-vi-is-delayed-to-may-2026-120405517.html" data-i13n="cpos:6;pos:1">push back the release</a> of <em>Grand Theft Auto VI</em> to 2026. The game is expected to be <a target="_blank" class="link" href="https://www.ign.com/articles/gta-6-projected-to-make-over-3-billion-in-its-first-year-on-sale" data-i13n="cpos:7;pos:1">a massive hit</a> for the company and the wider industry, which is part of the reason why the IWGB believes the layoffs are motivated by something other than financials.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/rockstar-games-accused-of-union-busting-in-the-uk-221004334.html?src=rss

@@ -1,0 +1,19 @@
+---
+title: >-
+  Bluesky experiments with dislikes and 'social proximity' to improve
+  conversations
+date: '2025-10-31'
+excerpt: >-
+  Bluesky is adding a dislike button as a way to signal the kind of posts you
+  don&#39;t want to see in your Discover feed. The experiment is part of sev...
+coverImage: >-
+  https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Healthcare
+source: >-
+  https://www.engadget.com/social-media/bluesky-experiments-with-dislikes-and-social-proximity-to-improve-conversations-205226194.html?src=rss
+---
+<p>Bluesky is adding a dislike button as a way to signal the kind of posts you don&#39;t want to see in your Discover feed. The experiment is part of <a target="_blank" class="link" href="https://bsky.social/about/blog/10-31-2025-building-healthier-social-media-update" data-i13n="cpos:1;pos:1">several new ideas</a> Bluesky is exploring to a improve conversations on its platform.</p><p>The new experiments Bluesky is running are primarily built around the notion of &quot;social proximity.&quot; The company says it&#39;s aiming to build a system that maps your place in a &quot;social neighborhood&quot; of &quot;people you already interact with or would likely enjoy knowing.&quot; By prioritizing replies and posts from the people in your general &quot;neighborhood,&quot; the company believes it can make conversations &quot;feel more relevant, familiar, and less prone to misunderstandings.&quot; Following that logic, the beta test of the dislike button (which sounds private, rather than public-facing) will &quot;help the system understand what kinds of posts you’d prefer to see less of,&quot; but could also affect reply rankings in your threads and in the threads of other people in your social neighborhood.&nbsp;</p><p>The social platform already offers a way to limit replies to only people who follow you, as Bluesky CTO Paul Frazee <a target="_blank" class="link" href="https://bsky.app/profile/pfrazee.com/post/3m4jbxyp3ms2l" data-i13n="cpos:2;pos:1">noted in a recent post</a>, but the company doesn’t “want to make that the only option.” Bluesky is also experimenting with adjusting how the Reply button works by making you see the whole thread first when you tap the button, rather than dumping straight into a new blank post. Combined with a new model for detecting bad replies, the company thinks it’ll improve the general social climate.</p><p>Charitably, these tweaks sound like another way Bluesky is trying to give users more control over what they see on the platform, in the same way it does with <a target="_blank" class="link" href="https://www.engadget.com/apps/bluesky-is-finally-adding-more-ways-to-filter-notifications-185542105.html" data-i13n="cpos:3;pos:1">things like notifications</a>. Less charitably, you could read the &quot;social neighborhood&quot; concept as a way to entrench users in their &quot;filter bubble&quot; rather than address larger moderation issues.</p><p>Recently, Bluesky <a target="_blank" class="link" href="https://techcrunch.com/2024/12/13/bluesky-is-at-a-crossroads-as-users-petition-to-ban-jesse-singal-over-anti-trans-views-harassment/" data-i13n="cpos:4;pos:1">has been criticized by users</a> for failing to remove the accounts of people who allegedly violate the company&#39;s community guidelines. Ensconced in a social neighborhood, those critics wouldn&#39;t necessarily see offensive posts, nor would a poster see their critics. That might lead to less conflict overall, but it could also impact more productive forms of disagreement in the process.</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/bluesky-experiments-with-dislikes-and-social-proximity-to-improve-conversations-205226194.html?src=rss
