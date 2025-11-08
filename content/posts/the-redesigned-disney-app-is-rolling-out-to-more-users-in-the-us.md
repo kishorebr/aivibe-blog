@@ -1,0 +1,16 @@
+---
+title: The redesigned Disney+ app is rolling out to more users in the US
+date: '2025-11-07'
+excerpt: >-
+  Disney is rolling out its redesigned interface for Disney+ to more users in
+  the US today. The redesign brings the streaming service in line with the l...
+coverImage: >-
+  https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Transportation
+source: >-
+  https://www.engadget.com/entertainment/streaming/the-redesigned-disney-app-is-rolling-out-to-more-users-in-the-us-204759533.html?src=rss
+---
+<p>Disney is rolling out its <a target="_blank" class="link" href="https://www.engadget.com/entertainment/streaming/disney-design-and-navigation-changes-are-on-the-way-165513106.html" data-i13n="cpos:1;pos:1">redesigned interface</a> for Disney+ to more users in the US today. The redesign brings the streaming service in line with the loud, key art-forward approach of Netflix, and follows <a target="_blank" class="link" href="https://www.engadget.com/entertainment/streaming/disney-prices-are-increasing-in-october-yes-again-171830091.html" data-i13n="cpos:2;pos:1">a price increase</a> for both tiers of Disney+ that the company introduced in October.</p><p>The biggest change in the new Disney+ is the addition of a horizontal navigation bar with separate tabs for recommendations (For You), Disney+, Hulu and ESPN. Disney is leaning on a new algorithm that better uses your viewing history to make recommendations, and it now also integrates live TV streams via a dedicated tab in its vertical menu. Outside of the US, the new interface is also being paired with the rebranding of Disney&#39;s Star streaming service to Hulu.</p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/b6NSi-xDbWg?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no"></iframe></div></div><p>The new interface is the latest step in Disney&#39;s plan to eventually completely <a target="_blank" class="link" href="https://www.engadget.com/entertainment/streaming/disney-will-unhinge-its-jaw-and-swallow-hulu-in-2026-144458503.html" data-i13n="cpos:3;pos:1">fold Hulu into Disney+</a> in 2026. The Hulu has a dedicated tab in the app, but eventually it&#39;ll just be one of the many sources of content Disney+ collects. Meanwhile, the live TV component of Hulu + Live TV will eventually be <a target="_blank" class="link" href="https://www.engadget.com/big-tech/disney-to-merge-hulu--live-tv-with-fubo-challenging-youtube-tv-163627571.html" data-i13n="cpos:4;pos:1">merged with Fubo</a>, creating an even larger YouTube TV competitor that Disney will have 70 percent stake in. The growing competition between Google and Disney could be one of several reasons the companies have yet to settle the carriage dispute that&#39;s <a target="_blank" class="link" href="https://www.engadget.com/entertainment/youtube/youtube-tv-loses-espn-abc-and-other-disney-channels-113026329.html" data-i13n="cpos:5;pos:1">currently blocked channels</a> like ABC and ESPN on YouTube TV.</p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/the-redesigned-disney-app-is-rolling-out-to-more-users-in-the-us-204759533.html?src=rss
