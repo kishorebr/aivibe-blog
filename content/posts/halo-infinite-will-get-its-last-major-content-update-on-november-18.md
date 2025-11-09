@@ -1,0 +1,17 @@
+---
+title: Halo Infinite will get its last major content update on November 18
+date: '2025-11-08'
+excerpt: >-
+  The next major update for Halo Infinite will also be its last. Halo Studios,
+  which is part of Microsoft’s Xbox Game Studios, has announced that it’s r...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/gaming/halo-infinite-will-get-its-last-major-content-update-on-november-18-130000955.html?src=rss
+---
+<p>The next major update for <a target="_blank" class="link" href="https://www.engadget.com/halo-infinite-preview-xbox-series-x-080130895.html" data-i13n="cpos:1;pos:1"><em>Halo Infinite</em></a><em> </em>will also be its last. Halo Studios, which is part of Microsoft’s Xbox Game Studios, has <a target="_blank" class="link" href="https://www.halowaypoint.com/news/operation-infinite-preview" data-i13n="cpos:2;pos:1">announced</a> that  it’s rolling out Operation: Infinite on November 18. It’s going to be the last major update for the first-person shooter, because the whole team will now be focusing on the “multiple Halo titles” under development. </p><p>Xbox previously announced that it’s releasing<em> </em><a target="_blank" class="link" href="https://www.engadget.com/gaming/xbox/halo-campaign-evolved-is-a-remake-of-the-original-story-coming-to-xbox-pc-and-ps5-in-2026-203913552.html" data-i13n="cpos:3;pos:1"><em>Halo: Campaign Evolved</em></a>, a remake of the first game in the franchise, <em>Halo: Combat Evolved</em>, sometime in 2026. It will be available for the Xbox, PC and PS5. According to <a target="_blank" class="link" href="https://thegamepost.com/halo-studios-multiplayer-halo-game-leaker-live-service-fortnite/" data-i13n="cpos:4;pos:1">unverified reports</a>, Halo Studios is also working on a new multiplayer live service project similar to <em>Fortnite</em>. </p><p>Operation: Infinite will double the earning rate for Career Rank and Spartan Points. The final free Operation Pass will have no expiration date and will unlock three new armor sets. Upgrading to the 100-tier Premium Pass will give players the chance to unlock “five more unique armor sets, six weapon models and over 30 exclusive Spartan customizations.” The last major update will also add a new asymmetrical map for select Ranked modes. </p><p>While Operation: Infinite is the game’s last major update, <em>Halo Infinite</em> will still have a rotating selection of daily and weekly challenges, as well as a new slate of Ranked Seasons for those who want to keep playing it. </p>This article originally appeared on Engadget at https://www.engadget.com/gaming/halo-infinite-will-get-its-last-major-content-update-on-november-18-130000955.html?src=rss
