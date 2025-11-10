@@ -1,0 +1,16 @@
+---
+title: Blue Origin scrubs New Glenn's second flight due to bad weather
+date: '2025-11-09'
+excerpt: >-
+  Blue Origin has postponed the second flight of its New Glenn rocket, which was
+  slated to send a pair of NASA spacecraft on the first step of their jou...
+coverImage: >-
+  https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Transportation
+source: >-
+  https://www.engadget.com/science/space/blue-origin-scrubs-new-glenns-second-flight-due-to-bad-weather-214349212.html?src=rss
+---
+<p>Blue Origin has postponed the second flight of its New Glenn rocket, which was slated to send a pair of NASA spacecraft on the first step of their journey to Mars on Sunday afternoon. The heavy-lift launch vehicle was scheduled to take off from Cape Canaveral Space Force Station in Florida at 2:45PM ET., but multiple holds were issued during the under-two-hour launch window due to inclement weather.  Blue Origin called off the launch attempt around 4:13PM. </p><p>The next launch opportunity is as yet unclear. Blue Origin was previously given a backup opportunity set for Monday afternoon,  but the <a target="_blank" class="link" href="https://www.faa.gov/newsroom/FAA-Emergency-Order-11-6-25.pdf" data-i13n="cpos:1;pos:1">FAA</a> has since issued an emergency order restricting commercial launches for the time being due to the government shutdown. As of November 10, commercial space launches can only take place between 10:00PM and 6:00AM. <a target="_blank" class="link" href="https://x.com/blueorigin/status/1987630115161796706?s=20" data-i13n="cpos:2;pos:1">Blue Origin</a> said on Sunday that it’s reviewing opportunities based on the weather, and did not mention the FAA’s order. </p><p>New Glenn&#39;s development has faced significant delays over the last decade since it was first announced, and <a target="_blank" class="link" href="https://www.engadget.com/science/space/blue-origins-new-glenn-rocket-launches-into-orbit-on-its-maiden-flight-073451555.html" data-i13n="slk:finally took its maiden flight;cpos:3;pos:1">finally took its maiden flight</a> at the beginning of this year. Its first stage booster is intended to be reusable, and the company plans to recover the booster from the upcoming launch by landing it on an autonomous landing platform vessel dubbed Jacklyn, also known as the barge. Blue Origin attempted the same during its first flight, but failed.&nbsp;</p><p>The spacecraft on board New Glenn are twin satellites built by Rocket Lab and operated by UC Berkeley for NASA&#39;s Escapade mission to study the effects of space weather. They&#39;ll be following a new trajectory to the red planet, lingering in &quot;a lazy, 12-month kidney bean-shaped orbit&quot; around Earth until Mars is in alignment, according to <a target="_blank" class="link" href="https://news.berkeley.edu/2025/11/05/nasas-escapade-mission-to-mars-twin-uc-berkeley-satellites-dubbed-blue-and-gold-will-launch-in-early-november/" data-i13n="cpos:4;pos:1">UC Berkeley</a>. Escapade should reach Mars in 2027.&nbsp;</p><p></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/science/space/blue-origin-scrubs-new-glenns-second-flight-due-to-bad-weather-214349212.html?src=rss
