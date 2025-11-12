@@ -1,0 +1,17 @@
+---
+title: 'Elden Ring Nightreign''s DLC is The Forsaken Hollows, out December 3'
+date: '2025-11-11'
+excerpt: >-
+  Elden Ring Nightreign, the co-op survival take on FromSoftware&#39;s massively
+  successful open-world single-player game, is getting a DLC at the end o...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/gaming/elden-ring-nightreigns-dlc-is-the-forsaken-hollows-out-december-3-233113937.html?src=rss
+---
+<div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/d7GO1FjenwI?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no"></iframe></div></div><p><em>Elden Ring Nightreign</em>, the co-op survival take on FromSoftware&#39;s massively successful open-world single-player game, is getting a DLC at the end of this year. <em>The Forsaken Hollows</em> <a target="_blank" class="link" href="https://blog.playstation.com/2025/11/11/elden-ring-nightreign-the-forsaken-hollows-dlc-launches-dec-4-on-ps5-ps4/" data-i13n="cpos:1;pos:1">launches</a> on December 4, 2025. This DLC is the first big content update for the spinoff, although Nightreign did receive previous updates to add improved tuning for the <a target="_blank" class="link" href="https://www.engadget.com/gaming/elden-ring-nightreign-is-adding-two-player-co-op-next-week-182708700.html" data-i13n="cpos:2;pos:1">two-player</a> and <a target="_blank" class="link" href="https://www.engadget.com/gaming/elden-ring-nightreigns-next-patch-will-make-gameplay-easier-for-solo-players-183644323.html" data-i13n="cpos:3;pos:1">solo-player</a> experiences, as well introducing an even-more-punishing Deep of Night mode.&nbsp;</p><p>The trailer shows exactly the grim, macabre setting and inventive-looking boss designs that we&#39;ve come to expect from FromSoft. <em>The Forsaken Hollows</em> will add two more character classes for players to choose from. The book-wielding Scholar is an arcane magic user who &quot;gains incredible advantages through battlefield observation.&quot; This seems like a good choice for the tactically-minded players, while the new Undertaker class favors faith and strength builds.&nbsp;There will also be a new region to explore and two new bosses. </p><p>We learned yesterday that DLC was in the works for Nightreign thanks to a <a target="_blank" class="link" href="https://www.gamesradar.com/games/action-rpg/elden-ring-nightreign-performed-well-beyond-initial-expectations-fromsoftware-parent-company-says-and-dlc-could-take-it-even-further/" data-i13n="cpos:4;pos:1">mention</a> during the earnings report from parent company Kadokawa, but it seemed the new content might not be ready until early 2026. Hopefully today&#39;s announcement will calm the players who have been <a target="_blank" class="link" href="https://www.ign.com/articles/fromsoftware-parent-company-confirms-elden-ring-nightreign-dlc-by-end-of-march-2026-as-frustrated-players-leave-negative-steam-reviews" data-i13n="cpos:5;pos:1">review-bombing</a> the game on Steam due to the lack of information about updates. </p>This article originally appeared on Engadget at https://www.engadget.com/gaming/elden-ring-nightreigns-dlc-is-the-forsaken-hollows-out-december-3-233113937.html?src=rss
