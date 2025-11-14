@@ -1,0 +1,17 @@
+---
+title: Apple halves App Store fees for mini apps
+date: '2025-11-13'
+excerpt: >-
+  Apple has introduced a new plan for developers who offer mini-apps that could
+  see the commission rate cut in half. Under the App Store Mini Apps Partn...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/big-tech/apple-halves-app-store-fees-for-mini-apps-190251153.html?src=rss
+---
+<p>Apple has <a target="_blank" class="no-affiliate-link link" href="https://developer.apple.com/news/?id=xcz1s7cz" data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1">introduced</a> a new plan for developers who offer mini-apps that could see the commission rate cut in half. Under the App Store Mini Apps Partner Program, devs would pay a reduced rate of 15 percent, compared to the current 30 percent, on qualifying in-app purchases. Apple has a bunch of more <a target="_blank" class="no-affiliate-link link" href="https://developer.apple.com/programs/mini-apps-partner/" data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1">detailed explanations</a> and an FAQ about how the partner program will work and what mini apps are eligible.&nbsp;</p><p>Mini apps are "self-contained experiences" — often web-based games — that live within a larger "host" app. Apple has allowed developers to offer these experiences for years, but only allowed mini app developers to support in-app purchases of their own <a target="_blank" class="link" href="https://www.engadget.com/apple-lets-apps-feature-streaming-games-chatbots-and-other-built-in-experiences-180016453.html" data-i13n="cpos:3;pos:1">last year</a>. </p><p>In order to participate in the Mini Apps Partner Program, developers will need to meet a few additional requirements. To start, developers will need to support both iOS and iPadsOS functionality. They're also required to implement Apple's Advanced Commerce API, as well as the <a target="_blank" class="link" href="https://www.engadget.com/big-tech/apple-explains-how-it-will-comply-with-app-store-age-verification-requirements-in-texas-185934469.html" data-i13n="cpos:4;pos:1">Declared Age Range API</a>. The latter requirement would prevent underage users from circumventing parental controls by accessing a mini app with a higher age rating than the host app. </p><p>Apple's fee structure has been an ongoing subject of debate, and the company has faced global pressure from regulators to change its commission policies to prove it isn't engaged in monopolistic, anti-competitive practices. We've already seen some changes at Apple this year, as its legal saga with Epic Games <a target="_blank" class="link" href="https://www.engadget.com/big-tech/court-orders-apple-to-stop-collecting-fees-for-purchases-made-outside-the-app-store-110036376.html" data-i13n="slk:wound towards a conclusion;cpos:5;pos:1">wound towards a conclusion</a> and some of the App Store guidelines were <a target="_blank" class="link" href="https://www.engadget.com/apps/apple-updates-its-app-store-guidelines-to-allow-external-payment-options-123039994.html" data-i13n="slk:changed;cpos:6;pos:1">changed</a> to allow for external payment options.</p><p><strong>Update, November 13, 2025, 2PM PT:</strong> Added additional details about the Mini Apps Partner Program.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/apple-halves-app-store-fees-for-mini-apps-190251153.html?src=rss
