@@ -1,0 +1,22 @@
+---
+title: 'Call of Duty: Black Ops 7 appears to feature AI-generated art assets'
+date: '2025-11-14'
+excerpt: >-
+  By all appearances, Call of Duty: Black Ops 7 features a not insignificant
+  amount of AI-generated art, Kotaku reports. The game&#39;s over 680 Calling...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Chatgpt
+  - Openai
+  - Tools
+category: Finance
+source: >-
+  https://www.engadget.com/gaming/call-of-duty-black-ops-7-appears-to-feature-ai-generated-art-assets-201746595.html?src=rss
+---
+<p>By all appearances, <em>Call of Duty: Black Ops 7</em> features a not insignificant amount of AI-generated art, <a target="_blank" class="link" href="https://kotaku.com/call-of-duty-black-ops-7-ai-art-activision-statement-blops7-steam-ps5-2000644397" data-i13n="cpos:1;pos:1"><em>Kotaku </em>reports</a>. The game&#39;s <a target="_blank" class="link" href="https://www.callofduty.com/blog/2025/11/call-of-duty-black-ops-7-ready-for-launch-progression-prestige#Calling-Cards" data-i13n="cpos:2;pos:1">over 680 Calling Cards</a> — collectible backgrounds earned through in-game achievements or purchases — appear to be <a target="_blank" class="link" href="https://x.com/Kumesicles/status/1988984517823197541?s=20" data-i13n="cpos:3;pos:1">the main offenders</a>, featuring art that imitates the knockoff animation style of <a target="_blank" class="link" href="https://www.engadget.com/ai/openais-built-in-image-generator-for-chatgpt-is-now-available-to-free-users-120003146.html" data-i13n="cpos:4;pos:1">ChatGPT</a>.</p><p>While it&#39;s hard to authoritatively claim that Studio Ghibli-inspired illustrations are a smoking gun, the Calling Cards players have spotted do at the very least seem unpolished for a splashy $70 game. Activision has also confirmed that the game&#39;s development team used &quot;generative AI tools to help develop some in-game assets&quot; in a disclosure on the <a target="_blank" class="link" href="https://store.steampowered.com/app/3606480/Call_of_Duty_Black_Ops_7/" data-i13n="cpos:5;pos:1"><em>Black Ops 7 </em>Steam page</a>, which certainly won&#39;t dissuade anyone’s suspicions.</p><div><blockquote class="twitter-tweet"><p lang="en" dir="ltr">I havent really looked at the Multiplayer and Zombie calling cards as closely and im willing to bet they&#39;re using ai on those too but its only the Campaign and endgame calling cards that are this type of blatant Sora/Grok artstyle <a href="https://t.co/5qmEXhoQkJ">pic.twitter.com/5qmEXhoQkJ</a></p>— Kume (@Kumesicles) <a href="https://twitter.com/Kumesicles/status/1989327996126126344?ref_src=twsrc%5Etfw">November 14, 2025</a></blockquote>
+ 
+
+</div><p>In a statement to <em>Kotaku</em>, Activision also didn&#39;t deny the possibility, noting that AI was one of several &quot;digital tools&quot; it used &quot;to empower and support our teams to create the best gaming experiences possible for our players.&quot; Using AI-generated art or at least AI art edited by a human could have saved Activision and developer Treyarch money during development. But it&#39;s also possible these in-game rewards look weird because they were made in the rush to get the game out the door.</p><p><em>Call of Duty: Black Ops 7</em> has the honor of being the first in the franchise to <a target="_blank" class="link" href="https://www.engadget.com/gaming/xbox/xbox-game-pass-is-adding-cod-black-ops-7-and-ten-other-titles-in-november-193151259.html" data-i13n="cpos:6;pos:1">launch on Xbox Game Pass</a>, one way Microsoft hopes to justify the subscription&#39;s <a target="_blank" class="link" href="https://www.engadget.com/microsoft-jacks-the-price-of-game-pass-ultimate-up-to-30-a-month-142441307.html" data-i13n="cpos:7;pos:1">recent price hike</a>. That the game features AI-generated assets might dampen some player&#39;s excitement, but <a target="_blank" class="link" href="https://www.engadget.com/gaming/you-cant-pause-your-game-in-call-of-duty-black-ops-7s-always-online-campaign-172707048.html" data-i13n="cpos:8;pos:1"><em>Black Ops</em> 7&#39;s campaign</a> seems like the more pressing issue. It requires an internet connection to run because it was designed to be played in a &quot;squad&quot; of four, but even if you play with in-game bots, you still can&#39;t pause the game.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/call-of-duty-black-ops-7-appears-to-feature-ai-generated-art-assets-201746595.html?src=rss
