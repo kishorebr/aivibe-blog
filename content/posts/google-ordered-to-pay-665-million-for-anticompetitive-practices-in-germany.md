@@ -1,0 +1,19 @@
+---
+title: Google ordered to pay $665 million for anticompetitive practices in Germany
+date: '2025-11-15'
+excerpt: >-
+  Google may have to fork over 572 million euros, or nearly $665 million, to two
+  German companies for &quot;market abuse,&quot; according to a recent ru...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/big-tech/google-ordered-to-pay-665-million-for-anticompetitive-practices-in-germany-184505191.html?src=rss
+---
+<p>Google may have to fork over 572 million euros, or nearly $665 million, to two German companies for &quot;market abuse,&quot; according to a recent ruling from a Berlin court. First reported by <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.reuters.com/legal/litigation/google-must-pay-german-price-comparison-platform-465-mln-euros-damages-court-2025-11-14/"><em>Reuters</em></a>, the tech giant was ordered to pay approximately 465 million euros, or approximately $540 million, to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.idealo.de/unternehmen/pressemitteilungen/court-confirms-google-illegally-disadvantaged-idealo">Idealo</a> and another 107 million euros, or roughly $124 million, to Producto, both of which are price comparison platforms based in Germany. According to the ruling, Google abused its dominant market position by favoring Google Shopping in its own search results.</p>
+<p>Idealo pursued legal action against Google, claiming that the Alphabet subsidiary was &quot;self-preferencing&quot; its own platforms, which led to unfair market advantages that hindered competitors. The company first demanded at least <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.idealo.de/unternehmen/pressemitteilungen/idealo-is-expanding-its-claim-for-damages-against-google">3.3 billion euros</a>, or more than $3.8 billion, in damages in February 2025. To counter, Google said it made changes in 2017 that allowed competing shopping platforms the same opportunity as Google Shopping to display ads through Google Search.</p>
+<span id="end-legacy-contents"></span><p>Idealo said in a press release that it will continue the legal pressure on Google, claiming that &quot;the amount awarded reflects only a fraction of the actual damage.&quot; Albrecht von Sonntag, co-founder and member of Idealo&#39;s advisory board, added in a press release that &quot;abuse of dominance must have consequences and must not be a profitable business model that pays off despite fines and damages.&quot;</p>
+<p>It&#39;s not the first time Google has found itself in legal trouble in Europe. Beyond Google Shopping, Google was accused of favoring its own Google Flights and Google Hotels in search results, leading the European Union to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/big-tech/google-reportedly-offers-to-tweak-search-results-to-avoid-eu-fine-193940005.html">threaten massive fines</a> for violating its Digital Markets Act. A month prior, the European Commission <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.engadget.com/big-tech/eu-fines-google-35-billion-over-adtech-antitrust-violations-183701640.html">fined Google</a> nearly 3 billion euros, or more than $3.4 billion, for its anticompetitive practices in the advertising tech industry.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/google-ordered-to-pay-665-million-for-anticompetitive-practices-in-germany-184505191.html?src=rss

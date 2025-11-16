@@ -1,0 +1,27 @@
+---
+title: >-
+  Black Friday deals include this Switch 2-compatible microSD Express card for a
+  record-low price
+date: '2025-11-15'
+excerpt: >-
+  The SanDisk 256GB microSD Express Card for the Switch 2 is down to $60 via
+  Amazon, which is a record-low price. This model is also available in storag...
+coverImage: >-
+  https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+  - Tools
+category: Smart Home
+source: >-
+  https://www.engadget.com/deals/black-friday-deals-include-this-switch-2-compatible-microsd-express-card-for-a-record-low-price-151331485.html?src=rss
+---
+<p>The SanDisk 256GB microSD Express Card for the Switch 2 <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0DFQGVLYF&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=9760e8af-50c8-4708-a96e-6d3ded561517&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=is+down+to+%2460+via+Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL1NhbkRpc2stMjU2R0ItbWljcm9TRC1FeHByZXNzLVNEU1FYRk4tMjU2Ry1HTjROTi9kcC9CMERGUUdWTFlGLz90YWc9Z2RndDBjLTIwIiwiY29udGVudFV1aWQiOiI5NzYwZThhZi01MGM4LTQ3MDgtYTk2ZS02ZDNkZWQ1NjE1MTciLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vU2FuRGlzay0yNTZHQi1taWNyb1NELUV4cHJlc3MtU0RTUVhGTi0yNTZHLUdONE5OL2RwL0IwREZRR1ZMWUYvIiwiZHluYW1pY0NlbnRyYWxUcmFja2luZ0lkIjp0cnVlLCJzaXRlSWQiOiJ1cy1lbmdhZGdldCIsInBhZ2VJZCI6IjFwLWF1dG9saW5rIiwiZmVhdHVyZUlkIjoidGV4dC1saW5rIn0&amp;signature=AQAAAfo-biDXGt1dZHIJBEPF1k5_8Lz5vpuYa3q11uSTCfqa&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FSanDisk-256GB-microSD-Express-SDSQXFN-256G-GN4NN%2Fdp%2FB0DFQGVLYF%2F" class="rapid-with-clickid" data-original-link="https://www.amazon.com/SanDisk-256GB-microSD-Express-SDSQXFN-256G-GN4NN/dp/B0DFQGVLYF/?th=1">is down to $60 via Amazon</a>, which is a record-low price. This model is also available in storage sizes of 128GB and 512GB, but neither version is on sale.</p> 
+<p>This particular model easily made our list of the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/gaming/nintendo/best-microsd-cards-for-nintendo-switch-2-160052947.html">best microSD cards for the Nintendo Switch 2</a>. It even made our list of the <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/gaming/nintendo/best-nintendo-switch-2-accessories-070011952.html">best Switch 2 accessories</a>. It just gets the job done. We loved the speed on offer here. It was the fastest of all the cards we tested when transferring games and loading games.</p> <span id="end-legacy-contents"></span>
+<p>
+ <core-commerce id="b2b5c42ca56a461ab32c9c163aa47062" data-type="product-list" data-original-url="https://www.amazon.com/SanDisk-256GB-microSD-Express-SDSQXFN-256G-GN4NN/dp/B0DFQGVLYF/?th=1"></core-commerce></p> 
+<p>We also found that it performed admirably at just about every test we threw at it. The card was always consistently right near the top, thanks to outstanding sequential read and write performance. This was backed up by benchmark testing with PC tools like CrystalDiskMark.</p> 
+<p>The Switch 2 only works with SD Express cards, so this covers that. Luckily, this card isn&#39;t just for Nintendo&#39;s latest console. It&#39;ll work with just about everything, if you ever find it outstays its usefulness as a storage container for Mario and friends. Elsewhere when it comes to microSD Express cards on sale: <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:4;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0F8PF2D1F&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=9760e8af-50c8-4708-a96e-6d3ded561517&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=PNY%27s+128GB+card&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL1BOWS1taWNyb1NELW1pY3JvU0RYQy1Db21wYXRpYmxlLU5pbnRlbmRvL2RwL0IwRjhQRjJEMUY_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiOTc2MGU4YWYtNTBjOC00NzA4LWE5NmUtNmQzZGVkNTYxNTE3Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL1BOWS1taWNyb1NELW1pY3JvU0RYQy1Db21wYXRpYmxlLU5pbnRlbmRvL2RwL0IwRjhQRjJEMUYiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAbAgVWaRIeqQ8_UB6X0YrlN4TnMAAThMjXkNkHsnTNmR&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FPNY-microSD-microSDXC-Compatible-Nintendo%2Fdp%2FB0F8PF2D1F" class="rapid-with-clickid" data-original-link="https://www.amazon.com/PNY-microSD-microSDXC-Compatible-Nintendo/dp/B0F8PF2D1F?th=1">PNY&#39;s 128GB card</a> is down to $40.</p> 
+<p>
+ <core-commerce id="3a533c1fa9354d14a02b57fe902fbfe9" data-type="product-list" data-original-url="https://www.amazon.com/PNY-microSD-microSDXC-Compatible-Nintendo/dp/B0F8PF2D1F?th=1"></core-commerce></p>This article originally appeared on Engadget at https://www.engadget.com/deals/black-friday-deals-include-this-switch-2-compatible-microsd-express-card-for-a-record-low-price-151331485.html?src=rss
