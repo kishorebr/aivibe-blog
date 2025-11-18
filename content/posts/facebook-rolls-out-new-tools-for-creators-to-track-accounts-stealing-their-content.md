@@ -1,0 +1,20 @@
+---
+title: >-
+  Facebook rolls out new tools for creators to track accounts stealing their
+  content
+date: '2025-11-17'
+excerpt: >-
+  Creators on Facebook and Instagram have long griped about accounts that lift
+  their videos without permission. Now, Meta is rolling out a new tool that...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+  - Tools
+category: Work
+source: >-
+  https://www.engadget.com/social-media/facebook-rolls-out-new-tools-for-creators-to-track-accounts-stealing-their-content-201020255.html?src=rss
+---
+<p>Creators on Facebook and Instagram have long griped about accounts that lift their videos without permission. Now, Meta is rolling out a new tool that allows creators to more easily track when their videos have been reposted by others.</p><p>The company introduced a new tool for creators called &quot;<a target="_blank" class="link" href="https://creators.facebook.com/blog/content-protection-your-new-creative-guardian-on-facebook" data-i13n="cpos:1;pos:1">content protection</a>,&quot; which can automatically detect when a creator&#39;s original reel is reposted, either fully or partially, on Facebook or Instagram. Creators who are enrolled will be able to see which accounts have shared their work and will be able to take a range of actions on the clip.&nbsp;</p><p>Available actions include &quot;track,&quot; which allows the creator to add a label indicating the clip originally came from their account. In addition to the link back, creators will also be able to keep tabs on the number of views it&#39;s getting. Creators can also opt to block a clip entirely, which will prevent anyone else from being able to view the reel. (Meta notes choosing this option won&#39;t impose additional penalties on the account that lifted the original content.) Finally, creators can choose to &quot;release&quot; the video, which removes it from their dashboard so they will no longer have any visibility into how it&#39;s performing.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/fb_content_protection_dash.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/fb_content_protection_dash.jpg" style="height:1280px;width:1920px;" alt="The dashboard tracks instances of reused content," data-uuid="99bed90f-1339-43f8-8980-675ef1858ea0"><figcaption>The dashboard tracks instances of reused content,</figcaption><div class="photo-credit">Meta</div></figure><p>The dashboard also provides some other details that could help creators decide how to respond. For example, they can see whether the video using their content is being monetized, which may influence their decision to track with attribution or block entirely. On the other hand, if a reel was lifted from an account with few followers, they may opt to simply keep an eye on it.&nbsp;</p><p>Meta has already offered Facebook creators some of these abilities in the past through its <a target="_blank" class="link" href="https://creators.facebook.com/tools/rights-manager/?locale=en_US" data-i13n="cpos:2;pos:1">rights manager</a> platform, but the company says making the features available directly in the Facebook app will make it accessible to more people. Notably, the company is only offering content protection to creators who share reels on Facebook. So even though the feature will detect copycats on Instagram, it will only do so if the original video has been posted to Facebook.&nbsp;</p><p>Meta says content protection is rolling out now to creators in its monetization program &quot;who meet enhanced integrity and originality standards&quot; as well as those already using rights manager. Creators can also <a target="_blank" class="link" href="https://www.facebook.com/rights_manager/apply" data-i13n="cpos:3;pos:1">apply</a> for access directly.</p><p></p>This article originally appeared on Engadget at https://www.engadget.com/social-media/facebook-rolls-out-new-tools-for-creators-to-track-accounts-stealing-their-content-201020255.html?src=rss
