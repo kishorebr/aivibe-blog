@@ -1,0 +1,26 @@
+---
+title: 'Apple TV+ Black Friday deal: Get six months of access for only $36'
+date: '2025-11-21'
+excerpt: >-
+  Apple TV+ is offering six months of access for only $36 for Black Friday. The
+  deal is live now for new and eligible returning subscribers and runs thr...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Llm
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/deals/apple-tv-black-friday-deal-get-six-months-of-access-for-only-36-203322621.html?src=rss
+---
+<p><a data-i13n="elm:affiliate_link;sellerN:;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=c968d430-c13a-4d79-a245-d3f10ce2e000&amp;featureId=text-link&amp;linkText=Apple+TV%2B&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3R2LmFwcGxlLmNvbS8iLCJjb250ZW50VXVpZCI6ImM5NjhkNDMwLWMxM2EtNGQ3OS1hMjQ1LWQzZjEwY2UyZTAwMCIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly90di5hcHBsZS5jb20vIn0&amp;signature=AQAAASE_UcYdn7DqKjLNqj09hkz9mkuV6MKWytPerAPLIHAr&amp;gcReferrer=https%3A%2F%2Ftv.apple.com%2F" class="rapid-with-clickid" data-original-link="https://tv.apple.com/">Apple TV+</a> is offering six months of access for only $36 for <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/black-friday/">Black Friday</a>. The deal is live now for new and eligible returning subscribers and runs through December 1, giving you a chance to stream shows like <em>Silo</em>, <em>The Morning Show</em> and <em>For All Mankind</em> for less. It’s a short-term offer, so you’ll want to grab it while it’s available. The biggest caveat to the deal is that you must subscribe directly through Apple and not through a third-party service.</p> 
+<p>Apple TV+ continues to build one of the strongest lineups in streaming. Its library includes standout originals like <em>Ted Lasso</em>, <em>Severance</em>, <em>Slow Horses</em>, <em>For All Mankind</em>, <em>Foundation </em>and <em>Silo</em>, along with newer releases such as <em>The Studio</em> and <em>Dope Thief</em>. On the film side, you’ll find the 2022 Best Picture winner <em>CODA</em>, plus <em>Killers of the Flower Moon</em>, <em>Blitz </em>and <em>Tetris</em>.</p> <span id="end-legacy-contents"></span>
+<p>
+ <core-commerce id="188b5cb64333456995184af5363c1167" data-type="product-list" data-original-url="https://tv.apple.com/"></core-commerce></p> 
+<p>Apple’s streaming service has earned plenty of recognition since launch. Apple TV+ shows picked up <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/entertainment/shogun-and-the-bear-win-big-for-disney-at-the-emmys-123049460.html">10 Emmy Awards in 2024</a>, including a win for <em>Slow Horses</em> for outstanding writing in a drama series.</p> 
+<p>Apple TV+ also offers a polished streaming experience. All content is ad-free and available in up to 4K HDR, with Dolby Vision and Dolby Atmos support where available. The app works on nearly every device, from iPhone and iPad to smart TVs, PlayStation, Xbox and Roku. You can also download episodes and movies to watch offline, which is handy for travel or long commutes.</p> 
+<p>If you’re already invested in Apple’s ecosystem, the integration is seamless. You can share your subscription with up to five other people through Family Sharing, and playback syncs across devices so you can start a show on your iPhone and finish it on your TV. Apple TV+ is also part of the Apple One bundle if you prefer to manage multiple Apple services under a single plan.</p> 
+<p>This deal is available to new and qualified returning subscribers, meaning those who haven’t had an active subscription in the past 30 days. You’ll need to sign up directly through Apple rather than a third-party service or carrier. Once the three-month period ends, the plan renews at the standard $13 per month, so be sure to <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/mobile/smartphones/how-to-cancel-subscriptions-on-iphone-110015175.html">cancel before the renewal date</a> if you don’t want to continue.</p> 
+<p>With a growing slate of original series, award-winning films and a slick interface, Apple TV+ has turned into one of the <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/entertainment/streaming/best-streaming-services-154527042.html">best streaming services</a> for premium content. And with this limited-time deal, you can catch up on its biggest hits without paying full price.</p>This article originally appeared on Engadget at https://www.engadget.com/deals/apple-tv-black-friday-deal-get-six-months-of-access-for-only-36-203322621.html?src=rss
