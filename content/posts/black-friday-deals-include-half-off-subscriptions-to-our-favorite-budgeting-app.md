@@ -1,0 +1,23 @@
+---
+title: >-
+  Black Friday deals include half off subscriptions to our favorite budgeting
+  app
+date: '2025-11-25'
+excerpt: >-
+  Budgeting can be a stressful, challenging and uncomfortable experience. While
+  it&#39;s completely possible to do it on your own, we&#39;ve become fans...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Finance
+source: >-
+  https://www.engadget.com/deals/black-friday-deals-include-half-off-subscriptions-to-our-favorite-budgeting-app-160025880.html?src=rss
+---
+<p>Budgeting can be a stressful, challenging and uncomfortable experience. While it&#39;s completely possible to do it on your own, we&#39;ve become fans of a few great budgeting apps. Take <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/apps/best-budgeting-apps-120036303.html">our favorite budgeting app Quicken</a>, which is having a 50 percent off <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/deals/black-friday-2025-the-best-early-deals-on-apple-shark-lego-and-other-gear-plus-what-to-expect-during-the-sale-100052176.html">sale for Black Friday</a>.</p> 
+<p>The <a data-i13n="elm:affiliate_link;sellerN:Quicken;elmt:;cpos:3;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=36291888-36d6-4b83-80bb-f82004bcfdb1&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=538d4172-25c6-4df4-97e9-4ac66dbc1943&amp;featureId=text-link&amp;merchantName=Quicken&amp;linkText=Quicken+Simplifi+app&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5xdWlja2VuLmNvbS9scC9wcGMvYnJhbmQtc2ltcGxpZmkvPyIsImNvbnRlbnRVdWlkIjoiNTM4ZDQxNzItMjVjNi00ZGY0LTk3ZTktNGFjNjZkYmMxOTQzIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5xdWlja2VuLmNvbS9scC9wcGMvYnJhbmQtc2ltcGxpZmkvPyJ9&amp;signature=AQAAAeBhWeOSInYqTB30Hl7QM-L49QHHgLm_fRgyx35OiO2C&amp;gcReferrer=https%3A%2F%2Fwww.quicken.com%2Flp%2Fppc%2Fbrand-simplifi%2F%3F" class="rapid-with-clickid" data-original-link="https://www.quicken.com/lp/ppc/brand-simplifi/?">Quicken Simplifi app</a> is down to $3 monthly from $6 monthly, adding up to $36 for the year. <a data-i13n="elm:affiliate_link;sellerN:Quicken;elmt:;cpos:4;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=36291888-36d6-4b83-80bb-f82004bcfdb1&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=538d4172-25c6-4df4-97e9-4ac66dbc1943&amp;featureId=text-link&amp;merchantName=Quicken&amp;linkText=Quicken+Classic&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5xdWlja2VuLmNvbS9wcm9kdWN0cy9wcmljaW5nLWNvbXBhcmlzb24tY2xhc3NpYy8iLCJjb250ZW50VXVpZCI6IjUzOGQ0MTcyLTI1YzYtNGRmNC05N2U5LTRhYzY2ZGJjMTk0MyIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cucXVpY2tlbi5jb20vcHJvZHVjdHMvcHJpY2luZy1jb21wYXJpc29uLWNsYXNzaWMvIn0&amp;signature=AQAAAVCBICUvL1uRETtNwnh4k3cU9Oxpgscxqfn8qrlsUrMj&amp;gcReferrer=https%3A%2F%2Fwww.quicken.com%2Fproducts%2Fpricing-comparison-classic%2F" class="rapid-with-clickid" data-original-link="https://www.quicken.com/products/pricing-comparison-classic/">Quicken Classic</a>, the company&#39;s &quot;original desktop software&quot; for &quot;experienced investors&quot; is also half off at $6 monthly, down from $12 monthly. The sale starts today and is available until Wednesday, December 3.&nbsp;</p> <span id="end-legacy-contents"></span>
+<p>
+ <core-commerce id="b6c55f1bb1d041b8af4f6e26ed8033a6" data-type="product-list" data-original-url="https://www.quicken.com/lp/ppc/brand-simplifi/?"></core-commerce></p> 
+<p>One of the many things that sets <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/apps/the-best-budgeting-apps-to-replace-mint-143047346.html">Quicken Simplifi</a> apart from its competitors is its sleek, easy to use interface. The setup is pretty straightforward and it allows for your spouse or financial advisor to act as co-manager of the account.&nbsp;</p> 
+<p>It also clearly shows figures like net worth, recent spending, upcoming recurring payments and more. Plus, there&#39;s an option to say if you&#39;re expecting a refund. Quicken Simplifi unfortunately doesn&#39;t offer a free trial so testing it out with a discount means less money invested if it&#39;s not for you.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/deals/black-friday-deals-include-half-off-subscriptions-to-our-favorite-budgeting-app-160025880.html?src=rss

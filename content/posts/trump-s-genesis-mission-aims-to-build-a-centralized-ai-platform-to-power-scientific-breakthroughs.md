@@ -1,0 +1,21 @@
+---
+title: >-
+  Trump's Genesis Mission aims to build a centralized AI platform to power
+  scientific breakthroughs
+date: '2025-11-25'
+excerpt: >-
+  President Donald Trump has issued a new Executive Order that launches the
+  “Genesis Mission,” an AI-focused initiative that will be led by the
+  Departme...
+coverImage: >-
+  https://images.unsplash.com/photo-1551434678-e076c223a692?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Productivity
+  - Work
+category: Productivity
+source: >-
+  https://www.engadget.com/ai/trumps-genesis-mission-aims-to-build-a-centralized-ai-platform-to-power-scientific-breakthroughs-043506089.html?src=rss
+---
+<p>President Donald Trump has issued a new Executive Order that launches the “<a target="_blank" class="link" href="https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/" data-i13n="cpos:1;pos:1">Genesis Mission</a>,” an AI-focused initiative that will be led by the Department of Energy. It will “harness the current AI and advanced computing revolution to double the productivity and impact of American science and engineering within a decade,” the DOE <a target="_blank" class="link" href="https://www.energy.gov/articles/energy-department-launches-genesis-mission-transform-american-science-and-innovation" data-i13n="cpos:2;pos:1">explained</a>. One of the mission’s main goals is to build a centralized platform that will house a huge collection of datasets collected “over decades of federal investments,” as well as datasets from academic institutions and partners from the private sector. </p><p>Those datasets will then be used to train scientific foundation models and to create AI agents, automate research workflows and accelerate scientific breakthroughs, the administration said in its announcement. “The platform will connect the world’s best supercomputers, AI systems, and next-generation quantum systems with the most advanced scientific instruments in the nation,” the Energy department said. </p><p>Based on that statement, the platform will be linked to the two <a target="_blank" class="link" href="https://www.engadget.com/ai/americas-sovereign-ai-supercomputers-will-use-amd-chips-130021080.html" data-i13n="cpos:3;pos:1">sovereign AI supercomputers</a> the agency is building at the Oak Ridge National Laboratory, its famous research and development center. The machines, to be built by Hewlett Packard Enterprises, are meant to be the Trump <a target="_blank" class="link" href="https://www.engadget.com/ai/everyones-a-loser-in-trumps-ai-action-plan-160023247.html" data-i13n="cpos:4;pos:1">AI Action Plan’s</a> flagship supercomputers. The DOE previously revealed that the machines will be powered by AMD chips and will help tackle the biggest challenges in energy, medicine, health and national security. </p><p>“The Genesis Mission marks a defining moment for the next era of American science. We are linking the nation’s most advanced facilities, data, and computing into one closed-loop system to create a scientific instrument for the ages, an engine for discovery that doubles R&amp;D productivity and solves challenges once thought impossible,” said Dr. Darío Gil, the Under Secretary for Science and Genesis Mission Director.</p><p>In the next four months, the Energy department must identify its initial set of data and model assets for the Genesis platform. The department must be able to demonstrate “an initial operating capability of the platform for at least one of the national science and technology challenges” the government has identified within nine months. While the list of challenges is pretty long, the Genesis Mission will focus on addressing three key challenges overall. First, it aims to accelerate nuclear and fusion energy, as well as to modernize the energy grid using AI. It also aims to power scientific discoveries for decades to come. Finally, it aims to create advanced AI technologies for the purpose of national security, such as systems that can ensure the reliability of America’s nuclear weapons and can accelerate the development of materials for defense. </p>This article originally appeared on Engadget at https://www.engadget.com/ai/trumps-genesis-mission-aims-to-build-a-centralized-ai-platform-to-power-scientific-breakthroughs-043506089.html?src=rss
