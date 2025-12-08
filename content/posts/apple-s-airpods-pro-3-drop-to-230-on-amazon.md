@@ -1,0 +1,22 @@
+---
+title: Apple's AirPods Pro 3 drop to $230 on Amazon
+date: '2025-12-07'
+excerpt: >-
+  If you haven&#39;t yet upgraded to Apple&#39;s AirPods Pro 3, you can pick up
+  the company&#39;s latest model at a discount through a deal on Amazon ri...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/deals/apples-airpods-pro-3-drop-to-230-on-amazon-222806114.html?src=rss
+---
+<p>If you haven&#39;t yet upgraded to <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0FQFB8FMG&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=42f7f263-d7c8-4a21-ad07-9121207a6244&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=Apple%27s+AirPods+Pro+3&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0FwcGxlLUNhbmNlbGxhdGlvbi1UcmFuc2xhdGlvbi1IZWFkcGhvbmVzLUhpZ2gtRmlkZWxpdHkvZHAvQjBGUUZCOEZNRy8_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiNDJmN2YyNjMtZDdjOC00YTIxLWFkMDctOTEyMTIwN2E2MjQ0Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0FwcGxlLUNhbmNlbGxhdGlvbi1UcmFuc2xhdGlvbi1IZWFkcGhvbmVzLUhpZ2gtRmlkZWxpdHkvZHAvQjBGUUZCOEZNRy8iLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAa00rgoV0I-UbOq0nkwpsQ1FfJifrSdBPZ_6PPl2wT9r&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FApple-Cancellation-Translation-Headphones-High-Fidelity%2Fdp%2FB0FQFB8FMG%2F" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Apple-Cancellation-Translation-Headphones-High-Fidelity/dp/B0FQFB8FMG/">Apple&#39;s AirPods Pro 3</a>, you can pick up the company&#39;s latest model at a discount through a deal on Amazon right now. The AirPods Pro 3, which came out in September, are currently $20 off, bringing their price down to $230. With the new AirPods Pro, Apple made some big improvements, including better battery life and sound quality, and introduced useful new features, such as Live Translation.</p> 
+<p>
+ <core-commerce id="eae3086f4cbf45b7b7990d7656cc4a5f" data-type="product-list" data-original-url="https://www.amazon.com/Apple-Cancellation-Translation-Headphones-High-Fidelity/dp/B0FQFB8FMG/"></core-commerce></p> 
+<p>The AirPods Pro 3 are <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/audio/headphones/best-airpods-100041810.html"><ins>the best AirPods</ins></a> available today, with Apple&#39;s H2 chip, and earned a score of 90 out of 100 in <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/audio/headphones/airpods-pro-3-review-a-significant-update-to-apples-best-earbuds-120028170.html"><ins>Engadget&#39;s review</ins></a> this fall. Active noise cancellation (ANC) is one of the biggest selling points of the AirPods Pro, and Apple has made the experience even better with the AirPods Pro 3. They sport new foam-infused ear tips that create a better seal to improve passive noise isolation, and as Engadget&#39;s Billy Steele wrote in his review, &quot;Ultra-low-noise microphones combine with advanced computational audio to silence even more background noise.&quot; In testing, they had no problem blocking out the chatter of people nearby or otherwise noisy environments.</p> <span id="end-legacy-contents"></span>
+<p>With the AirPods Pro 3, Apple introduced heart-rate sensing, so you&#39;ll be able to see your heart rate data from the earbuds in the Fitness app and other workout apps. The AirPods Pro 3 also boast Live Translation, which you can activate via controls on the earbuds themselves. As long as you have an Apple Intelligence-capable device, you&#39;ll be able to translate in-person conversations in English, French, German, Italian, Japanese, Korean, Portuguese, Spanish and Chinese (Mandarin).</p> 
+<p><em>Follow </em><a data-i13n="cpos:4;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/deals/apples-airpods-pro-3-drop-to-230-on-amazon-222806114.html?src=rss
