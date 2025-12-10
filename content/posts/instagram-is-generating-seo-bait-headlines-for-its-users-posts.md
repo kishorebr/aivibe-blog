@@ -1,0 +1,18 @@
+---
+title: Instagram is generating SEO-bait headlines for its users' posts
+date: '2025-12-09'
+excerpt: >-
+  It looks like Meta has decided to turn Instagram users into unwitting SEO spam
+  pawns. On Tuesday, 404 Media reported that the platform is generating s...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Llm
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/social-media/instagram-is-generating-seo-bait-headlines-for-its-users-posts-213702800.html?src=rss
+---
+<p>It looks like Meta has decided to turn Instagram users into unwitting SEO spam pawns. On Tuesday, <em>404 Media</em> <a target="_blank" class="link" href="https://www.404media.co/instagram-is-generating-inaccurate-seo-bait-for-your-posts/" data-i13n="cpos:1;pos:1">reported</a> that the platform is generating sensational, likely AI-generated headlines and descriptions for user posts without their knowledge or explicit consent. An Engadget editor has also noticed this on their posts. The headlines are found in the pages’ code and are only visible in search results.</p><p>The scheme appears to be an effort to boost the Google search ranking of Instagram content. An <a target="_blank" class="link" href="https://www.instagram.com/p/DR3cr5CkXZU/" data-i13n="cpos:2;pos:1">Instagram post</a> by Engadget’s Sam Chapman, about a board game he created, received an unwanted generated description. “<em>Floramino</em> is a cozy puzzle game where you arrange gardens as a traveling florist,” the generated text reads. “The demo looks fun, with charming visuals and strategic elements.”</p><p>In this case, there’s a significant factual error. The board game is called Bloomhunter. <em>Floramino</em>, which the generated text referenced, is a puzzle game on Steam.</p><p>In an example cited by <em>404 Media</em>, author Jeff VanderMeer&#39;s untitled video about a bunny eating a banana received a generic, SEO-style title. &quot;Meet the Bunny Who Loves Eating Bananas, A Nutritious Snack For Your Pet,&quot; it reads. That indeed reads like the work of an LLM. A Massachusetts library&#39;s post promoting a reading of a VanderMeer book got the same treatment. &quot;Join Jeff VanderMeer on a Thrilling Beachside Adventure with Mesta …&quot;, the headline reads.</p><p>Multiple cosplayers also found their posts gaining strange titles. &quot;I would not write mediocre text like that, and it sounds as if it was auto-generated at scale with an LLM,&quot; cosplayer Brian Dang told <em>404 Media</em>. &quot;This becomes problematic when the headline or description advertises someone in a way that is not how they would personally describe themselves.&quot;</p><p>The headlines appear in the posts’ code, as confirmed by Google&#39;s Rich Result Test tool. (They&#39;re found in the &lt;title&gt; tags for the post. The descriptions appear in the &quot;text&quot;: section) The spammy headlines differ from the page&#39;s alt text, which Instagram generates for people with low vision.</p><p>You might want to search for your recent content to see if you’re affected. Engadget reached out to Meta for confirmation and a statement. We&#39;ll update this story if we hear back.</p><p><strong>Update, December 9, 2026 at 5:07 PM ET: </strong>The story was updated to include more detail about a post from Engadget’s Sam Chapman receiving a generated description.</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/instagram-is-generating-seo-bait-headlines-for-its-users-posts-213702800.html?src=rss
