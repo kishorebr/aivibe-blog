@@ -1,0 +1,17 @@
+---
+title: The NES game Jaws is getting a retro physical re-release on Switch and PS5
+date: '2025-12-10'
+excerpt: >-
+  The year is 1987. Beverly Hills Cop II is the highest-grossing movie.
+  &quot;Walk Like an Egyptian&quot; is the hottest song. The Iran-Contra scandal
+  d...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/gaming/the-nes-game-jaws-is-getting-a-retro-physical-re-release-on-switch-and-ps5-221052996.html?src=rss
+---
+<p>The year is 1987. <em>Beverly Hills Cop II</em> is the highest-grossing movie. &quot;Walk Like an Egyptian&quot; is the hottest song. The Iran-Contra scandal dominates American political headlines, while Konami’s <em>Contra</em> sucks up coins in arcades. But towering above them all is the watershed moment of <em>Jaws</em> arriving on the NES. (&quot;This time there&#39;s no escape!&quot;, warned the box art.) Now, 38 years later, the 8-bit game is returning as a Limited Run Games physical re-release.</p><p>The retro release coincides with the Spielberg movie&#39;s 50th anniversary. From December 19 to January 18, you can pre-order a physical copy for Switch and PS5.</p><p>It will be available in two physical editions: a standard (&quot;Retro Edition&quot;) one for $35, and a deluxe (&quot;The Bigger Boat Edition&quot;) one for $100. The latter adds an NES-inspired box, a physical CD of the game soundtrack, a keychain and — best of all — a pixelated shark lamp. Both versions include original and &quot;enhanced&quot; versions of the 1987 game.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/jaws_2.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/jaws_2.jpg" style="height:2184px;width:3884px;" alt="Promo art for the Jaws NES reissue" data-uuid="bff39833-0a2f-408e-909b-f22956ddbbc5"/><figcaption>Promo art for the Jaws NES reissue</figcaption><div class="photo-credit">Limited Run Games</div></figure><p>The game is split mainly between a birds-eye view (where you pilot your boat around the map) and an underwater side view (where you harpoon the shit out of marine wildlife). Eventually, you&#39;ll encounter Jaws. After several of these encounters, gradually diminishing his hit points, you&#39;ll try to finish him off in a faux-3D perspective on the water&#39;s surface. If you think this sounds like a minor variation of what you found in a handful of other licensed NES games from that era, you wouldn&#39;t be wrong.</p><p>You can pre-order the <em>Jaws</em> re-release from <a target="_blank" class="link" href="https://www.gematsu.com/2025/12/jaws-retro-edition-announced-for-ps5-switch" data-i13n="cpos:1;pos:1">Limited Run Games&#39; website</a>, starting on December 19 at 10 AM ET. In the meantime, you can refresh your memory of the 8-bit game with the video below.</p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/hL0qtpph9DI?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen="" scrolling="no"></iframe></div></div><p></p>This article originally appeared on Engadget at https://www.engadget.com/gaming/the-nes-game-jaws-is-getting-a-retro-physical-re-release-on-switch-and-ps5-221052996.html?src=rss
