@@ -1,0 +1,32 @@
+---
+title: IKEA's new wireless charger is as cute as it is practical
+date: '2025-12-12'
+excerpt: >-
+  IKEA's revamp of its smart home products doesn't end with Matter support. The
+  furniture and home goods company also has a line of new Qi wireless char...
+coverImage: >-
+  https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Smart Home
+category: Smart Home
+source: >-
+  https://www.engadget.com/mobile/smartphones/ikeas-new-wireless-charger-is-as-cute-as-it-is-practical-195013422.html?src=rss
+---
+<p>IKEA's <a target="_blank" class="link" href="https://www.engadget.com/home/smart-home/ikea-announces-new-matter-compatible-smart-home-products-120013040.html" data-i13n="cpos:1;pos:1">revamp of its smart home products</a> doesn't end with Matter support. The furniture and home goods company also has a line of new Qi wireless chargers, the best of which, the <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=e43990ba-ed42-4a73-87a7-cd68b5f3d000&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=cd893951-2e74-44bb-b869-441c312dc5d6&amp;featureId=text-link&amp;merchantName=IKEA&amp;linkText=V%C3%84STM%C3%84RKE+wireless+charger&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5pa2VhLmNvbS91cy9lbi9wL3ZhZXN0bWFlcmtlLXdpcmVsZXNzLWNoYXJnZXItMzA2MTg0MjUvIiwiY29udGVudFV1aWQiOiJjZDg5Mzk1MS0yZTc0LTQ0YmItYjg2OS00NDFjMzEyZGM1ZDYiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmlrZWEuY29tL3VzL2VuL3AvdmFlc3RtYWVya2Utd2lyZWxlc3MtY2hhcmdlci0zMDYxODQyNS8ifQ&amp;signature=AQAAAXIjLwOvG-XNXsSYff4Y3qeBGu_QDIq4w44X2BUjYeRu&amp;gcReferrer=https%3A%2F%2Fwww.ikea.com%2Fus%2Fen%2Fp%2Fvaestmaerke-wireless-charger-30618425%2F" data-i13n="elm:affiliate_link;sellerN:IKEA;elmt:;cpos:2;pos:1" data-original-link="https://www.ikea.com/us/en/p/vaestmaerke-wireless-charger-30618425/">VÄSTMÄRKE wireless charger</a>, combines the functionality of a PopSockets-style phone grip with cable storage.</p>
+<p>The $10 VÄSTMÄRKE wireless charger is reminiscent of a bagel or donut, if you could take the top half of those ring-shaped foods and turn them inside out to create a cozy grip for your fingers. That same red silicone design also makes for a perfect place to store the charger's built-in USB-C cable, according to IKEA's product page, and otherwise acts as a playful replacement for what can be a pretty boring smartphone accessory.</p>
+<figure>
+ <img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/IKEA-wireless-charger.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/IKEA-wireless-charger.jpg" style="height:1440px;width:2560px;" alt="A VÄSTMÄRKE wireless charger with its top half unfolded so fingers can grip it." data-uuid="04c6261e-9b8d-4cb3-87dc-8a2aa90005c1">
+ <figcaption>
+  A VÄSTMÄRKE wireless charger with its top half unfolded so fingers can grip it.
+ </figcaption>
+ <div class="photo-credit">
+  IKEA
+ </div>
+</figure>
+<p>VÄSTMÄRKE offers <a target="_blank" class="link" href="https://www.engadget.com/mobile/smartphones/qi2-25w-wireless-charging-is-coming-to-iphones-and-major-android-smartphones-183013979.html" data-i13n="cpos:3;pos:1">Qi2 charging speeds</a> and can magnetically attach to iPhones with MagSafe or Pixel phones with <a target="_blank" class="link" href="https://www.engadget.com/mobile/smartphones/pixelsnap-is-googles-qi2-powered-answer-to-magsafe-for-the-pixel-10-series-160048306.html" data-i13n="cpos:4;pos:1">Google's Pixelsnap magnets</a>. If you're interested in something a bit more discrete, the $25 <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=e43990ba-ed42-4a73-87a7-cd68b5f3d000&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=cd893951-2e74-44bb-b869-441c312dc5d6&amp;featureId=text-link&amp;merchantName=IKEA&amp;linkText=V%C3%84STM%C3%84RKE+wireless+charger+with+lighting&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5pa2VhLmNvbS91cy9lbi9wL3ZhZXN0bWFlcmtlLXdpcmVsZXNzLWNoYXJnZXItd2l0aC1saWdodGluZy05MDYxODQzMi8_cmFuTUlEPTUzOTAxJnJhbkVBSUQ9VG5MNUhQU3R3TncmcmFuU2l0ZUlEPVRuTDVIUFN0d053LUhwTmpVZHRGODFUM2xsVEpjckdTT1EiLCJjb250ZW50VXVpZCI6ImNkODkzOTUxLTJlNzQtNDRiYi1iODY5LTQ0MWMzMTJkYzVkNiIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuaWtlYS5jb20vdXMvZW4vcC92YWVzdG1hZXJrZS13aXJlbGVzcy1jaGFyZ2VyLXdpdGgtbGlnaHRpbmctOTA2MTg0MzIvP3Jhbk1JRD01MzkwMSZyYW5FQUlEPVRuTDVIUFN0d053JnJhblNpdGVJRD1Ubkw1SFBTdHdOdy1IcE5qVWR0RjgxVDNsbFRKY3JHU09RIn0&amp;signature=AQAAAQbCovuMQ7vlZwkoP272KEkvyq7yFB5UKSGpK-TacABz&amp;gcReferrer=https%3A%2F%2Fwww.ikea.com%2Fus%2Fen%2Fp%2Fvaestmaerke-wireless-charger-with-lighting-90618432%2F%3FranMID%3D53901%26ranEAID%3DTnL5HPStwNw%26ranSiteID%3DTnL5HPStwNw-HpNjUdtF81T3llTJcrGSOQ" data-i13n="elm:affiliate_link;sellerN:IKEA;elmt:;cpos:5;pos:1" data-original-link="https://www.ikea.com/us/en/p/vaestmaerke-wireless-charger-with-lighting-90618432/?ranMID=53901&amp;ranEAID=TnL5HPStwNw&amp;ranSiteID=TnL5HPStwNw-HpNjUdtF81T3llTJcrGSOQ">VÄSTMÄRKE wireless charger with lighting</a> is a bowl-shaped charger with a column in the center for attaching a smartphone, and room around it for keys or your wallet.</p>
+<p>IKEA has had multiple different ideas over the years for how smart home tech should integrate with its minimalist and user-friendly furniture. The company's partnership with Sonos <a target="_blank" class="link" href="https://www.engadget.com/audio/speakers/sonos-and-ikea-end-their-partnership-130052348.html" data-i13n="cpos:6;pos:1">ended in May 2025</a>, which produced lights and picture frames with smart speakers built-in. Since then, the company has announced <a target="_blank" class="link" href="https://www.engadget.com/home/smart-home/ikea-goes-all-in-on-matter-with-new-smart-home-products-144232740.html" data-i13n="cpos:7;pos:1">a new Bluetooth speaker</a> and started rolling out a new collection of Matter-connected remotes, lights and sensors.</p>
+<p>
+ <core-commerce data-type="product-list" id="a3b43c14-0511-4c41-b6f4-823361cd1d36" data-original-url="https://www.ikea.com/us/en/p/vaestmaerke-wireless-charger-30618425/"></core-commerce></p>
+<p></p>This article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/ikeas-new-wireless-charger-is-as-cute-as-it-is-practical-195013422.html?src=rss
