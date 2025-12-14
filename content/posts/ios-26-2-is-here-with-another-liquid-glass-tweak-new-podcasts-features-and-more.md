@@ -1,0 +1,23 @@
+---
+title: >-
+  iOS 26.2 is here with another Liquid Glass tweak, new Podcasts features and
+  more
+date: '2025-12-13'
+excerpt: >-
+  Apple has released iOS 26.2, bringing a number of new convenience features and
+  security updates. The update includes auto-generated chapters for episo...
+coverImage: >-
+  https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Transportation
+source: >-
+  https://www.engadget.com/mobile/ios-262-is-here-with-another-liquid-glass-tweak-new-podcasts-features-and-more-181020133.html?src=rss
+---
+<p>Apple has released <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://support.apple.com/en-us/123075">iOS 26.2</a>, bringing a number of new convenience features and security updates. The update includes auto-generated chapters for episodes in the Podcasts app, the option to make AirDrop more secure using verification codes, alarms for Reminders and more. It also introduces new controls for how Liquid Glass appears on the Lock Screen, adding a slider to adjust the transparency level. The drop also includes updates for <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://support.apple.com/en-us/123074">iPadOS</a>, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://support.apple.com/en-us/106336">macOS</a>, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://support.apple.com/en-us/123002">watchOS</a>, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://support.apple.com/en-us/123024#a262">visionOS</a> and <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://support.apple.com/en-us/106336">tvOS</a>.</p>
+<h2 id="jump-link-whats-new-in-ios-262-and-ipados-262">What's new in iOS 26.2 and iPadOS 26.2</h2>
+<p>It's not exactly a major update feature-wise, but iOS and iPadOS 26.2 bring a bunch of quality of life improvements to apps including Apple Music, Podcasts and Games. In Apple Music, you'll now see your Favorite Songs playlist in the Top Picks section, and lyrics will be available offline for songs you've downloaded. In addition to automatically generated chapters, Podcasts will display links to any other podcasts mentioned in the episode you're listening to. And, Games is getting in-game score banners, along with filters for the library to make it easier to find titles based on category and other descriptors. Apple says it also improved support for Backbone and Razer controllers.</p>
+<span id="end-legacy-contents"></span><p>With iOS 26.2, Apple made Safety Alerts for natural disasters and other emergencies more detailed, and they'll now come with maps of affected areas and other useful information. For iPad users, Apple has added drag-and-drop gestures for its new windowing system to make multitasking smoother. The update for iPhones and iPads also addresses several potential <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://support.apple.com/en-us/125884">security issues</a>, including vulnerabilities in WebKit that Apple says "may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 26." So, if you're not yet running the latest OS on your iPhone and iPad, it's a good time to update.&nbsp;</p>
+<h2 id="jump-link-os-updates-for-the-rest-of-the-family">OS updates for the rest of the family</h2>
+<p>Beyond the iPhone and iPad, macOS Tahoe 26.2 introduces Edge Light for Mac, which <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:8;pos:1" class="no-affiliate-link" href="https://www.engadget.com/computing/the-next-macos-update-can-turn-your-screen-into-a-ring-light-234410504.html">turns your display into a ring light</a> for video calls. For the Apple Watch, 26.2 fixes an issue with stuck songs in the Music app, and adds some new controls for the Sleep app. The tvOS update brings the option to add profiles even for people who don't have an Apple Account, and new restriction options for kid profiles. With visionOS 26.2, Travel Mode now has settings for cars and buses, and you'll now be able to use spatial accessories including "Logitech Muse in Notes, Freeform, and any PencilKit-enabled app" to create hand-drawn content with the Apple Vision Pro.</p>This article originally appeared on Engadget at https://www.engadget.com/mobile/ios-262-is-here-with-another-liquid-glass-tweak-new-podcasts-features-and-more-181020133.html?src=rss
