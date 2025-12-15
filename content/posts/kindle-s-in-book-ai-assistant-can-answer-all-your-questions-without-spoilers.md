@@ -1,0 +1,22 @@
+---
+title: Kindle's in-book AI assistant can answer all your questions without spoilers
+date: '2025-12-14'
+excerpt: >-
+  If you&#39;re several chapters into a novel and forgot who a character was,
+  Amazon is hoping its new Kindle feature will jog your memory without ever...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Llm
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/ai/kindles-in-book-ai-assistant-can-answer-all-your-questions-without-spoilers-190609961.html?src=rss
+---
+<p>If you&#39;re several chapters into a novel and forgot who a character was, Amazon is hoping its new Kindle feature will jog your memory without ever having to put the e-reader down. This feature, called <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.aboutamazon.com/news/books-and-authors/kindle-recaps-feature-ebook-series-refreshers">Ask this Book</a>, was announced during Amazon&#39;s <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/home/everything-announced-at-amazons-fall-hardware-event-143557140.html">hardware event</a> in September, but is finally available for US users on the Kindle iOS app.</p>
+<p>According to Amazon, the feature can currently be found on thousands of English best-selling Kindle titles and &quot;only reveals information up to your current reading position&quot; for spoiler-free responses. To use it, you can highlight a passage in any book you&#39;ve bought or borrowed and ask it questions about plot, characters or other crucial details, and the AI assistant will offer &quot;immediate, contextual, spoiler-free information.&quot; You&#39;ll even be able to ask follow-up questions for more detail.</p>
+<span id="end-legacy-contents"></span><figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-12/5fb83ee0-d91b-11f0-8fff-4bd39708d825" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-12/5fb83ee0-d91b-11f0-8fff-4bd39708d825" style="height:1332px;width:2378px;" alt="A demo of the new Ask this Book feature on Kindle." data-uuid="63cc8951-82c4-3b8e-8779-755ea77c4abb"><figcaption></figcaption><div class="photo-credit">Amazon</div></figure>
+<p>While Ask this Book may be helpful to some Kindle readers, the feature touches on a major point of contention with authors and publishers. In response to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://lunch.publishersmarketplace.com/2025/12/kindles-new-ask-this-book-uses-generative-ai-to-create-an-in-book-chatbot-without-permission-or-rights/"><em>Publishers Lunch</em></a>, a daily newsletter for the publishing industry, an Amazon spokesperson said that, &quot;To ensure a consistent reading experience, the feature is always on, and there is no option for authors or publishers to opt titles out.&quot; Other AI companies are already facing lawsuits claiming copyright infringement. Most recently, the New York Times and Chicago Tribune <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/the-new-york-times-and-chicago-tribune-sue-perplexity-over-alleged-copyright-infringement-153656431.html">sued Perplexity</a>, accusing the AI company of using its copyrighted works to train its LLMs.</p>
+<p>As for the Ask this Book feature, Amazon is already planning to expand it beyond the iOS app and will introduce it to Kindle devices and the Android OS app next year. Beyond this new feature, Amazon also introduced Recaps to Kindle devices and the iOS app for books in a series, which acts much like a TV show&#39;s &quot;Previously on&quot; roundup in between seasons. However, Amazon recently had to withdraw its AI-generated <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.engadget.com/entertainment/streaming/amazon-pulls-its-bad-ai-video-recaps-after-fallout-fallout-220358758.html">Video Recaps</a> feature, so it might be worth double-checking the info you get from Recaps, too.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/kindles-in-book-ai-assistant-can-answer-all-your-questions-without-spoilers-190609961.html?src=rss

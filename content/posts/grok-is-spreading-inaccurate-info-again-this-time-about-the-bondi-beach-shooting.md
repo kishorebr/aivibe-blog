@@ -1,0 +1,20 @@
+---
+title: >-
+  Grok is spreading inaccurate info again, this time about the Bondi Beach
+  shooting
+date: '2025-12-14'
+excerpt: >-
+  In the same month that Grok opted for a second Holocaust over vaporizing Elon
+  Musk&#39;s brain, the AI chatbot is on the fritz again. Following the Bo...
+coverImage: >-
+  https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Education
+source: >-
+  https://www.engadget.com/ai/grok-is-spreading-inaccurate-info-again-this-time-about-the-bondi-beach-shooting-203946515.html?src=rss
+---
+<p>In the same month that Grok opted for a <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/grok-would-prefer-a-second-holocaust-over-harming-elon-musk-200023093.html">second Holocaust</a> over vaporizing Elon Musk&#39;s brain, the AI chatbot is on the fritz again. Following the Bondi Beach shooting in Australia during a festival to mark the start of Hanukkah, Grok is responding to user requests with inaccurate or completely unrelated info, as first spotted by <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://gizmodo.com/grok-is-glitching-and-spewing-misinformation-about-the-bondi-beach-shooting-2000699533"><em>Gizmodo</em></a>.</p>
+<p>Grok&#39;s confusion seems to be most apparent with a viral video that shows a 43-year-old bystander, identified as <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.bbc.com/news/articles/ce3wkey5p33o">Ahmed al Ahmed</a>, wrestling a gun away from an attacker during the incident, which has left at least 16 dead, according to the latest <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://apnews.com/article/australia-shooting-sydney-bondi-beach-31f711f09f677d0f88091ece25f651c1">news</a> <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.bbc.com/news/live/ckgk391yzm7t">reports</a>. Grok&#39;s responses show it repeatedly <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://x.com/grok/status/2000282306980802587">misidentifying</a> <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://x.com/grok/status/2000259322782101584">the individual</a> who stopped one of the gunmen. In other cases, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:8;pos:1" class="no-affiliate-link" href="https://x.com/grok/status/2000225743951851927?s=20">Grok responds</a> to the same image about the Bondi Beach shooting with irrelevant details about allegations of targeted civilian shootings in Palestine.</p>
+<span id="end-legacy-contents"></span><p>The <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:9;pos:1" class="no-affiliate-link" href="https://x.com/grok/with_replies">latest replies</a> still show Grok&#39;s confusion with the Bondi Beach shooting, even providing information about the incident to <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:10;pos:1" class="no-affiliate-link" href="https://x.com/grok/status/2000256028940599521">unrelated requests</a> or mixing it up with the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:11;pos:1" class="no-affiliate-link" href="https://x.com/grok/status/2000261976103043297">shooting at Brown University</a> in Rhode Island. xAI, Grok&#39;s developer, hasn&#39;t officially commented on what&#39;s happening with its AI chatbot yet. However, it&#39;s not the first time that Grok has gone off the rails, considering it dubbed itself <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:12;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/how-exactly-did-grok-go-full-mechahitler-151020144.html">MechaHitler</a> earlier this year.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/grok-is-spreading-inaccurate-info-again-this-time-about-the-bondi-beach-shooting-203946515.html?src=rss
