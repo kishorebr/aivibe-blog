@@ -1,0 +1,17 @@
+---
+title: The last Xbox update of 2025 includes a handy Wireless Headset upgrade
+date: '2025-12-16'
+excerpt: >-
+  As part of its last Xbox-focused software update of the year, Microsoft is
+  improving the Bluetooth performance of the Xbox Wireless Headset to make it...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/gaming/xbox/the-last-xbox-update-of-2025-includes-a-handy-wireless-headset-upgrade-204500386.html?src=rss
+---
+<p>As part of its last <a target="_blank" class="link" href="https://news.xbox.com/en-us/2025/12/16/xbox-december-2025-update-mobile-app-updates-audio-support/" data-i13n="cpos:1;pos:1">Xbox-focused software update</a> of the year, Microsoft is improving the Bluetooth performance of the <a target="_blank" class="link" href="https://www.engadget.com/audio/headphones/the-xbox-wireless-headset-receives-microphone-and-battery-life-upgrades-151455182.html" data-i13n="cpos:2;pos:1">Xbox Wireless Headset</a> to make it work even better with Windows 11. Microsoft released the latest Wireless Headset as an accessory for Xbox Series X/S and PC, but as of this update, Xbox Wireless Headset owners on Windows will now have a leg up on their console counterparts thanks to support for Bluetooth Low Energy (LE) Audio.</p><p>Microsoft says that supporting Bluetooth LE Audio will let the headset offer lower latency audio, better battery life, richer stereo sound and the ability to share audio across multiple compatible Bluetooth accessories at the same time. Not revolutionary updates, but still nice to have if you bought a $110 Xbox Wireless Headset back in 2024. Provided you&#39;re running the latest version of Windows 11 and your device supports Bluetooth LE, Microsoft says you can take advantage of the improvements by updating your headset in the Xbox Accessories app.</p><p>If you&#39;re a regular user of the Xbox mobile app, Microsoft is also making some changes there. After adding the ability <a target="_blank" class="link" href="https://news.xbox.com/en-us/2025/04/16/xbox-april-update-buy-games-xbx-app-stream-your-own-game-console/" data-i13n="cpos:3;pos:1">to purchase Xbox games directly from the app</a> in April — a feature made possible after <a target="_blank" class="link" href="https://www.engadget.com/big-tech/google-has-to-open-up-the-play-store-in-epic-games-antitrust-ruling-195239228.html" data-i13n="cpos:4;pos:1">Google</a> and <a target="_blank" class="link" href="https://www.engadget.com/apps/apple-updates-its-app-store-guidelines-to-allow-external-payment-options-123039994.html" data-i13n="cpos:5;pos:1">Apple</a> were forced to change the rules of their app stores — Microsoft is now adding a dedicated Store tab to the app. You&#39;ll also be able to add games to your wishlist and search for add-ons and DLC directly in the app.</p><p>Microsoft ending the year with Windows and mobile app updates reflects the ways the company&#39;s gaming strategy has changed in 2025. After spending decades positioning itself as a console maker, Microsoft is seemingly making Xbox software its main focus going forward.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/xbox/the-last-xbox-update-of-2025-includes-a-handy-wireless-headset-upgrade-204500386.html?src=rss

@@ -1,0 +1,16 @@
+---
+title: Steam Replay 2025 is here to recap your PC gaming habits
+date: '2025-12-16'
+excerpt: >-
+  ‘Tis the season for gift-giving, family feasts and companies turning their
+  harvested user data into lighthearted recaps. Valve&#39;s take on the year-...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/gaming/pc/steam-replay-2025-is-here-to-recap-your-pc-gaming-habits-205430951.html?src=rss
+---
+<p>‘Tis the season for gift-giving, family feasts and companies turning their harvested user data into lighthearted recaps. Valve&#39;s take on the year-end rewind, <a target="_blank" class="link" href="https://store.steampowered.com/replay" data-i13n="cpos:1;pos:1">Steam Replay</a>, is now available. It follows similar offerings from <a target="_blank" class="link" href="https://www.engadget.com/entertainment/music/spotify-wrapped-2025-is-here-and-now-its-a-competition-130052418.html" data-i13n="cpos:2;pos:1">Spotify</a>, <a target="_blank" class="link" href="https://www.engadget.com/entertainment/music/apple-music-replay-2025-is-here-to-highlight-your-unimpeachable-music-taste-151224318.html" data-i13n="cpos:3;pos:1">Apple Music</a>, <a target="_blank" class="link" href="https://www.engadget.com/gaming/playstation/playstations-2025-wrap-up-is-here-so-you-can-see-how-many-hours-youve-sunk-into-death-stranding-2-191508693.html" data-i13n="cpos:4;pos:1">PlayStation</a> and, increasingly, just about every service you use. Hell, even <a target="_blank" class="link" href="https://www.engadget.com/apps/even-uber-has-an-end-of-year-wrap-up-now-120035274.html" data-i13n="cpos:5;pos:1">Uber</a> and <a target="_blank" class="link" href="https://www.engadget.com/gaming/nyt-games-has-a-year-in-review-thing-now-too-203000878.html" data-i13n="cpos:6;pos:1"><em>The New York Times</em></a> somehow justified getting in on the action this year.</p><p>This is the fourth edition of Valve’s wrap-up, which looks back on the titles you spent the most time with in 2025. You’ll find your top games, the number of titles you played, achievements unlocked and longest streaks. You can see how your habits break down by genre, <a target="_blank" class="link" href="https://www.engadget.com/steam-deck-oled-review-its-just-better-180038030.html" data-i13n="cpos:7;pos:1">Steam Deck</a> use and whether they&#39;re new releases, recent or classic games. Monthly breakdowns and the percentage of time played (by title) are also included.</p><p>The review compares your stats to the average Steam user. For example, I played 28 games this year; the Steam median is only four. My longest play streak was 15 days; the median is six. I’m only an intermittent gamer, so people who barely play at all are clearly weighing down the averages.</p><p>You can check out your Steam Replay 2025 by heading to <a target="_blank" class="link" href="https://store.steampowered.com/replay" data-i13n="cpos:8;pos:1">the website</a> and logging in.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/pc/steam-replay-2025-is-here-to-recap-your-pc-gaming-habits-205430951.html?src=rss
