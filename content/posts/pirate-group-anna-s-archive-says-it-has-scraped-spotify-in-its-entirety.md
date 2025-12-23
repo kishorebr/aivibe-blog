@@ -1,0 +1,17 @@
+---
+title: Pirate group Anna's Archive says it has scraped Spotify in its entirety
+date: '2025-12-23'
+excerpt: >-
+  Anna&#39;s Archive, the open-source search engine for shadow libraries, says
+  it scraped Spotify&#39;s entire library of music. The group acquired meta...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/entertainment/streaming/pirate-group-annas-archive-says-it-has-scraped-spotify-in-its-entirety-211914755.html?src=rss
+---
+<p>Anna&#39;s Archive, the open-source search engine for shadow libraries, <a target="_blank" class="link" href="https://annas-archive.li/blog/backing-up-spotify.html" data-i13n="slk:says;cpos:1;pos:1">says</a> it scraped Spotify&#39;s entire library of music. The group acquired metadata for around 256 million tracks, with 86 million actual songs, and is just under 300TB in total size.</p><p>&quot;A while ago, we discovered a way to scrape Spotify at scale. We saw a role for us here to build a music archive primarily aimed at preservation,&quot; the group said in a <a target="_blank" class="link" href="https://annas-archive.li/blog/backing-up-spotify.html" data-i13n="slk:blog post;cpos:2;pos:1">blog post</a>. The pirated treasure trove of music represents over 15 million artists with over 58 million albums.</p><p>The group intends to make all files available for download for anyone with the available disk space. &quot;This Spotify scrape is our humble attempt to start such a “preservation archive” for music. Of course Spotify doesn’t have all the music in the world, but it’s a great start,&quot; the group wrote. The 86 million songs that the group has archived so far represent about 99.6 percent of listens on the platform. This only represents about 37 percent of the total and the group still has millions left to be archived.</p><p>The open-source site is normally focused on text like books and papers, which it says offers the highest information density. The group says its goal of &quot;preserving humanity&#39;s knowledge and culture&quot; doesn&#39;t distinguish between media types. Of course none of this is exactly legal, and the sharing or downloading of all these files is flagrantly in violation of IP protection laws.</p><p>Anna&#39;s Archive contends that current collections of music, both physical and digital, are over-indexed to the most popular artists or composed of unnecessarily large file sizes due to collectors&#39; focus on fidelity. The group says that what it&#39;s amassed is by far the largest music metadata database publicly available. The music files will be released in order of popularity in stages.</p><p>“Spotify has identified and disabled the nefarious user accounts that engaged in unlawful scraping,” a spokesperson told Engadget in a statement. “We&#39;ve implemented new safeguards for these types of anti-copyright attacks and are actively monitoring for suspicious behavior. Since day one, we have stood with the artist community against piracy, and we are actively working with our industry partners to protect creators and defend their rights.”</p><p><strong>Update, December 22, 2025, 10:45PM ET</strong>: This story has been updated to add Spotify’s statement.</p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/pirate-group-annas-archive-says-it-has-scraped-spotify-in-its-entirety-211914755.html?src=rss
