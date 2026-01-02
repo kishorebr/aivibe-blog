@@ -1,0 +1,19 @@
+---
+title: >-
+  Starlink is lowering thousands of satellites' orbits to reduce risk of
+  collisions
+date: '2026-01-02'
+excerpt: >-
+  Starlink will lower the orbits of roughly 4,400 satellites this year as a
+  safety measure, according to engineering VP, Michael Nicolls. In a post on
+  X...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/science/space/starlink-is-lowering-thousands-of-satellites-orbits-to-reduce-risk-of-collisions-030509067.html?src=rss
+---
+<p>Starlink will lower the orbits of roughly 4,400 satellites this year as a safety measure, according to engineering VP, Michael Nicolls. In a post on <a target="_blank" class="link" href="https://x.com/michaelnicollsx/status/2006790372681220530?s=20" data-i13n="cpos:1;pos:1">X</a>, Nicolls wrote that the company is &quot;beginning a significant reconfiguration of its satellite constellation,&quot; in which all satellites orbiting at around 550 kilometers (342 miles) will be lowered to around 480 km (298 miles). The move is intended to reduce the risk of collisions, putting the satellites in a region that&#39;s <a target="_blank" class="link" href="https://www.engadget.com/theres-no-easy-answer-to-being-a-space-janitor-170011469.html" data-i13n="cpos:2;pos:1">less cluttered</a> and will allow them to deorbit more quickly should an incident occur.&nbsp;</p><p>&quot;Lowering the satellites results in condensing Starlink orbits, and will increase space safety in several ways,&quot; Nicolls wrote, also pointing to the coming solar minimum — a period in the sun&#39;s 11ish-year cycle when activity is lower — as one of the reasons for the move. The next solar minimum is expected to occur in the early 2030s. &quot;As solar minimum approaches, atmospheric density decreases which means the ballistic decay time at any given altitude increases - lowering will mean a &gt;80% reduction in ballistic decay time in solar minimum, or 4+ years reduced to a few months,&quot; Nicolls wrote.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Screenshot_2026-01-01_at_9.48.02%E2%80%AFPM.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Screenshot_2026-01-01_at_9.48.02%E2%80%AFPM.jpg" style="height:1398px;width:1296px;" alt="A screenshot of the X post by Starlink VP of engineering Michael Nicolls " data-uuid="dba03a94-e10d-4521-a7eb-a02873d74bc1"/><figcaption>A screenshot of an X post by Starlink VP of engineering Michael Nicolls announcing that satellites orbiting at around 500 kilometers will be lowered to 480km</figcaption><div class="photo-credit"></div></figure><p>The announcement comes a few weeks after Starlink said one of its satellites had <a target="_blank" class="link" href="https://www.engadget.com/science/space/a-starlink-satellite-just-exploded-and-left-trackable-debris-120002814.html" data-i13n="cpos:3;pos:1">experienced an anomaly</a> that created some debris and sent it tumbling. Just a few days earlier, Nicolls <a target="_blank" class="link" href="https://x.com/michaelnicollsx/status/1999630601046097947?s=20" data-i13n="cpos:4;pos:1">posted</a> about a close call with a batch of satellites he said were launched from China seemingly without any attempt to coordinate with operators of existing satellites in the space. With his latest announcement, Nicolls added that lowering Starlink&#39;s satellites &quot;will further improve the safety of the constellation, particularly with difficult to control risks such as uncoordinated maneuvers and launches by other satellite operators.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/science/space/starlink-is-lowering-thousands-of-satellites-orbits-to-reduce-risk-of-collisions-030509067.html?src=rss
