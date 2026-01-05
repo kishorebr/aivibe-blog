@@ -1,0 +1,18 @@
+---
+title: >-
+  Samsung HW-QS90H soundbar hands-on: Impressive bass performance without a
+  subwoofer
+date: '2026-01-05'
+excerpt: >-
+  We’re used to Samsung updating its Q990 soundbar at CES every year, and 2026
+  is no different. However, the company also debuted the HW-QS90H: a new al...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/home/home-theater/samsung-hw-qs90h-soundbar-hands-on-impressive-bass-performance-without-a-subwoofer-045727939.html?src=rss
+---
+<p>We’re used to Samsung <a target="_blank" class="link" href="https://www.engadget.com/audio/speakers/samsung-debuts-the-qs700f-soundbar-and-updates-the-q990-at-ces-2025-030042257.html" data-i13n="cpos:1;pos:1">updating its Q990 soundbar at CES every year</a>, and 2026 is no different. However, the company also <a target="_blank" class="link" href="https://www.engadget.com/audio/speakers/samsungs-two-new-speakers-will-deliver-crisp-audio-while-blending-into-your-decor-230053770.html" data-i13n="cpos:2;pos:1">debuted the HW-QS90H</a>: a new all-in-one option that Samsung says won’t require a standalone subwoofer due to its Quad Bass Woofer system. The QS90H offers 7.1.2-channel audio with 13 total drivers. Before the show properly kicks off, we got to listen to the new soundbar for a quick judge of its merits.&nbsp;</p><p>The first thing I noticed about the QS90H is its impressive bass performance. Most of the time when a company claims its soundbar doesn’t need a subwoofer, that proves to be untrue. But even in the chaos of a noisy demo area, I could clearly hear the bassy thump coming from the QS90H’s built-in subwoofers. For once, I think would-be buyers could get by without a sub, especially in smaller living rooms. </p><p>Samsung achieved this with two of those Quad woofers. These drivers push air in two directions rather than just one, which helps with the extra low-end tone. The company didn’t sacrifice clarity either. The nine additional drivers, positioned for front, side, wide and up firing sound, provide the clear detail I’ve come to expect from Samsung.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/qs90h-1.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/qs90h-1.jpg" style="height:1440px;width:2560px;" alt="Samsung QS90H soundbar" data-uuid="3a472cfd-3a80-4af6-a3d2-b62412cd5a3b"/><figcaption>Samsung QS90H soundbar</figcaption><div class="photo-credit">Billy Steele for Engadget</div></figure><p>The QS90H also features Samsung’s Convertible Fit Design technology that debuted on the <a target="_blank" class="link" href="https://www.engadget.com/home/home-theater/samsung-hw-qs700f-soundbar-review-sophisticated-design-automatic-adjustments-180035549.html" data-i13n="cpos:3;pos:1">QS700F</a> last year. This tool allows you to sit the soundbar flat on a shelf or mantle, or rotate it to mount on the wall. Built-in sensors automatically adjust the driver performance for each orientation, so that sound quality isn’t affected by the selected positioning. During my demo, I didn’t notice any difference in performance when the orientation changed. In fact, the QS90H looks a lot like the QS700F on the outside, with similar grille patters and control designs. </p><p>Samsung didn’t announce pricing or availability tonight, but that’s likely to come just prior to any on-sale date. </p><p></p>This article originally appeared on Engadget at https://www.engadget.com/home/home-theater/samsung-hw-qs90h-soundbar-hands-on-impressive-bass-performance-without-a-subwoofer-045727939.html?src=rss
