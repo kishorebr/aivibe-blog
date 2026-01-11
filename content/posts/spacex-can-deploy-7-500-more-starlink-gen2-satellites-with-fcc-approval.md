@@ -1,0 +1,16 @@
+---
+title: 'SpaceX can deploy 7,500 more Starlink Gen2 satellites with FCC approval'
+date: '2026-01-10'
+excerpt: >-
+  The Federal Communications Commission has approved SpaceX’s request to deploy
+  an additional 7,500 Gen2 Starlink satellites, allowing the company to la...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/science/space/spacex-can-deploy-7500-more-starlink-gen2-satellites-with-fcc-approval-180000843.html?src=rss
+---
+<p>The Federal Communications Commission has <a target="_blank" class="link" href="https://www.fcc.gov/document/fcc-approves-next-gen-satellite-constellation" data-i13n="cpos:1;pos:1">approved</a> SpaceX’s request to deploy an additional 7,500 <a target="_blank" class="link" href="https://www.engadget.com/fcc-spacex-7500-second-gen-starlink-satellites-100339027.html" data-i13n="cpos:2;pos:1">Gen2 Starlink satellites</a>, allowing the company to launch 15,000 in all. It has also allowed SpaceX to upgrade its Gen2 satellites with “advanced form factors and cutting-edge technology,” to operate across more frequencies and to add more orbital shells to optimize coverage and performance. This approval will give the company’s fleet a boost and will allow it to offer internet and mobile services to more parts of the globe. The satellites will also enable SpaceX to offer “direct-to-cell connectivity outside the United States and supplemental coverage” within the US. </p><p>In the United States, SpaceX has a <a target="_blank" class="link" href="https://www.engadget.com/science/space/t-mobile-and-spacexs-satellite-to-phone-service-gets-fcc-approval-134501756.html" data-i13n="cpos:3;pos:1">partnership with T-Mobile</a>, which gives its subscribers access to satellite-to-phone services. It enables subscribers to send texts and access compatible apps even in remote locations. The companies are also planning to roll out voice calls over satellite in the future.</p><p>As <a target="_blank" class="link" href="https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/" data-i13n="cpos:4;pos:1"><em>Ars Technica</em></a><em> </em>notes, the FCC’s announcement comes after SpaceX <a target="_blank" class="link" href="https://x.com/michaelnicollsx/status/2006790372681220530?s=20" data-i13n="cpos:5;pos:1">revealed</a> that it was moving 4,400 satellites from an altitude of 341 miles down to 298 miles to reduce the risk of collision. SpaceX originally asked for permission to deploy 29,988 second-generation Starlinks in 2020, but the FCC only granted it <a target="_blank" class="link" href="https://www.engadget.com/fcc-spacex-7500-second-gen-starlink-satellites-100339027.html" data-i13n="slk:permission for 7,500;cpos:6;pos:1">permission for 7,500</a> in 2022. Back then the commission said that it was giving SpaceX a limited approval to help maintain a safe space environment due to concerns about orbital debris. </p>This article originally appeared on Engadget at https://www.engadget.com/science/space/spacex-can-deploy-7500-more-starlink-gen2-satellites-with-fcc-approval-180000843.html?src=rss
