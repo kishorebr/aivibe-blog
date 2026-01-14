@@ -1,0 +1,17 @@
+---
+title: Instagram wants you to personalize your Reels algorithm for 2026
+date: '2026-01-13'
+excerpt: >-
+  Last month, Instagram began rolling out a new set of controls that allowed
+  users to personalize the topics recommended to them by the Reels algorithm....
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/social-media/instagram-wants-you-to-personalize-your-reels-algorithm-for-2026-215252736.html?src=rss
+---
+<p>Last month, Instagram began rolling out a new set of controls that allowed users to <a target="_blank" class="link" href="https://www.engadget.com/social-media/instagram-will-let-you-control-which-topics-its-algorithm-recommends-133002612.html" data-i13n="cpos:1;pos:1">personalize</a> the topics recommended to them by the Reels algorithm. Now, Meta is making that feature <a target="_blank" class="link" href="https://www.threads.com/@mosseri/post/DTdelJPj3yC" data-i13n="cpos:2;pos:1">available</a> to all English users of the app globally, along with the ability to highlight their top topics for the coming year.&nbsp;</p><p>The feature begins with a selection of topics Meta&#39;s AI thinks you&#39;re interested in based on your recent activity, and has controls to remove them or add new categories. There&#39;s also a separate field for identifying what you want to see less of, and a new &quot;build your 2026 algorithm&quot; that allows you to highlight three topics in particular.&nbsp;</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/View_recent_photos.png" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/View_recent_photos.png" style="height:1494px;width:1179px;" alt="A screenshot of Instagram reels showing a ski jumper mid-air with a label that says &quot;snowboarding.&quot;" data-uuid="a7fbd7cd-9091-4591-b588-909677ded134"/><figcaption>Meta&#39;s algorithm tagged a skiing clip as &quot;snowboarding.&quot;</figcaption><div class="photo-credit">Screenshot via Instagram</div></figure><p>I don&#39;t yet have the 2026-specific control yet, but I was able to tweak some of my preferred topics and was surprised at how quickly the algorithm seemed to adjust. I added &quot;snowboarding&quot; as a topic and then later, when I clicked over to Reels, the first clip I saw was tagged &quot;snowboarding.&quot; Unfortunately, the video wasn&#39;t actually about snowboarding — it featured a clip of a freestyle skiing event — so Meta&#39;s systems might still need a little work at classifying the actual content. But given how sensitive the Reels algorithm can be, it&#39;s nice to have a way of opting out of interests even if you briefly went down a&nbsp; rabbit hole.&nbsp;</p><p>The feature won&#39;t, however, let you ask to see fewer ads. I tried to add &quot;ads&quot; to my &quot;what you want to see less of&quot; list and received an error. &quot;No results found. Try another topic or interest.&quot; I was able to successfully add &quot;sponsored content&quot; and &quot;AI&quot; to my &quot;see less&quot; list, though I&#39;m pretty sure the latter will affect videos about AI rather than those made with the help of it.</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/instagram-wants-you-to-personalize-your-reels-algorithm-for-2026-215252736.html?src=rss
