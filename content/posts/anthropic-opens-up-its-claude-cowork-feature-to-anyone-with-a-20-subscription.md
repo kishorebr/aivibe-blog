@@ -1,0 +1,17 @@
+---
+title: Anthropic opens up its Claude Cowork feature to anyone with a $20 subscription
+date: '2026-01-16'
+excerpt: >-
+  Claude Cowork, Anthropic&#39;s AI assistant for taking care of simple tasks on
+  your computer, is now available for anyone with a $20 per month Pro sub...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/ai/anthropic-opens-up-its-claude-cowork-feature-to-anyone-with-a-20-subscription-194000021.html?src=rss
+---
+<p><a target="_blank" class="link" href="https://www.engadget.com/ai/anthropic-launches-claude-cowork-a-version-of-its-coding-ai-for-regular-people-193000849.html" data-i13n="cpos:1;pos:1">Claude Cowork</a>, Anthropic&#39;s AI assistant for taking care of simple tasks on your computer, is <a target="_blank" class="link" href="https://x.com/claudeai/status/2012215329070493971?s=20" data-i13n="cpos:2;pos:1">now available</a> for anyone with a $20 per month Pro subscription to try. Anthropic launched Cowork as an exclusive feature for its <a target="_blank" class="link" href="https://www.engadget.com/ai/anthropics-max-plan-offers-nearly-unlimited-claude-usage-for-200-per-month-170032710.html" data-i13n="cpos:3;pos:1">Max subscribers</a>, who pay a minimum of $100 per month for more uses of Claude&#39;s expensive reasoning models and early access to experimental features. Now Claude Cowork is available at a cheaper price, though Anthropic notes &quot;Pro users may hit their usage limits earlier&quot; than Max users do.</p><p>Like other AI agents, the novelty of Claude Cowork is its ability to work on its own. If you have the macOS Claude app and a Pro subscription, you can prompt Claude Cowork to work on tasks on your local computer, like creating documents based on files you have saved or organizing your folders. The feature is an evolution of <a target="_blank" class="link" href="https://www.engadget.com/ai/anthropics-new-claude-model-can-think-both-fast-and-slow-203307140.html" data-i13n="cpos:4;pos:1">Claude Code</a>, Anthropic&#39;s AI coding agent, and can similarly use connectors and the <a target="_blank" class="link" href="https://www.engadget.com/ai/claudes-chrome-plugin-is-now-available-to-all-paid-users-221024295.html" data-i13n="cpos:5;pos:1">Claude Chrome plugin</a> to work with other apps and the web.</p><p>As part of this expanded rollout, Anthropic has included a few fixes inspired by early user feedback. You&#39;ll now be able to rename sessions with Claude Cowork (&quot;Tasks&quot; in the parlance of the Claude app) and the company says the AI assistant will offer better file format previews, more reliable use of connectors to other apps and confirmation messages before it deletes files.</p><p>Coding agents top the list of applications of AI that have gained real traction in the last year, so Anthropic applying what it learned with Claude Code to a more general collection of computer tasks makes sense. Claude Cowork is still limited to macOS and Anthropic&#39;s paid subscribers, but assuming the AI agent continues to be popular, it wouldn&#39;t be surprising if the company brought it to other platforms.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/anthropic-opens-up-its-claude-cowork-feature-to-anyone-with-a-20-subscription-194000021.html?src=rss

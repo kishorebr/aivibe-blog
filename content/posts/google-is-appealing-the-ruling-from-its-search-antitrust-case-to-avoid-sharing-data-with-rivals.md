@@ -1,0 +1,18 @@
+---
+title: >-
+  Google is appealing the ruling from its search antitrust case to avoid sharing
+  data with rivals
+date: '2026-01-16'
+excerpt: >-
+  Google has filed its appeal to the Department of Justice’s antitrust case that
+  ended with a federal judge ruling that the company was maintaining a mo...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/big-tech/google-is-appealing-the-ruling-from-its-search-antitrust-case-to-avoid-sharing-data-with-rivals-215107905.html?src=rss
+---
+<p>Google <a target="_blank" class="link" href="https://blog.google/company-news/outreach-and-initiatives/public-policy/why-were-appealing-the-doj-search-distribution-case/" data-i13n="cpos:1;pos:1">has filed its appeal</a> to the Department of Justice’s antitrust case that ended with <a target="_blank" class="link" href="https://www.engadget.com/big-tech/google-is-a-monopolist-in-search-us-judge-rules-in-antitrust-case-193358356.html" data-i13n="cpos:2;pos:1">a federal judge ruling</a> that the company was maintaining a monopoly with its search business. While the company goes through the appeals process, it’s also asking that implementation of <a target="_blank" class="link" href="https://www.engadget.com/big-tech/google-doesnt-have-to-sell-chrome-judge-in-monopoly-case-rules-211032326.html" data-i13n="cpos:3;pos:1">the remedies</a> from the case, which include a requirement that Google share search data with its competitors, also be paused.</p><p>“As we have long said, the Court’s August 2024 ruling ignored the reality that people use Google because they want to, not because they’re forced to,” Google said in a statement. “The decision failed to account for the rapid pace of innovation and intense competition we face from established players and well-funded start-ups. And it discounted compelling testimony from browser makers like Apple and Mozilla who said they choose to feature Google because it provides the highest quality search experience for their consumers.”</p><p>The company says that the requirement that it “provide syndication services to rivals” and share search data is a privacy risk and could “discourage competitors from building their own products.” Both remedies where compromises based on what the Justice Department originally proposed, which included <a target="_blank" class="link" href="https://www.engadget.com/big-tech/department-of-justice-confirms-that-it-wants-google-to-sell-off-chrome-094929822.html" data-i13n="cpos:4;pos:1">forcing Google to sell its Chrome web browser</a>. </p><p>After <a target="_blank" class="link" href="https://www.engadget.com/federal-judge-narrows-scope-of-antitrust-case-against-google-ahead-of-trial-202837725.html" data-i13n="cpos:5;pos:1">a 10-week trial</a> held in 2023, Google was found to have a search monopoly in 2024 because of the placement it maintained <a target="_blank" class="link" href="https://www.engadget.com/google-reportedly-pays-apple-36-percent-of-ad-search-revenues-from-safari-191730783.html" data-i13n="cpos:6;pos:1">as the default search engine</a> on multiple platforms, and the control it exerted over the ads that appear in search results. Both arguments were key points in the DOJ’s <a target="_blank" class="link" href="https://www.engadget.com/google-us-justice-department-antitrust-competition-announcement-144344497.html" data-i13n="cpos:7;pos:1">original 2020 lawsuit</a>.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/google-is-appealing-the-ruling-from-its-search-antitrust-case-to-avoid-sharing-data-with-rivals-215107905.html?src=rss
