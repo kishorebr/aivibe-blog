@@ -1,0 +1,21 @@
+---
+title: Grab a four-pack of AirTags on sale for $65
+date: '2026-01-17'
+excerpt: >-
+  Most Apple products are pretty expensive, but some of the most affordable (and
+  useful) ones are AirTags. The Bluetooth trackers are priced pretty reas...
+coverImage: >-
+  https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Transportation
+source: >-
+  https://www.engadget.com/deals/grab-a-four-pack-of-airtags-on-sale-for-65-202333514.html?src=rss
+---
+<p>Most Apple products are pretty expensive, but some of the most affordable (and useful) ones are <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;itemId=amazon_B0D54JZTHY&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=24b60c33-f851-4bee-9d8b-9c00c8cc034a&amp;featureId=text-link&amp;merchantName=Amazon&amp;linkText=AirTags&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRDU0SlpUSFk_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiMjRiNjBjMzMtZjg1MS00YmVlLTlkOGItOWMwMGM4Y2MwMzRhIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwRDU0SlpUSFkiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAR-tHxD_n-S9V6FZTggBPzQxNCDZMIugRbDnHNS6azZ_&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D54JZTHY" class="rapid-with-clickid" data-original-link="https://www.amazon.com/dp/B0D54JZTHY?">AirTags</a>. The Bluetooth trackers are priced pretty reasonably even when not on sale, but they can be a steal if you can get them on a discount — like right now. A four pack of AirTags is on sale for $65 at Amazon, which is only a few dollars more than the record-low price we saw during Black Friday this year.</p> 
+<p>
+ <core-commerce id="3f2e8dbba5f04aee8fc64ab5334170d5" data-type="product-list" data-original-url="https://www.amazon.com/dp/B0D54JZTHY?"></core-commerce></p> 
+<p>AirTags can be useful for people who travel frequently, helping you to keep track of essentials like your passport as well as a way to keep tabs on luggage while you&#39;re on the go. If you do purchase some AirTags, we have some recommendations for <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/computing/accessories/best-apple-airtag-cases-holders-accessories-123036404.html">useful accessories</a> to go along with them, such as different styles of cases to best attach the trackers to different types of items. These are worth looking over and adding to your shopping cart in order to make the most of the product.&nbsp;</p> <span id="end-legacy-contents"></span>
+<p>AirTags have an IP67 rating for water and dust resistance and their replaceable batteries should last for about a year. They can also support Precision Finding, which gives more exact directions to a lost item, when paired with most models after the iPhone 11. Up to five people can share an AirTag&#39;s location, which is helpful for families or large travel groups.&nbsp;</p> 
+<p><em>Follow </em><a data-i13n="cpos:3;pos:1" href="https://twitter.com/EngadgetDeals"><em>@EngadgetDeals</em></a><em> on X for the latest </em><a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/deals/"><em>tech deals</em></a><em> and </em><a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/best-tech/"><em>buying advice</em></a><em>.</em></p>This article originally appeared on Engadget at https://www.engadget.com/deals/grab-a-four-pack-of-airtags-on-sale-for-65-202333514.html?src=rss
