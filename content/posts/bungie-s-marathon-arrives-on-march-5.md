@@ -1,0 +1,17 @@
+---
+title: Bungie's Marathon arrives on March 5
+date: '2026-01-19'
+excerpt: >-
+  Marathon, Bungie&#39;s long-awaited extraction shooter, will arrive on March
+  5, the studio announced today. Alongside a definitive release date, Bungi...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/gaming/bungies-marathon-arrives-on-march-5-193808588.html?src=rss
+---
+<p><em>Marathon</em>, Bungie&#39;s long-awaited extraction shooter, will arrive on March 5, the <a target="_blank" class="link" href="https://www.bungie.net/7/en/News/Article/marathon-releases-march-5-2026-new-trailer-and-more" data-i13n="cpos:1;pos:1">studio announced today</a>. Alongside a definitive release date, Bungie shared a new gameplay trailer, in addition to details about the game&#39;s forthcoming deluxe edition, which fans can pre-order today on Steam, PlayStation 5 and Xbox Series X/S. All versions of the game will support crossplay, meaning you&#39;ll be able to play with your friends, no matter where they decide to buy <em>Marathon</em>.&nbsp;&nbsp;</p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/UbNhSVj6WZM?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="youtube.com" data-provider-name="youtube"></iframe></div></div><p>Sony, <a target="_blank" class="link" href="https://www.engadget.com/sony-buy-bungie-destiny-studio-180905449.html" data-i13n="cpos:2;pos:1">Bungie&#39;s parent company</a>, had <a target="_blank" class="link" href="https://www.engadget.com/gaming/playstation/bungies-marathon-will-arrive-in-march-200838426.html" data-i13n="cpos:3;pos:1">previously committed to a March release</a> for <em>Marathon</em>, but stopped short of sharing an exact date. News of that date leaked early Monday after Microsoft published the pre-order trailer you see above early.&nbsp; Sony had originally planned to <a target="_blank" class="link" href="https://www.engadget.com/gaming/bungie-shares-first-looks-at-gameplay-from-its-new-shooter-marathon-alongside-a-release-date-213530509.html" data-i13n="cpos:4;pos:1">release <em>Marathon</em> in September 2025</a>, but <a target="_blank" class="link" href="https://www.engadget.com/gaming/bungie-delays-marathon-indefinitely-190832450.html" data-i13n="cpos:5;pos:1">delayed the game indefinitely</a> in June of last year after a mixed reception to its alpha and an admission&nbsp;Bungie had&nbsp;<a target="_blank" class="c-link link" href="https://www.engadget.com/gaming/playstation/bungie-admits-its-marathon-alpha-included-stolen-artwork-210006323.html" data-i13n="cpos:6;pos:1">partially plagiarized</a>&nbsp;some visual assets. It&#39;s safe to say <em>Marathon </em>could decide the future of the studio. In November, Sony said <em>Destiny 2</em> <a target="_blank" class="link" href="https://www.engadget.com/gaming/playstation/sony-says-destiny-2-has-not-met-expectations-200000610.html" data-i13n="cpos:7;pos:1">had not lived up to its expectations</a> and wrote down the value of the studio’s assets by $204 million. This came after the company said it would take more direct control of Bungie. </p>This article originally appeared on Engadget at https://www.engadget.com/gaming/bungies-marathon-arrives-on-march-5-193808588.html?src=rss
