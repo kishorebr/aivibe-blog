@@ -1,0 +1,18 @@
+---
+title: >-
+  Retro handheld maker Anbernic has a new gamepad with a screen and heart rate
+  sensor
+date: '2026-01-23'
+excerpt: >-
+  File this one under &quot;Things that make you go, &#39;Hmmm…&#39;&quot; Retro
+  handheld maker Anbernic is launching a new controller with a screen. Bu...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Finance
+source: >-
+  https://www.engadget.com/gaming/retro-handheld-maker-anbernic-has-a-new-gamepad-with-a-screen-and-heart-rate-sensor-201651899.html?src=rss
+---
+<p>File this one under &quot;Things that make you go, &#39;Hmmm…&#39;&quot; <a target="_blank" class="link" href="https://www.engadget.com/gaming/you-can-now-buy-anbernics-budget-ds-clone-but-dont-get-your-hopes-up-for-3ds-emulation-183140820.html" data-i13n="cpos:1;pos:1">Retro handheld maker Anbernic</a> is <a target="_blank" class="link" href="https://x.com/anbernic_china/status/2014674553310769376" data-i13n="cpos:2;pos:1">launching</a> a new controller with a screen. But unlike Nintendo&#39;s Wii U controller, there&#39;s no second-screen gaming capability here. Instead, the display is designed to &quot;make customization intuitive and effortless.&quot; Oh, and the controller also has a heart rate sensor. Because, hey, if you&#39;re going weird, I say fully commit!</p><p>The Anbernic RG G01 has a 2.5-inch HD display that the company describes as an &quot;HD smart screen.&quot; The idea is to remap buttons, program macros and change other settings without requiring software on a connected device.</p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gamepad_2.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gamepad_2.jpg" style="height:1440px;width:2560px;" alt="A person&#39;s hands holding a gamepad that has a screen on it. It shows their heart rate." data-uuid="013cbf2f-f769-4e75-82fe-d17901116611"><figcaption>You, too, can monitor your heart rate while gaming.</figcaption><div class="photo-credit">Anbernic</div></figure><p>Meanwhile, Anbernic says the heart rate detection helps you &quot;monitor your well-being during intense sessions.&quot; I would hope that folks with heart conditions would use something other than a gamepad to monitor their pulse. And I don’t know why anyone else would be worried about that while gaming. (Too many Red Bulls?) Regardless, Anbernic seems to be leaning into the novelty / curiosity space here, so at least it fits the motif.</p><p>The RG G01 connects in three ways: Bluetooth 5.0, 2.4Ghz wireless and over a wire. It supports onboard calibration for the triggers, joystick and 6-axis gyroscope. There are four programmable buttons (including macro support) on the backside. The company promises a 1,000Hz polling rate in wired and wireless modes. The gamepad is compatible with PC, Switch, Android and iOS.</p><p>We don&#39;t yet know when this glorious oddity will arrive, other than &quot;coming soon.&quot; We also don&#39;t know how much it will cost. But you can watch the launch video below and see if it&#39;s your type of strange.</p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/EisA2TLhUeg?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="youtube.com" data-provider-name="youtube"></iframe></div></div><p></p>This article originally appeared on Engadget at https://www.engadget.com/gaming/retro-handheld-maker-anbernic-has-a-new-gamepad-with-a-screen-and-heart-rate-sensor-201651899.html?src=rss
