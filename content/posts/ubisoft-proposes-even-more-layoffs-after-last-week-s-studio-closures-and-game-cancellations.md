@@ -1,0 +1,26 @@
+---
+title: >-
+  Ubisoft proposes even more layoffs after last week's studio closures and game
+  cancellations
+date: '2026-01-26'
+excerpt: >-
+  It looks like Ubisoft is planning even more layoffs to accompany last
+  week&#39;s studio closures and game cancellations, according to reporting by
+  IGN...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/gaming/ubisoft-proposes-even-more-layoffs-after-last-weeks-studio-closures-and-game-cancellations-192703241.html?src=rss
+---
+<p>It looks like Ubisoft is planning even more layoffs to accompany last week&#39;s studio closures and game cancellations, <a data-i13n="cpos:1;pos:1" href="https://www.ign.com/articles/ubisoft-follows-last-weeks-game-cancelations-and-studio-closures-with-a-proposed-reduction-of-200-more-jobs-at-its-paris-headquarters"><ins>according to reporting by </ins><em><ins>IGN</ins></em></a>. The company is planning a massive reduction of the workforce in its Paris headquarters. It has proposed the loss of up to 200 jobs, which is nearly 20 percent of the current staff.</p>
+<p>This will be organized under France&#39;s <a data-i13n="cpos:2;pos:1" href="https://companow.com/collective-conventional-termination-in-france-how-does-it-work/"><ins>Rupture Conventionnelle Collective (RCC) process</ins></a>, in which staff can agree to form a collective, voluntary mutual termination agreement. It&#39;s not a done deal just yet, with a company spokesperson saying &quot;at this stage, this remains a proposal and no decision will be final until a collective agreement is reached.&quot;</p>
+<span id="end-legacy-contents"></span><p>The RCC process is voluntary, which is good for Ubisoft Paris employees, but the company hasn&#39;t made any statement regarding what it would do if it doesn&#39;t get 200 willing participants. The company recently <a data-i13n="cpos:3;pos:1" href="https://www.pcgamer.com/gaming-industry/dont-call-it-a-layoff-ubisoft-issues-a-full-return-to-office-order-for-all-employees-as-it-confirms-more-studio-closures-are-coming/"><ins>introduced a mandate</ins></a> for employees to return to the office for five days each week, which could entice staffers with one foot out the door.</p>
+<p>This is just the latest cost-cutting measure by Ubisoft, as the company has been <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/gaming/something-funky-is-going-on-at-ubisoft-184058990.html"><ins>experiencing difficulties for months</ins></a>. It shut down its Halifax studio <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/gaming/ubisoft-is-shutting-down-a-studio-16-days-after-it-unionized-183000983.html"><ins>just 16 days after</ins></a> employees entered into a unionization agreement. Last week, it shuttered its Stockholm studio and announced <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/gaming/the-prince-of-persia-the-sands-of-time-remake-among-six-games-canceled-by-ubisoft-175801132.html"><ins>various restructuring efforts</ins></a> at several other developers under its umbrella.</p>
+<div id="76dc46a33103425c8af7c8a7c00739e4"><iframe width="560" height="315" src="https://www.youtube.com/embed/htzq7EEXQs8?si=mTdSwK27n7BTgxlO" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
+<p>It also announced the cancellation of six games, including the long-awaited <em>Prince of Persia: Sands of Time</em> remake. It didn&#39;t reveal the other five games that were scrapped. Ubisoft did announce, however, that seven additional games were being delayed. Inexplicably, <em>Beyond Good and Evil 2</em> <a data-i13n="cpos:7;pos:1" href="https://www.rockpapershotgun.com/ubisoft-didnt-cancel-beyond-good-evil-2-because-open-world-games-are-a-priority-but-i-suspect-the-real-reason-is-more-boring"><ins>wasn&#39;t cancelled</ins></a>, so we have that to (one day) look forward to.</p>
+<p>Ubisoft&#39;s stock has absolutely plunged in the past several years. The company was riding high at $20 per share in 2021, but now the stock <a data-i13n="elm:affiliate_link;sellerN:Robinhood;elmt:;cpos:8;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=7b5893f6-ad78-4d4a-8fb7-223df629bd37&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=412c709b-597b-40f7-91d6-bb52f2b87c48&amp;featureId=text-link&amp;merchantName=Robinhood&amp;linkText=rests+at+around+%241+per+share&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3JvYmluaG9vZC5jb20vdXMvZW4vc3RvY2tzL1VCU0ZZLyIsImNvbnRlbnRVdWlkIjoiNDEyYzcwOWItNTk3Yi00MGY3LTkxZDYtYmI1MmYyYjg3YzQ4Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3JvYmluaG9vZC5jb20vdXMvZW4vc3RvY2tzL1VCU0ZZLyJ9&amp;signature=AQAAAVlescVdq1v_CZZrozH4MR32EQy2dCQFyd6c97sb4WV3&amp;gcReferrer=https%3A%2F%2Frobinhood.com%2Fus%2Fen%2Fstocks%2FUBSFY%2F" class="rapid-with-clickid" data-original-link="https://robinhood.com/us/en/stocks/UBSFY/"><ins>rests at around $1 per share</ins></a>.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/ubisoft-proposes-even-more-layoffs-after-last-weeks-studio-closures-and-game-cancellations-192703241.html?src=rss
