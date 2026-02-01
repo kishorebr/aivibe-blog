@@ -1,0 +1,20 @@
+---
+title: >-
+  Blue Origin is pausing its space tourist flights to work on lunar landers for
+  NASA
+date: '2026-01-31'
+excerpt: >-
+  Blue Origin plans to put a focus on the development of its human lunar
+  capabilities, so it won’t be sending tourists to space for at least the next
+  tw...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/science/space/blue-origin-is-pausing-its-space-tourist-flights-to-work-on-lunar-landers-for-nasa-143000058.html?src=rss
+---
+<p>Blue Origin plans to <a target="_blank" class="link" href="https://www.blueorigin.com/news/new-shepard-to-pause-flights" data-i13n="cpos:1;pos:1">put a focus</a> on the development of its human lunar capabilities, so it won’t be sending tourists to space for at least the next two years. That means we won’t be seeing any New Shepard launches for quite some time. Blue Origin is one of the companies NASA chose to develop human landing systems for its Artemis program, along with SpaceX. Specifically, it will work on landers for the Artemis III and Artemis V missions. </p><p>The company was <a target="_blank" class="link" href="https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-second-artemis-lunar-lander-provider/" data-i13n="cpos:2;pos:1">originally contracted</a> to build the human landing system that would transfer astronauts from NASA’s <a target="_blank" class="link" href="https://www.engadget.com/spacex-lunar-gateway-launch-contract-231142514.html" data-i13n="cpos:3;pos:1">Gateway</a> station to the moon’s South Pole region for the Artemis V mission. But last year, NASA asked Blue Origin to <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=c813ae39-7d58-41cb-ac66-ad830606ceef&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=d33359a3-36e5-4f26-8fc2-6617d1b6d14b&amp;featureId=text-link&amp;merchantName=The+New+York+Times&amp;linkText=design+an+alternative&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDI1LzEwLzMxL3NjaWVuY2UvbmFzYS1tb29uLWxhbmRlci1zcGFjZXgtYmx1ZS1vcmlnaW4uaHRtbCIsImNvbnRlbnRVdWlkIjoiZDMzMzU5YTMtMzZlNS00ZjI2LThmYzItNjYxN2QxYjZkMTRiIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDI1LzEwLzMxL3NjaWVuY2UvbmFzYS1tb29uLWxhbmRlci1zcGFjZXgtYmx1ZS1vcmlnaW4uaHRtbCJ9&amp;signature=AQAAASET3pgGnARbpJJM0KV2b1ejUsAEDbIgZw6wBFWDIT8q&amp;gcReferrer=https%3A%2F%2Fwww.nytimes.com%2F2025%2F10%2F31%2Fscience%2Fnasa-moon-lander-spacex-blue-origin.html" data-i13n="elm:affiliate_link;sellerN:The New York Times;elmt:;cpos:4;pos:1" data-original-link="https://www.nytimes.com/2025/10/31/science/nasa-moon-lander-spacex-blue-origin.html">design an alternative</a> lander for Artemis III after SpaceX experienced delays due to <a target="_blank" class="link" href="https://www.engadget.com/science/space/the-booster-for-spacexs-starship-v3-suffered-a-gas-system-failure-during-testing-181459063.html" data-i13n="cpos:5;pos:1">Starship’s failed tests</a>. Artemis III is expected to be the first crewed moon landing mission of the program, and the Trump administration wants it to happen before the end of the president’s term. </p><p>New Shepard takes tourists to suborbital space, where they experience a few minutes of weightlessness before the spacecraft makes its way back to Earth. Jeff Bezos was one of the passengers on <a target="_blank" class="link" href="https://www.engadget.com/jeff-bezos-blue-origin-tourist-flight-123407896.html" data-i13n="cpos:6;pos:1">New Shepard’s first tourist flight</a> back in 2021. Since then, it has flown and landed 37 more times and carried 98 passengers to the Karman line, including Katy Perry and William Shatner. </p>This article originally appeared on Engadget at https://www.engadget.com/science/space/blue-origin-is-pausing-its-space-tourist-flights-to-work-on-lunar-landers-for-nasa-143000058.html?src=rss
