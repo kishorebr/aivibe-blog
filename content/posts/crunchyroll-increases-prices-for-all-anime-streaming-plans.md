@@ -1,0 +1,17 @@
+---
+title: Crunchyroll increases prices for all anime streaming plans
+date: '2026-02-02'
+excerpt: >-
+  Anime fans won&#39;t be getting any respite from the streaming service price
+  hikes that now feel inevitable on every platform every couple of years. C...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Llm
+category: General AI
+source: >-
+  https://www.engadget.com/entertainment/streaming/crunchyroll-increases-prices-for-all-anime-streaming-plans-234231265.html?src=rss
+---
+<p>Anime fans won&#39;t be getting any respite from the streaming service price hikes that now feel inevitable on every platform every couple of years. Crunchyroll <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=b79b93c2-acb6-4dce-94f0-adb51960a04a&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=2d14f2d4-5ee4-49b3-b257-5f998eba75f8&amp;featureId=text-link&amp;merchantName=Crunchyroll&amp;linkText=announced&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5jcnVuY2h5cm9sbC5jb20vbmV3cy9hbm5vdW5jZW1lbnRzLzIwMjYvMi8yL2NydW5jaHlyb2xsLXVwZGF0ZXMtbWVtYmVyc2hpcC1wcmljaW5nLXRvLWdpdmUtZmFucy1tb3JlLW9mLXdoYXQtdGhleS1sb3ZlP3Nyc2x0aWQ9QWZtQk9vcGZmYkd4SXBHcE1UTHk0NjlxQzZBanQzcmY3eWU1TXp2OUswcnhBbnVST2hoVFFRZkciLCJjb250ZW50VXVpZCI6IjJkMTRmMmQ0LTVlZTQtNDliMy1iMjU3LTVmOTk4ZWJhNzVmOCIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuY3J1bmNoeXJvbGwuY29tL25ld3MvYW5ub3VuY2VtZW50cy8yMDI2LzIvMi9jcnVuY2h5cm9sbC11cGRhdGVzLW1lbWJlcnNoaXAtcHJpY2luZy10by1naXZlLWZhbnMtbW9yZS1vZi13aGF0LXRoZXktbG92ZT9zcnNsdGlkPUFmbUJPb3BmZmJHeElwR3BNVEx5NDY5cUM2QWp0M3JmN3llNU16djlLMHJ4QW51Uk9oaFRRUWZHIn0&amp;signature=AQAAAetmpX6c33XMispcczkD-Tjgq1p6rBCHKENQbo8K_RXa&amp;gcReferrer=https%3A%2F%2Fwww.crunchyroll.com%2Fnews%2Fannouncements%2F2026%2F2%2F2%2Fcrunchyroll-updates-membership-pricing-to-give-fans-more-of-what-they-love%3Fsrsltid%3DAfmBOopffbGxIpGpMTLy469qC6Ajt3rf7ye5Mzv9K0rxAnuROhhTQQfG" data-i13n="elm:affiliate_link;sellerN:Crunchyroll;elmt:;cpos:1;pos:1" data-original-link="https://www.crunchyroll.com/news/announcements/2026/2/2/crunchyroll-updates-membership-pricing-to-give-fans-more-of-what-they-love?srsltid=AfmBOopffbGxIpGpMTLy469qC6Ajt3rf7ye5Mzv9K0rxAnuROhhTQQfG">announced</a> today that it will be increasing the monthly costs for all its plans by $2. That means the Fan tier will now run you $10 a month, the Mega Fan Tier is $14 a month and the Ultimate Fan Tier is $18 a month.&nbsp;</p><p>The platform <a target="_blank" class="link" href="https://www.engadget.com/crunchyroll-offline-viewing-subscription-tiers-145000647.html" data-i13n="cpos:2;pos:1">introduced</a> its Mega Fan and Ultimate Fan options in 2020, with both at long last giving viewers an option to watch shows offline. The silver lining in today&#39;s price changes is that the Fan members are getting the same offline viewing option, although it&#39;s limited to one device. Crunchyroll is further enticing the people who might now be more interested in the Fan level by offering a discount on the annual plan for that tier; you can get a year&#39;s access for a limited time for $67. </p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/streaming/crunchyroll-increases-prices-for-all-anime-streaming-plans-234231265.html?src=rss

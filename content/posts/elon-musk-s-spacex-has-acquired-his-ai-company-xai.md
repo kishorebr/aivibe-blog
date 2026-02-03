@@ -1,0 +1,19 @@
+---
+title: 'Elon Musk''s SpaceX has acquired his AI company, xAI'
+date: '2026-02-02'
+excerpt: >-
+  Elon Musk’s SpaceX has acquired Musk’s xAI, the companies announced. The
+  merger will “form the most ambitious, vertically-integrated innovation
+  engine...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Openai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/ai/elon-musks-spacex-has-acquired-his-ai-company-xai-221617040.html?src=rss
+---
+<p>Elon Musk’s SpaceX has acquired Musk’s xAI, the companies <a target="_blank" class="link" href="https://www.spacex.com/updates#xai-joins-spacex" data-i13n="cpos:1;pos:1">announced</a>. The merger will “form the most ambitious, vertically-integrated innovation engine on (and off) Earth, with AI, rockets, space-based internet, direct-to-mobile device communications and the world’s foremost real-time information and free speech platform,” Musk wrote in an update.</p><p>The AI company that right now is best known for its <a target="_blank" class="link" href="https://www.engadget.com/ai/grok-generated-an-estimated-3-million-sexualized-images--including-23000-of-children--over-11-days-175053250.html" data-i13n="cpos:2;pos:1">CSAM-generating chatbot</a> might seem like a strange fit for a rocket company. But SpaceX is key to Musk’s latest scheme to build AI data centers in space. In his update, Musk wrote that “global electricity demand for AI simply cannot be met with terrestrial solutions” and that moving the resource-intensive operations to space is “the only logical solution.” SpaceX just days ago filed an application with the FCC to create an “<a target="_blank" class="link" href="https://www.engadget.com/science/space/spacex-wants-to-launch-a-constellation-of-a-million-satellites-to-power-ai-needs-175607771.html" data-i13n="cpos:3;pos:1">orbital data center</a>” by launching a million new satellites.</p><p>Musk also claimed that, eventually, space-based data centers will enable other advancements in space travel. “The capabilities we unlock by making space-based data centers a reality will fund and enable self-growing bases on the Moon, an entire civilization on Mars and ultimately expansion to the Universe.” Notably, it’s not the first time Musk has made lofty claims about Mars. He predicted <a target="_blank" class="link" href="https://www.engadget.com/2017-09-29-space-x-mars-bfr-elon-musk.html" data-i13n="cpos:4;pos:1">in 2017</a> that SpaceX would send crewed missions to Mars by 2024. </p><p>This also isn’t the first time Musk has acquired one of his own companies. He <a target="_blank" class="link" href="https://www.engadget.com/social-media/xai-elon-musks-ai-company-just-purchased-x-elon-musks-social-media-company-221503759.html" data-i13n="slk:merged xAI and X;cpos:5;pos:1">merged xAI and X</a> last year, which means SpaceX now owns the social network Musk bought in 2022. And he recently announced that Tesla was investing <a target="_blank" class="no-affiliate-link link" href="https://www.cnbc.com/2026/01/28/tesla-to-invest-2-billion-in-xai-elon-musks-openai-competitor.html" data-i13n="elm:context_link;elmt:doNotAffiliate;slk:$2 billion;cpos:6;pos:1">$2 billion</a> into xAI. SpaceX is planning to go public later this year in an initial public offering (IPO) that could value the company at more than $1 trillion, <a target="_blank" class="link" href="https://www.bloomberg.com/news/articles/2026-02-02/elon-musk-s-spacex-said-to-combine-with-xai-ahead-of-mega-ipo" data-i13n="slk:according to;cpos:7;pos:1">according to</a> <em>Bloomberg, </em>which notes that SpaceX has also “discussed a possible merger with Tesla.”</p>This article originally appeared on Engadget at https://www.engadget.com/ai/elon-musks-spacex-has-acquired-his-ai-company-xai-221617040.html?src=rss
