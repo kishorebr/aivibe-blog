@@ -1,0 +1,18 @@
+---
+title: >-
+  New York lawmakers introduce bill that aims to halt data center development
+  for three years
+date: '2026-02-07'
+excerpt: >-
+  On Friday, New York State Senators Liz Krueger and Kristen Gonzales introduced
+  a bill that would stop the issuance of permits for new data centers for...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/big-tech/new-york-lawmakers-introduce-bill-that-aims-to-halt-data-center-development-for-three-years-224005266.html?src=rss
+---
+<p>On Friday, New York State Senators Liz Krueger and Kristen Gonzales <a target="_blank" class="link" href="https://www.nysenate.gov/legislation/bills/2025/S9144" data-i13n="cpos:1;pos:1">introduced a bill</a> that would stop the issuance of permits for new data centers for at least three years and ninety days to give time for impact assessments and to update regulations. The bill would require the Department of Environmental Conservation and Public Service Commissions to issue impact statements and reports during the pause, along with any new orders or regulations that they deem necessary to minimize <a target="_blank" class="link" href="https://www.engadget.com/why-do-ai-data-centers-use-so-many-resources-171500010.html" data-i13n="cpos:2;pos:1">data centers&#39; impacts</a> on the environment and consumers in New York.</p><p>The bill would require these departments to study data centers&#39; water, electricity and gas usage, and their impact on the rates of these resources, among other things. The bill, citing a <em>Bloomberg</em> analysis, notes that, &quot;Nationally, household electricity rates increased 13 percent in 2025, largely driven by the development of data centers.&quot; New York is the sixth state this year to introduce a bill aiming to put the brakes on data centers, following in the footsteps of Georgia, Maryland, Oklahoma, Vermont and Virginia, according to <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=fc65353f-45dc-4cd0-89be-ac2071680abb&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=7c2d37d0-44ef-4d31-9f79-34822b342bc5&amp;featureId=text-link&amp;merchantName=WIRED&amp;linkText=Wired&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy53aXJlZC5jb20vc3RvcnkvbmV3LXlvcmstaXMtdGhlLWxhdGVzdC1zdGF0ZS10by1jb25zaWRlci1hLWRhdGEtY2VudGVyLXBhdXNlLyIsImNvbnRlbnRVdWlkIjoiN2MyZDM3ZDAtNDRlZi00ZDMxLTlmNzktMzQ4MjJiMzQyYmM1Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy53aXJlZC5jb20vc3RvcnkvbmV3LXlvcmstaXMtdGhlLWxhdGVzdC1zdGF0ZS10by1jb25zaWRlci1hLWRhdGEtY2VudGVyLXBhdXNlLyJ9&amp;signature=AQAAAePtarUFK8VikT5e-kh-uyeEnZXZq3j1Ar7KSwgmB8w3&amp;gcReferrer=https%3A%2F%2Fwww.wired.com%2Fstory%2Fnew-york-is-the-latest-state-to-consider-a-data-center-pause%2F" data-i13n="elm:affiliate_link;sellerN:WIRED;elmt:;cpos:3;pos:1" data-original-link="https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/"><em>Wired</em></a>. It&#39;s still very much in the early stages, and is now with the Senate Environmental Conservation Committee for consideration.&nbsp;</p><p></p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/new-york-lawmakers-introduce-bill-that-aims-to-halt-data-center-development-for-three-years-224005266.html?src=rss
