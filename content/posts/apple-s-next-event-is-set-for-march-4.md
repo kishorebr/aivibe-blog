@@ -1,0 +1,17 @@
+---
+title: Apple's next event is set for March 4
+date: '2026-02-16'
+excerpt: >-
+  Apple has lined up its first event of the year. The company has invited
+  members of the press to an “Apple Experience” that’s taking place in New
+  York...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Finance
+source: >-
+  https://www.engadget.com/computing/laptops/apples-next-event-is-set-for-march-4-145931890.html?src=rss
+---
+<p>Apple has lined up its first event of the year. The company has invited members of the press to an “Apple Experience” that’s taking place in New York City on March 4 at 9AM ET. It hasn’t yet confirmed whether it will stream the event publicly. According to <a target="_blank" class="link" href="https://www.macrumors.com/2026/02/16/apple-announces-special-event-in-new-york/" data-i13n="cpos:1;pos:1"><em>MacRumors</em></a>, versions of this Apple Experience will also take place simultaneously in London and Shanghai.</p><p>It seems likely that Apple will take this opportunity to unveil its latest slate of iPads and MacBooks.<em> Bloomberg</em>’s Mark Gurman <a target="_blank" class="link" href="https://www.engadget.com/computing/we-may-see-apples-new-ipads-and-macbooks-in-only-a-matter-of-weeks-192953977.html" data-i13n="cpos:2;pos:1">reported earlier this month</a> that Apple was planning to make a number of hardware announcements “as early as the week of March 2.” </p><figure><img src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/appleinvitenyc26.jpg" data-crop-orig-src="https://d29szjachogqwa.cloudfront.net/images/user-uploaded/appleinvitenyc26.jpg" style="height:645px;width:1148px;" alt="Apple Event invite for March 2026" data-uuid="6e605f28-393f-4f29-b0aa-69212eb5bd92"/><figcaption></figcaption><div class="photo-credit">Apple</div></figure><p>This is expected to include a new MacBook Air and refreshed 14- and 16-inch MacBook Pros, with the M5 Pro and M5 Max making their debuts (a MacBook Pro with the base M5 chip <a target="_blank" class="link" href="https://www.engadget.com/computing/laptops/apple-macbook-pro-m5-14-inch-review-a-huge-graphics-upgrade-for-creators-and-gamers-170009179.html" data-i13n="cpos:3;pos:1">arrived in October</a>). There’s also speculation that Apple will <a target="_blank" class="link" href="https://www.engadget.com/computing/laptops/apple-may-be-adding-a-splash-of-color-to-its-upcoming-budget-friendly-macbook-192740002.html." data-i13n="cpos:4;pos:1">announce</a> a new <a target="_blank" class="link" href="https://www.engadget.com/computing/laptops/apple-may-release-its-first-low-cost-mac-laptop-in-early-2026-174143869.html" data-i13n="cpos:5;pos:1">entry-level MacBook</a> that will be available in light yellow, light green, blue and pink colorways.</p><p>In addition, we may see new iPads here (or perhaps a little farther down the line), including an entry-level model with an A18 chip that’s capable of supporting Apple Intelligence features. The iPad Air could be in line for an upgrade as well with the introduction of the M4 chip to that line. Apple is also expected to roll out updated versions of the Mac Studio, Studio Display and Mac mini later this year.</p><p></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/computing/laptops/apples-next-event-is-set-for-march-4-145931890.html?src=rss
