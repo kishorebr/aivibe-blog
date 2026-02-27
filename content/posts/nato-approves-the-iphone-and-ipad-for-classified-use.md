@@ -1,0 +1,17 @@
+---
+title: NATO approves the iPhone and iPad for classified use
+date: '2026-02-26'
+excerpt: >-
+  Apple&#39;s mobile devices are secure enough for NATO. Following extensive
+  testing by the German government, the iPhone and iPad are now considered se...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/mobile/nato-approves-the-iphone-and-ipad-for-classified-use-200857276.html?src=rss
+---
+<p>Apple&#39;s mobile devices are secure enough for NATO. Following extensive testing by the German government, the iPhone and iPad are now considered <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=4130e2f0-a14f-4c5e-bdab-cd52ac7d8e79&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=f7d60a12-647a-4d50-bc41-47df7dd9a4c8&amp;featureId=text-link&amp;merchantName=Apple&amp;linkText=secure+enough&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vbmV3c3Jvb20vMjAyNi8wMi9pcGhvbmUtYW5kLWlwYWQtYXBwcm92ZWQtdG8taGFuZGxlLWNsYXNzaWZpZWQtbmF0by1pbmZvcm1hdGlvbi8iLCJjb250ZW50VXVpZCI6ImY3ZDYwYTEyLTY0N2EtNGQ1MC1iYzQxLTQ3ZGY3ZGQ5YTRjOCIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYXBwbGUuY29tL25ld3Nyb29tLzIwMjYvMDIvaXBob25lLWFuZC1pcGFkLWFwcHJvdmVkLXRvLWhhbmRsZS1jbGFzc2lmaWVkLW5hdG8taW5mb3JtYXRpb24vIn0&amp;signature=AQAAAdNEnvAU5C7UTUzUqobo1R3QcurjvyQNCLBeZt9-svzE&amp;gcReferrer=https%3A%2F%2Fwww.apple.com%2Fnewsroom%2F2026%2F02%2Fiphone-and-ipad-approved-to-handle-classified-nato-information%2F" data-i13n="elm:affiliate_link;sellerN:Apple;elmt:;cpos:1;pos:1" data-original-link="https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/">secure enough</a> for the NATO-restricted classified level.</p><p>Germany&#39;s Federal Office for Information Security (Bundesamt für Sicherheit in der Informationstechnik, or BSI) tested the devices. BSI first approved the iPhone and iPad for governmental use by German authorities in 2022. To take the additional step of NATO approval, Apple says BSI conducted exhaustive technical assessments, comprehensive testing and deep security analysis.</p><p>Unless you work for NATO, this won&#39;t mean a thing to you. But at least it appears to bolster some of Apple&#39;s marketing claims about security. (As for its <em>privacy</em> claims, well, that depends on <a target="_blank" class="link" href="https://www.engadget.com/ai/apple-and-google-reportedly-still-offer-dozens-of-ai-nudify-apps-192712446.html" data-i13n="cpos:2;pos:1">which kind you mean</a>.) Apple&#39;s press release emphasized that these are the first consumer devices to receive the certification, and they did so without any special software or settings. It applies to iPhones and iPads running iOS 26.</p><p>&quot;Secure digital transformation is only successful if information security is considered from the beginning in the development of mobile products,&quot; BSI president Claudia Plattner is quoted as saying in Apple&#39;s press release. &quot;Expanding on BSI&#39;s rigorous audit of iOS and iPadOS platform and device security for use in classified German information environments, we are pleased to confirm the compliance under NATO nations&#39; assurance requirements.&quot;</p>This article originally appeared on Engadget at https://www.engadget.com/mobile/nato-approves-the-iphone-and-ipad-for-classified-use-200857276.html?src=rss
