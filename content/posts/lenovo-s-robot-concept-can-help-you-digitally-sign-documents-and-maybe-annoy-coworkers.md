@@ -1,0 +1,34 @@
+---
+title: >-
+  Lenovo's robot concept can help you digitally sign documents (and maybe annoy
+  coworkers)
+date: '2026-03-01'
+excerpt: >-
+  Lenovo can make a robot, too. Alongside proof-of-concept foldable gaming PCs
+  and modular laptops, it introduced the AI Workmate Concept at MWC 2026. W...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Llm
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/ai/lenovo-concept-robot-ai-workmate-mwc-2026-230159746.html?src=rss
+---
+<p>Lenovo <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html">can make a robot, too.</a> Alongside proof-of-concept foldable gaming PCs and modular laptops, it introduced the AI Workmate Concept at <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/mobile/everything-announced-at-mwc-2026-the-new-leica-leitzphone-by-xiaomi-honors-ultra-thin-magicpad-4-and-more-172442426.html">MWC 2026</a>. With its own Intel Core Ultra processor, 64GB of memory and its own Pico projector, it’s an AI-laced “workmate” meant to streamline office tasks and collaboration. And it has an LCD face.</p>
+<p>For now, it’s a proof of concept, musing on how to integrate voice commands and LLMs (large language models) into workplace settings. It&#39;s meant to sit on your desk, but preferably also near a wall – more on that later.</p>
+<span id="end-legacy-contents"></span><p>Voice commands aside, the concept bot supports writing, voice and gestures with on-device AI processing. While it can answer the usual voice assistant questions, it can also scan and summarize documents (both digitally and physically) and even assist with creating a PowerPoint presentation – though you might want to check its work.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2026-03/a7cb6bd0-1566-11f1-bffb-598c696d72e1" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2026-03/a7cb6bd0-1566-11f1-bffb-598c696d72e1" style="height:945px;width:1680px;" alt="Lenovo AI Workmate Concept at MWC 2026" data-uuid="84449b90-c30b-3463-9399-f09d4872fa6a"><figcaption></figcaption><div class="photo-credit">Mat Smith for Engadget</div></figure>
+<p>The 3.4-inch 480 x 480 screen doesn’t seem to offer any data visualization or numbers. During my demo, it only seemed to show the bot&#39;s eyes and facial expressions: it’ll sip coffee as it listens (with a moustache), cup a floating hand to the side of its face when it needs you to repeat a command, or twinkle when it’s processing more complicated tasks, like that fictional PowerPoint presentation.</p>
+<p>With its articulated head, which houses the projector, cameras and LCD face, you can ask it to project images or documents on either the desk in front of it or a wall nearby. No need to flip around your monitor or laptop to share with colleagues. In one example, a spokesperson asked for a postcard. The Workmate then projected a (Lenovo-branded) image of Barcelona onto the desk. The rep laid paper down, then signed the ‘postcard’ and got the robot to scan it (with two downward-facing 5-megapixel cameras), and then send the file to a nearby printer.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2026-03/5e9482a1-1564-11f1-9e5f-58c2d14c9b19" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2026-03/5e9482a1-1564-11f1-9e5f-58c2d14c9b19" style="height:1440px;width:2560px;" alt="Lenovo AI Workmate Concept at MWC 2026" data-uuid="2eb7927a-243e-398b-a964-7cc880e84e5b"><figcaption></figcaption><div class="photo-credit">Image by Mat Smith for Engadget</div></figure>
+<p>In theory, this sort of flow could transition to document signing or adding notation to images and files. However, one caveat here is whether those of us who work in offices want the extra workplace noise of a chatty robo and the person barking orders at it.</p>
+<p>Lenovo says this concept (and it has a few at MWC) is meant to demonstrate the company’s “exploration of spatial and physical AI experiences” that integrate “seamlessly into professional environments.” Hopefully, further evolutions offer a text-based way to make using it a little less noisy.</p>
+<p>Lenovo was also showing a simpler AI work device, the AI Work Companion Concept. It’s a completely different premise, despite the name being a little too close to the AI Workmate Concept.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2026-03/5e9482a1-1564-11f1-bf9b-44b79ef6a3b8" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2026-03/5e9482a1-1564-11f1-bf9b-44b79ef6a3b8" style="height:1440px;width:2560px;" alt="Lenovo AI Workmate Concept at MWC 2026" data-uuid="47667316-1fdd-3588-b871-bd84c7193d85"><figcaption></figcaption><div class="photo-credit">Image by Mat Smith for Engadget</div></figure>
+<p>The AI Work Companion is not a robot, but  a handsome chunky desk clock, with a solid, satisfying dial on the top and programmable buttons. The front is almost entirely display, able to show calendars, task lists and other work-centric dashes. It runs independently, plugging into a USB-C port for power and pulling data down wirelessly, while also acting as a port hub for charging other accessories and devices.</p>
+<p>It’s certainly not as high-concept as the robot, but there are some AI smarts inside.</p>
+<p>The Work Companion’s “Thought Bubble” uses AI to sync a user’s tasks and daily schedule across devices, synthesizing a daily action plan. It will even suggest times to break up bursts of work and attempt to monitor screen time to better manage burnout.</p>
+<p>According to the press release, Lenovo says it also has “playful interactions with the user” and will, kind of bleakly, offer an end-of-week celebration report of tasks completed. It’s lucky it’s a good-looking desk clock.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/lenovo-concept-robot-ai-workmate-mwc-2026-230159746.html?src=rss
