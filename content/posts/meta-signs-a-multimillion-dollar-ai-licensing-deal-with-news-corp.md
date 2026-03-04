@@ -1,0 +1,19 @@
+---
+title: Meta signs a multimillion dollar AI licensing deal with News Corp
+date: '2026-03-03'
+excerpt: >-
+  Meta has signed an AI licensing deal with News Corp that will allow the Meta
+  AI maker to use content from The Wall Street Journal and other brands in...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Chatgpt
+  - Openai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/ai/meta-signs-a-multimillion-dollar-ai-licensing-deal-with-news-corp-234157902.html?src=rss
+---
+<p>Meta has signed an AI licensing deal with News Corp that will allow the Meta AI maker to use content from <em>The Wall Street Journal</em> and other brands in its chatbot responses and for training of its AI models. News Corp confirmed to Engadget that it had struck a deal with Meta, but didn&#39;t provide specifics on the terms of the arrangement. According to <a target="_blank" class="no-affiliate-link link" href="https://www.wsj.com/business/media/news-corp-meta-in-ai-content-licensing-deal-worth-up-to-50-million-a-year-d4fbf244" data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1">The Wall Street Journal</a>, Meta will pay News Corp. &quot;up to $50 million a year&quot; for a three-year deal that covers content from <em>The Journal,</em> as well as the media giant&#39;s other brands in the US and UK.&nbsp;</p><p>News Corp previously struck a five-year deal <a target="_blank" class="link" href="https://www.engadget.com/openai-will-reportedly-pay-250-million-to-put-news-corps-journalism-in-chatgpt-214615249.html" data-i13n="cpos:2;pos:1">with OpenAI </a>that was valued at around $250 million. During a recent appearance at Morgan Stanley&#39;s annual Technology, Media &amp; Telecom (TMT) conference, News Corp CEO Robert Thomson hinted that the media company was in the &quot;advanced stage with other negotiations.&quot;</p><p>He described the company&#39;s overall approach to such arrangements as &quot;a woo and a sue&quot; strategy, depending on whether companies want to pay for content or scrape it without permission. &quot;We have what you might call a woo and a sue strategy,&quot; he said. &quot;We&#39;ll woo you. We&#39;d like you to be our partner. But if you&#39;re stealing our stuff, we are going to sue you. So there&#39;ll be a discount for those who hand themselves in, and there&#39;ll be a penalty for those that resist.&quot;</p><p>A spokesperson for Meta confirmed that the two companies had reached an agreement . The company, which has been reorganizing its AI teams as it looks to create its <a target="_blank" class="link" href="https://www.engadget.com/ai/meta-is-reportedly-working-on-a-new-ai-model-called-avocado-and-it-might-not-be-open-source-215426778.html" data-i13n="cpos:3;pos:1">next model</a>, has struck a number of licensing deals in recent months. It previously <a target="_blank" class="link" href="https://www.engadget.com/big-tech/meta-cuts-deals-with-several-news-publishers-for-ai-use-163404107.html" data-i13n="cpos:4;pos:1">signed</a> multi-year agreements with <em>USA Today</em>, <em>People</em>, <em>CNN</em>, <em>Fox News</em> and other outlets. The company said <a target="_blank" class="link" href="https://about.fb.com/news/2025/12/bringing-more-real-time-news-and-content-to-meta-ai/" data-i13n="cpos:5;pos:1">at the time</a> that “by integrating more and different types of news sources, our aim is to improve Meta AI’s ability to deliver timely and relevant content and information with a wide variety of viewpoints and content types.”</p><p><strong>Update, March 3, 2026, 4:18PM PT:</strong> This story was updated with additional information from a Meta spokesperson.</p><p></p>This article originally appeared on Engadget at https://www.engadget.com/ai/meta-signs-a-multimillion-dollar-ai-licensing-deal-with-news-corp-234157902.html?src=rss
