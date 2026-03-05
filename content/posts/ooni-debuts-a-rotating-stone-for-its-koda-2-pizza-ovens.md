@@ -1,0 +1,16 @@
+---
+title: Ooni debuts a rotating stone for its Koda 2 pizza ovens
+date: '2026-03-04'
+excerpt: >-
+  When cooking pizza with the high heat of an outdoor oven, you have to rotate
+  your pies to ensure even cooking. That’s usually done by hand, but Ooni’s...
+coverImage: >-
+  https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Transportation
+source: >-
+  https://www.engadget.com/home/kitchen-tech/ooni-debuts-a-rotating-stone-for-its-koda-2-pizza-ovens-200000857.html?src=rss
+---
+<p>When cooking pizza with the high heat of <a target="_blank" class="link" href="https://www.engadget.com/home/kitchen-tech/best-pizza-oven-141550352.html" data-i13n="cpos:1;pos:1">an outdoor oven</a>, you have to rotate your pies to ensure even cooking. That’s usually done by hand, but Ooni’s latest accessory automates the process. The company announced the <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=0de15002-ec35-49d8-b24c-3d060213cd2b&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=51069891-f5fd-46d0-8914-16c5431f30d4&amp;featureId=text-link&amp;merchantName=Ooni+Pizza+Ovens&amp;linkText=Rotating+Stone&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL29vbmkuY29tL3Byb2R1Y3RzL29vbmktcm90YXRpbmctcGl6emEtb3Zlbi1zdG9uZSIsImNvbnRlbnRVdWlkIjoiNTEwNjk4OTEtZjVmZC00NmQwLTg5MTQtMTZjNTQzMWYzMGQ0Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL29vbmkuY29tL3Byb2R1Y3RzL29vbmktcm90YXRpbmctcGl6emEtb3Zlbi1zdG9uZSJ9&amp;signature=AQAAAS2mQDsrp3N7aE8hqQChraMGOa76yquia9-PtXmR2-rC&amp;gcReferrer=https%3A%2F%2Fooni.com%2Fproducts%2Fooni-rotating-pizza-oven-stone" data-i13n="elm:affiliate_link;sellerN:Ooni Pizza Ovens;elmt:;cpos:2;pos:1" data-original-link="https://ooni.com/products/ooni-rotating-pizza-oven-stone">Rotating Stone</a> for its <a target="_blank" class="link" href="https://www.engadget.com/home/kitchen-tech/ooni-debuts-koda-2-and-koda-2-pro-pizza-ovens-with-new-burners-and-bluetooth-smarts-170056892.html" data-i13n="cpos:3;pos:1">Koda 2 lineup</a>, which helps distribute heat evenly across the surface of a pizza so that it’s consistently cooked all the way around. </p><p>Ooni says its Rotating Stone has a mechanism around its perimeter rather than a central pivot. According to the company, this takes care of any wobbling or stalling that might otherwise occur — even when heavy cookware is used. The new accessory also has two rotation modes, continuous and 90 degrees, so you can conserve battery life if you don’t need the full range of motion. </p><p>The Rotating Stone’s external module houses a LIDAR sensor for hands-free control. By simply waving your hand or a pizza peel, you can start or stop the rotation. What’s more, Ooni says the Rotating Stone can be installed in less than 10 minutes. </p><p>The Rotating Stone is available for the Koda 2, Koda 2 Pro and Koda 2 Max for $329, $349 and $399 respectively. If you need the oven too, bundles are priced at $799, $1,099 and $1,649. </p>This article originally appeared on Engadget at https://www.engadget.com/home/kitchen-tech/ooni-debuts-a-rotating-stone-for-its-koda-2-pizza-ovens-200000857.html?src=rss

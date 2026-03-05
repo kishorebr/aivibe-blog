@@ -1,0 +1,16 @@
+---
+title: Bill Gates-backed TerraPower begins nuclear reactor construction
+date: '2026-03-04'
+excerpt: >-
+  The Nuclear Regulatory Commission has granted approval to TerraPower to begin
+  construction of a reactor in Wyoming. The project is the first new US co...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/big-tech/bill-gates-backed-terrapower-begins-nuclear-reactor-construction-221132639.html?src=rss
+---
+<p>The Nuclear Regulatory Commission has granted approval to TerraPower to begin construction of a reactor in Wyoming. The project is the first new US commercial nuclear reactor in about a decade, according to <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=c813ae39-7d58-41cb-ac66-ad830606ceef&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=dfa029ca-ac2e-4ce4-ab40-c5c212bcfffe&amp;featureId=text-link&amp;merchantName=The+New+York+Times&amp;linkText=The+New+York+Times&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDI2LzAzLzA0L2NsaW1hdGUvbnVjbGVhci1wb3dlci10ZXJyYXBvd2VyLWNvbnN0cnVjdGlvbi1wZXJtaXQuaHRtbCIsImNvbnRlbnRVdWlkIjoiZGZhMDI5Y2EtYWMyZS00Y2U0LWFiNDAtYzVjMjEyYmNmZmZlIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDI2LzAzLzA0L2NsaW1hdGUvbnVjbGVhci1wb3dlci10ZXJyYXBvd2VyLWNvbnN0cnVjdGlvbi1wZXJtaXQuaHRtbCJ9&amp;signature=AQAAAYHqsvP52XIhjm2LyEaMwT92HX9MMXW86_t5Agp03gOZ&amp;gcReferrer=https%3A%2F%2Fwww.nytimes.com%2F2026%2F03%2F04%2Fclimate%2Fnuclear-power-terrapower-construction-permit.html" data-i13n="elm:affiliate_link;sellerN:The New York Times;elmt:;cpos:1;pos:1" data-original-link="https://www.nytimes.com/2026/03/04/climate/nuclear-power-terrapower-construction-permit.html"><em>The New York Times</em></a>. TerraPower was founded by Bill Gates, and it took years for the business to receive regulatory approval for this construction effort. </p><p>TerraPower is part of a push to create more efficient and less expensive nuclear facilities as an alternative power source, particularly as AI companies and data center construction places more demands on the US&#39; current infrastructure. TerraPower&#39;s project involves tech it has dubbed <a target="_blank" class="link" href="https://www.terrapower.com/natrium/" data-i13n="cpos:2;pos:1">Natrium</a> in its planned reactor. Using this liquid sodium approach rather than a traditional light-water reactor is part of how the company aims to reduce costs and time frames.</p><p>Advocates see nuclear reactors as a way to generate power without the climate impact of coal or gas plants. Critics point to the safety risks as a severe downside to this approach, while others question whether the creation and disposal of nuclear waste counter the environmental gains. The Gates-backed operation still isn&#39;t coming in cheap. The proposed facility could cost at least $4 billion and still faces logistical challenges before coming online as planned in 2031.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/bill-gates-backed-terrapower-begins-nuclear-reactor-construction-221132639.html?src=rss
