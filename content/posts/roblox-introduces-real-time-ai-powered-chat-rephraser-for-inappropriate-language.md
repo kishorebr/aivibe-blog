@@ -1,0 +1,18 @@
+---
+title: >-
+  Roblox introduces real-time AI-powered chat rephraser for inappropriate
+  language
+date: '2026-03-07'
+excerpt: >-
+  Roblox has launched a feature powered by AI that can rephrase inappropriate
+  language in real time. The online game has been using AI filters to block...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Work
+source: >-
+  https://www.engadget.com/gaming/roblox-introduces-real-time-ai-powered-chat-rephraser-for-inappropriate-language-160000063.html?src=rss
+---
+<p>Roblox has launched a feature powered by AI that can <a target="_blank" class="link" href="https://about.roblox.com/newsroom/2026/03/rethinking-chat-for-fun-gameplay-civility" data-i13n="cpos:1;pos:1">rephrase inappropriate language</a> in real time. The online game has been using AI filters to block out any language that goes against its policy for a while now, but it has been replacing censored chats with a series of hash signs (####). Roblox admits that encountering too many hashmarks can be disruptive and make conversations hard to follow. This new feature will instead replace words and phrases with what the AI deems as more appropriate substitutes. </p><p>Rajiv Bhatia, Roblox’s Chief Safety Office, said the game is starting with profanity. For instance, if a user sends “Hurry TF up” in chat, the system will replace it with “Hurry up!” Everyone in the chat will see a note when a message has been rephrased, and the sender will see what language was edited out. A user who keeps cursing in chat will still be penalized for breaking Roblox policy even if the AI rephrases their messages. “As these systems scale, they create a flywheel for civility, where real-time feedback helps users learn and adopt our Community Standards,” Bhatia said in a blog post. </p><p>Rephrasing has been rolled out to chats between age-checked users in similar age groups and in all the languages the game’s translation tool supports. Roblox introduced a <a target="_blank" class="link" href="https://www.engadget.com/gaming/robloxs-age-verification-system-is-reportedly-a-trainwreck-220320016.html" data-i13n="cpos:2;pos:1">mandatory age verification system</a> back in January after reports came out that it has a “<a target="_blank" class="link" href="https://www.engadget.com/gaming/roblox-restricts-dms-for-kids-under-13-and-beefs-up-parental-controls-in-safety-push-120031833.html" data-i13n="cpos:3;pos:1">pedophile problem</a>,” with adult players allegedly using the game to groom children. Kids under 13 can no longer use in-game chat outside of certain experiences, while everyone else can chat with players around their age. Age check, however, hasn’t stopped authorities from suing Roblox: <a target="_blank" class="link" href="https://www.engadget.com/gaming/la-county-lawsuit-accuses-roblox-of-exposing-children-to-grooming-and-exploitation-124523028.html" data-i13n="cpos:4;pos:1">LA County</a>, in a lawsuit filed in February, said Roblox knows its platform “makes children easy prey for pedophiles.” <a target="_blank" class="link" href="https://www.wafb.com/2026/03/07/louisiana-ag-sues-roblox-alleging-platform-exposes-children-sex-predators/" data-i13n="cpos:5;pos:1">Louisiana’s AG</a> has also just filed a lawsuit, saying Roblox “created a public park and filled it with sex predators that are preying on… children.”</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/roblox-introduces-real-time-ai-powered-chat-rephraser-for-inappropriate-language-160000063.html?src=rss
