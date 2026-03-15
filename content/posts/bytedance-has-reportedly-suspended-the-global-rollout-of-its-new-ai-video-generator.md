@@ -1,0 +1,19 @@
+---
+title: >-
+  ByteDance has reportedly suspended the global rollout of its new AI video
+  generator
+date: '2026-03-14'
+excerpt: >-
+  A month after Seedance 2.0's launch in China sparked cease-and-desist letters
+  from Disney and Paramount Skydance over its use of copyrighted materials...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/ai/bytedance-has-reportedly-suspended-the-global-rollout-of-its-new-ai-video-generator-212326112.html?src=rss
+---
+<p>A month after Seedance 2.0's launch in China sparked cease-and-desist <a target="_blank" class="link" href="https://www.engadget.com/ai/disney-accuses-bytedance-of-virtual-smash-and-grab-when-using-copyrighted-works-to-train-its-ai-191116136.html" data-i13n="cpos:1;pos:1">letters from Disney</a> <a target="_blank" class="link" href="https://variety.com/2026/film/news/paramount-disney-bytedance-cease-and-desist-seedance-ai-infringement-ip-1236663663/" data-i13n="cpos:2;pos:1">and Paramount Skydance</a> over its use of copyrighted materials, its developer ByteDance has reportedly hit pause on the release of the AI video tool in other regions. According to <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=ba0a4cdc-cec8-416a-9e93-e11b8179129c&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=57a23f55-23a6-482a-8816-3634b512b5f6&amp;featureId=text-link&amp;merchantName=The+Information&amp;linkText=The+Information&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy50aGVpbmZvcm1hdGlvbi5jb20vYXJ0aWNsZXMvYnl0ZWRhbmNlLXN1c3BlbmRzLWxhdW5jaC12aWRlby1haS1tb2RlbC1jb3B5cmlnaHQtZGlzcHV0ZXMtaG9sbHl3b29kP3JjPXdoZjBmZCIsImNvbnRlbnRVdWlkIjoiNTdhMjNmNTUtMjNhNi00ODJhLTg4MTYtMzYzNGI1MTJiNWY2Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy50aGVpbmZvcm1hdGlvbi5jb20vYXJ0aWNsZXMvYnl0ZWRhbmNlLXN1c3BlbmRzLWxhdW5jaC12aWRlby1haS1tb2RlbC1jb3B5cmlnaHQtZGlzcHV0ZXMtaG9sbHl3b29kP3JjPXdoZjBmZCJ9&amp;signature=AQAAASOnsw1FT15qw2NYrnJUKW-OQtCeMYrnqNKDZ6xNoW12&amp;gcReferrer=https%3A%2F%2Fwww.theinformation.com%2Farticles%2Fbytedance-suspends-launch-video-ai-model-copyright-disputes-hollywood%3Frc%3Dwhf0fd" data-i13n="elm:affiliate_link;sellerN:The Information;elmt:;cpos:3;pos:1" data-original-link="https://www.theinformation.com/articles/bytedance-suspends-launch-video-ai-model-copyright-disputes-hollywood?rc=whf0fd"><em>The Information</em></a>, which spoke to two anonymous sources with knowledge of the matter, ByteDance has suspended Seedance 2.0's global rollout. Engadget has reached out to ByteDance for comment and will update this story if we hear back with more information.&nbsp;</p><p>Seedance 2.0 caught heat from Hollywood studios almost immediately upon its release, after user-generated videos including a <a target="_blank" class="link" href="https://x.com/RuairiRobinson/status/2021394940757209134" data-i13n="cpos:4;pos:1">viral AI clip</a> of Brad Pitt fighting Tom Cruise sparked concerns that <a target="_blank" class="link" href="https://www.axios.com/2026/02/13/disney-bytedance-seedance" data-i13n="cpos:5;pos:1">copyrighted works were used</a> in training the model. In February, ByteDance told the <a target="_blank" class="link" href="https://www.bbc.com/news/articles/c93wq6xqgy1o" data-i13n="cpos:6;pos:1"><em>BBC</em></a> that it is "taking steps to strengthen current safeguards as we work to prevent the unauthorised use of intellectual property and likeness by users." It's unclear when exactly ByteDance planned to release the tool more widely.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/ai/bytedance-has-reportedly-suspended-the-global-rollout-of-its-new-ai-video-generator-212326112.html?src=rss
