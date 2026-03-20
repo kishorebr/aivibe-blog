@@ -1,0 +1,18 @@
+---
+title: Amazon acquires autonomous robotics startup Rivr
+date: '2026-03-19'
+excerpt: >-
+  Amazon has acquired Rivr, a startup focused on autonomous robotics. Rivr is
+  based in Zurich and was valued at $110 million in a funding round from Aug...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Automation
+  - Work
+category: Finance
+source: >-
+  https://www.engadget.com/big-tech/amazon-acquires-autonomous-robotics-startup-rivr-212839750.html?src=rss
+---
+<p>Amazon has acquired Rivr, a startup focused on autonomous robotics. Rivr is based in Zurich and was valued at $110 million in a funding round from August 2024, which both Amazon and its CEO's Bezos Expeditions participated in. Financial details of the acquisition were not disclosed.&nbsp;</p><p>Rivr's robots have four legs and wheels that allow it to maneuver on stairs and other potentially uneven surfaces. The company just released its second generation of the robot. The purchase will likely further Amazon's capabilities for ever-faster and more efficient package deliveries.&nbsp;</p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/l2q3kPl4mJQ?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="youtube.com" data-provider-name="youtube"></iframe></div></div><p>"This acquisition reflects our commitment to a continued investment in research, which we believe has the potential to further improve safety outcomes and the overall delivery experience for delivery service partners and their delivery associates," a representative from Amazon told <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=ba0a4cdc-cec8-416a-9e93-e11b8179129c&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=c20027d6-7d09-4b53-9bf2-0814bc72d979&amp;featureId=text-link&amp;merchantName=The+Information&amp;linkText=The+Information&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy50aGVpbmZvcm1hdGlvbi5jb20vYXJ0aWNsZXMvYW1hem9uLWFjcXVpcmVzLXJvYm90aWNzLXN0YXJ0dXAtYm9vc3RpbmctZWZmb3J0cy1zdHJlYW1saW5lLWRlbGl2ZXJpZXMiLCJjb250ZW50VXVpZCI6ImMyMDAyN2Q2LTdkMDktNGI1My05YmYyLTA4MTRiYzcyZDk3OSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cudGhlaW5mb3JtYXRpb24uY29tL2FydGljbGVzL2FtYXpvbi1hY3F1aXJlcy1yb2JvdGljcy1zdGFydHVwLWJvb3N0aW5nLWVmZm9ydHMtc3RyZWFtbGluZS1kZWxpdmVyaWVzIn0&amp;signature=AQAAAdISOlZIaCzzQKaMnXT5tAZ8m6fDET2F_POC7gYh0kZA&amp;gcReferrer=https%3A%2F%2Fwww.theinformation.com%2Farticles%2Famazon-acquires-robotics-startup-boosting-efforts-streamline-deliveries" data-i13n="elm:affiliate_link;sellerN:The Information;elmt:;cpos:1;pos:1" data-original-link="https://www.theinformation.com/articles/amazon-acquires-robotics-startup-boosting-efforts-streamline-deliveries"><em>The Information</em></a>.</p><p>Amazon has been working toward introducing automations and robotics at various stages of its shopping business. It deployed its <a target="_blank" class="link" href="https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model" data-i13n="cpos:2;pos:1">1 millionth robot</a> last summer and has future goals for automating <a target="_blank" class="link" href="https://www.engadget.com/big-tech/new-report-leaks-amazons-proposed-mass-automation-plans-144822790.html" data-i13n="cpos:3;pos:1">75 percent</a> of all its operations.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazon-acquires-autonomous-robotics-startup-rivr-212839750.html?src=rss
