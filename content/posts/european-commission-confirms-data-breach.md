@@ -1,0 +1,16 @@
+---
+title: European Commission confirms data breach
+date: '2026-03-27'
+excerpt: >-
+  The European Commission has announced that it suffered a cyber attack that
+  affected &quot;cloud infrastructure hosting the Commission&#39;s web presen...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/cybersecurity/european-commission-confirms-data-breach-200000982.html?src=rss
+---
+<p>The European Commission <a target="_blank" class="link" href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_748" data-i13n="cpos:1;pos:1">has announced</a> that it suffered a cyber attack that affected &quot;cloud infrastructure hosting the Commission&#39;s web presence on the Europea.eu platform.&quot; While the attack has been contained, <a target="_blank" class="link" href="https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/" data-i13n="cpos:2;pos:1"><em>Bleeping</em> <em>Computer</em> reports</a> that the threat actor claiming to be behind it was able to take over 350GB of data before the Commission addressed the issue. </p><p>&quot;Early findings of our ongoing investigation suggest that data have been taken from [Europa] websites,&quot; the European Commission says. &quot;The Commission is duly notifying the Union entities who might have been affected by the incident.&quot;</p><p>The Commission&#39;s investigation is ongoing, and it has yet to disclose how its cloud infrastructure was breached. According to <em>Bleeping Computer</em>, the threat actor was able to access the Europa sites and employee data via one of the Commission&#39;s Amazon Web Services accounts. The Commission <a target="_blank" class="link" href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_342" data-i13n="cpos:3;pos:1">disclosed a breach</a> that similarly impacted employee data in February.</p><p>Both breaches appear to be less severe than the <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/new-report-details-vast-spying-by-china-linked-telecom-hackers-010347224.html" data-i13n="cpos:4;pos:1">Salt Typhoon hack</a> that impacted US telecommunications companies in 2024. Hackers reportedly <a target="_blank" class="link" href="https://www.engadget.com/cybersecurity/fbi-suspects-china-linked-hackers-accessed-officials-call-logs-and-sms-messages-report-says-000434865.html" data-i13n="cpos:5;pos:1">gained access</a> to data from the smartphones of members of both the Trump and Harris campaigns, and other government officials. In January 2026, the European Commission introduced a new <a target="_blank" class="link" href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_105" data-i13n="cpos:6;pos:1">Cybersecurity Package</a> designed to address similar issues, in part by outlining new ways for EU states to deal with potentially risky companies in their telecom supply chains.</p>This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/european-commission-confirms-data-breach-200000982.html?src=rss
