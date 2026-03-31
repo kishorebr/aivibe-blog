@@ -1,0 +1,18 @@
+---
+title: Deus Ex game studio Eidos Montreal cuts 124 jobs
+date: '2026-03-30'
+excerpt: >-
+  Another day, another announcement of game industry job cuts. The latest
+  restructuring is happening at Eidos Montreal, which stated that 124 people
+  are...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/gaming/deus-ex-game-studio-eidos-montreal-cuts-124-jobs-205057796.html?src=rss
+---
+<p>Another day, another announcement of game industry job cuts. The latest restructuring is happening at Eidos Montreal, which <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=6deefbf2-941b-4156-9f41-a61ebb50d13d&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=978fca1f-3afb-4ca7-843b-65926da73bca&amp;featureId=text-link&amp;merchantName=LinkedIn&amp;linkText=stated&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vcG9zdHMvZWlkb3Ntb250cmVhbF9taXNlJUMzJUEwLWpvdXItZGVpZG9zLW1vbnRyJUMzJUE5YWwtZWlkb3MtbW9udHIlQzMlQTlhbC1hY3Rpdml0eS03NDQ0NDQ3MTA4NjU4NTk3ODg4LXlUcnAvIiwiY29udGVudFV1aWQiOiI5NzhmY2ExZi0zYWZiLTRjYTctODQzYi02NTkyNmRhNzNiY2EiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9wb3N0cy9laWRvc21vbnRyZWFsX21pc2UlQzMlQTAtam91ci1kZWlkb3MtbW9udHIlQzMlQTlhbC1laWRvcy1tb250ciVDMyVBOWFsLWFjdGl2aXR5LTc0NDQ0NDcxMDg2NTg1OTc4ODgteVRycC8ifQ&amp;signature=AQAAAWVtPsx2UcaHU1HMU4rKZpJbe00DoHHy9L5NWzk-D7nZ&amp;gcReferrer=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Feidosmontreal_mise%25C3%25A0-jour-deidos-montr%25C3%25A9al-eidos-montr%25C3%25A9al-activity-7444447108658597888-yTrp%2F" data-i13n="elm:affiliate_link;sellerN:LinkedIn;elmt:;cpos:1;pos:1" data-original-link="https://www.linkedin.com/posts/eidosmontreal_mise%C3%A0-jour-deidos-montr%C3%A9al-eidos-montr%C3%A9al-activity-7444447108658597888-yTrp/">stated</a> that 124 people are being laid off. As with so many similar cuts, the studio's LinkedIn post credited the downsizing to "a result of changing project needs and impacts across production and support teams." The company is also parting ways with its studio head, David Anfossi.&nbsp;</p><p>Eidos Montreal has worked on titles within the Deus Ex and Tomb Raider franchises, as well as Marvel's Guardians of the Galaxy and Marvel's Avengers games. It is one of the many companies owned by Embracer Group, which snapped up a bunch of studios but has been stuck in a downsizing in a loop following an <a target="_blank" class="link" href="https://www.engadget.com/embracer-announces-layoffs-and-game-cancellations-after-a-2-billion-deal-falls-through-144311854.html" data-i13n="cpos:2;pos:1">expensive</a> <a target="_blank" class="link" href="https://www.engadget.com/embracer-group-is-splitting-up-its-messy-gaming-empire-into-three-different-companies-120006822.html" data-i13n="cpos:3;pos:1">restructuring</a> of its own gaming empire during 2023 and 2024. That activity reportedly included axing <a target="_blank" class="link" href="https://www.engadget.com/a-new-deus-ex-game-was-reportedly-canceled-amid-embracers-crisis-194919207.html" data-i13n="cpos:4;pos:1">a planned new Deus Ex game</a> that Eidos Montreal was working on.</p><p>The post from Eidos Montreal didn't specify what projects it is currently active on, although it has said it is involved with the upcoming <em>Grounded 2</em> from Obsidian Entertainment and the reimagined <em>Fable</em> from Playground Games.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/deus-ex-game-studio-eidos-montreal-cuts-124-jobs-205057796.html?src=rss
