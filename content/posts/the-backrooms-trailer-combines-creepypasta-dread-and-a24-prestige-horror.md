@@ -1,0 +1,17 @@
+---
+title: The Backrooms trailer combines creepypasta dread and A24 prestige horror
+date: '2026-03-31'
+excerpt: >-
+  Against all odds, A24’s adaptation of The Backrooms actually looks like a
+  proper elevated horror movie. Hell, it’s even got Oscar winner Chiwetel
+  Ejio...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Work
+source: >-
+  https://www.engadget.com/entertainment/tv-movies/the-backrooms-trailer-combines-creepypasta-dread-and-a24-prestige-horror-213602238.html?src=rss
+---
+<p>Against all odds, A24’s adaptation of <em>The Backrooms</em> actually looks like a proper elevated horror movie. Hell, it’s even got Oscar winner Chiwetel Ejiofor (<em>12 Years a Slave, Serenity</em>) and Cannes favorite Renate Reinsve (<em>Sentimental Value</em>) onboard. Judging from the film’s fist trailer, which combines <em>The  Backrooms</em> creepypasta-born dread around liminal spaces, and A24’s slick horror aesthetic, you couldn’t tell that its director can’t even legally drink in the US yet. Yes folks, Kane Parsons is just 20.</p><p>Parsons, AKA Kane Pixels, made a splash four years ago with <a target="_blank" class="link" href="https://www.youtube.com/watch?v=H4dGpz6cnHo" data-i13n="cpos:1;pos:1">his original Backrooms shorts</a>, the first of which has amassed over 73 million views on YouTube. Those were relatively simple episodes created in Blender, but they did an admirable job of feeling genuinely creepy. Parsons has also dabbled in live action horror shorts with <a target="_blank" class="link" href="https://www.youtube.com/watch?v=9DYOG1RuJ4w&amp;list=PLVAh-MgDVqvAwoFF5hJmtRrx86Yw-pdN1&amp;index=1" data-i13n="cpos:2;pos:1">his series <em>The Oldest Room</em></a>. </p><div><div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;"><iframe src="https://www.youtube.com/embed/wek9dIw2uVM?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="youtube.com" data-provider-name="youtube"></iframe></div></div><p>While Parsons certainly has a ton of internet clout behind him, he also has a strong eye for slow-burn horror. This trailer alone is making me feel uneasy about heading into my dimly lit basement office.  He also won’t be the first internet creator to reach cinemas this year. Markiplier’s adaptation of the indie game <em>Iron Lung </em>was particularly notable, since he funded both the production and theatrical distribution on his own.</p><p><em>The Backrooms</em> joins <a target="_blank" class="link" href="https://variety.com/2026/film/news/exit-8-trailer-genki-kawamura-1236651441/" data-i13n="cpos:3;pos:1">Genki Kawamura’s adaptation of the game <em>Exit 8</em></a> as another new horror film about spooky liminal spaces. It’ll be interesting to see how the two compare. The former started as 4chan stories and images around eerily empty buildings, while the latter was a game where you slowly walked through a repetitive Tokyo subway. There’s more room for Parsons to turn <em>The Backrooms </em>into a narrative of his own, whereas <em>Exit 8</em> is somewhat restricted by the original game.  </p><p></p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/tv-movies/the-backrooms-trailer-combines-creepypasta-dread-and-a24-prestige-horror-213602238.html?src=rss
