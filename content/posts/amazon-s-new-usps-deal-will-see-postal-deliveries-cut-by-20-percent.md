@@ -1,0 +1,21 @@
+---
+title: Amazon's new USPS deal will see postal deliveries cut by 20 percent
+date: '2026-04-07'
+excerpt: >-
+  Earlier this year, Amazon threatened to cut US Postal Service deliveries by as
+  much as two thirds. Now, the parties have reached tentative a deal that...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Finance
+source: >-
+  https://www.engadget.com/general/amazons-new-usps-deal-will-see-postal-deliveries-cut-by-20-percent-054608944.html?src=rss
+---
+<p>Earlier this year, Amazon threatened to cut US Postal Service deliveries by <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/big-tech/amazon-will-reportedly-cut-its-usps-shipments-by-at-least-two-thirds-200915702.html">as much as two thirds</a>. Now, the parties have reached tentative a deal that will see USPS deliveries reduced by 20 percent, <a data-i13n="elm:affiliate_link;sellerN:The Wall Street Journal;elmt:;cpos:2;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=2f007401-3eaa-4237-b69b-54ccbe125502&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=3c949c9b-28c9-4e8b-b082-15f793f3dc23&amp;featureId=text-link&amp;merchantName=The+Wall+Street+Journal&amp;linkText=The+Wall+Street+Journal&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy53c2ouY29tL2J1c2luZXNzL2xvZ2lzdGljcy9hbWF6b24tYW5kLXUtcy1wb3N0YWwtc2VydmljZS1yZWFjaC1kZWxpdmVyeS1kZWFsLTY2YjM0YzYzIiwiY29udGVudFV1aWQiOiIzYzk0OWM5Yi0yOGM5LTRlOGItYjA4Mi0xNWY3OTNmM2RjMjMiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3Lndzai5jb20vYnVzaW5lc3MvbG9naXN0aWNzL2FtYXpvbi1hbmQtdS1zLXBvc3RhbC1zZXJ2aWNlLXJlYWNoLWRlbGl2ZXJ5LWRlYWwtNjZiMzRjNjMifQ&amp;signature=AQAAAccd4F3_dVfOh_VbZMRiusIYpDr87whm0IYYVk6wzwv4&amp;gcReferrer=https%3A%2F%2Fwww.wsj.com%2Fbusiness%2Flogistics%2Famazon-and-u-s-postal-service-reach-delivery-deal-66b34c63" class="rapid-with-clickid" data-original-link="https://www.wsj.com/business/logistics/amazon-and-u-s-postal-service-reach-delivery-deal-66b34c63"><em>The Wall Street Journal</em></a> reported. While not as drastic as first menaced, the reduced volume will still deal a financial blow to the USPS.</p>
+<p>"We’re pleased to have reached a new agreement with USPS that furthers our longstanding partnership and will let us continue supporting our customers and communities together," an Amazon spokesperson told the <em>WSJ</em>.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>Amazon is the USPS's largest customer, accounting for 15 percent of its volume and $6 billion in revenue. A two-thirds cut would have been a disaster for the USPS, but a 20 percent reduction could result in more than $1 billion in lost revenue nonetheless. Amazon would have needed to scramble as well, as it relies heavily on the post office for rural and last-mile deliveries.&nbsp;</p>
+<p>Amazon's contract with the USPS was set to expire in September 2026, and in October Amazon said it wanted to strike a deal by December 2025. However, the USPS abruptly pulled out of negotiations, according to Amazon, and <a data-i13n="cpos:3;pos:1" href="https://news.usps.com/2025/12/17/usps-announces-bid-solicitation-for-access-to-last-mile-delivery-network/">implemented</a> a new bidding process for last-mile deliveries. "Our goal was to increase our volumes with USPS, not reduce them — until USPS abruptly walked away at the eleventh hour in December," Amazon said at the time.&nbsp;</p>
+<p>Amazon was <a data-i13n="cpos:4;pos:1" href="https://www.detroitnews.com/story/business/2025/12/04/amazon-explores-building-its-own-delivery-network-to-replace-usps-deal/87608077007/">reportedly</a> considering expanding its own delivery network if the USPS deal fell through, though the company may have started those rumors itself to prod negotiations. The Postal Service decided to re-engage with Amazon after bids from several Amazon rivals fell short of its volume and revenue expectations, according to the <em>WSJ</em>'s sources. The new agreement is still subject to approval by the federal Postal Regulatory Commission.</p>This article originally appeared on Engadget at https://www.engadget.com/general/amazons-new-usps-deal-will-see-postal-deliveries-cut-by-20-percent-054608944.html?src=rss
