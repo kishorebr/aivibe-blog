@@ -1,0 +1,25 @@
+---
+title: Apple's foldable iPhone is reportedly at risk of delay
+date: '2026-04-07'
+excerpt: >-
+  Apple has run into &quot;more issues than expected&quot; with its foldable
+  iPhone that may set back its release, according to Nikkei. The engineering...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: >-
+  https://www.engadget.com/mobile/smartphones/apples-foldable-iphone-may-be-delayed-due-to-engineering-snags-073813890.html?src=rss
+---
+<p>Apple has run into &quot;more issues than expected&quot; with its foldable iPhone that may set back its release, according to <a data-i13n="cpos:1;pos:1;slk:Nikkei;" href="https://asia.nikkei.com/spotlight/supply-chain/foldable-iphone-hits-engineering-snags-shipment-delays-possible-sources"><em>Nikkei</em></a>. The engineering problems reportedly cropped up during the device&#39;s early test production phase and may delay first shipments by months, according to multiple sources briefed on the matter. However, a separate report in <em>Bloomberg</em> refutes the gist of <em>Nikkei</em>&#39;s claims.&nbsp;</p>
+<p>&quot;The current situation could put the mass production timeline at risk,&quot; one of <em>Nikkei</em>&#39;s sources said. &quot;April will mark a crucial stage of the engineering verification test, and this month till early may is extremely critical.&quot; Component suppliers have supposedly been notified that the foldable iPhone&#39;s production schedule will be delayed, and Apple is working to address the problems.&nbsp;</p>
+<span id="end-legacy-contents"></span><p>In a separate article in<a data-i13n="cpos:2;pos:1" href="https://www.bloomberg.com/news/articles/2026-04-07/apple-s-foldable-iphone-remains-on-track-for-september-debut"><em>Bloomberg</em></a>, however, the usually reliable Apple reporter Mark Gurman wrote that the device is still on track for a September 2026 release. &quot;The company is scheduled to introduce the foldable model in September alongside the iPhone 18 Pro and Pro Max, said the people, who asked not to be identified because the plans haven’t been announced,&quot; according to the report.</p>
+<p>The complexity of the foldable iPhone&#39;s display and other components may &quot;limit initial supply for several weeks,&quot; but Apple plans to put it on sale at the same time or shortly after the other non-foldable devices, Gurman wrote. That said, the timing isn&#39;t final and issues could still crop up ahead of production. Engadget has reached out to Apple, but so far the company has declined to comment on either the <em>Bloomberg</em> or <em>Nikkei</em> reports.&nbsp;</p>
+<p>A foldable iPhone has been <a data-i13n="cpos:3;pos:1;slk:rumored since 2017;" href="https://www.cnet.com/tech/mobile/apple-foldable-iphone-report-the-bell/">rumored since 2017</a>, and Apple&#39;s biggest rival, Samsung, released its first one back in 2019. According to multiple sources, Apple was aiming to launch its debut foldable iPhone in fall 2026 alongside the iPhone 18. However, as we detailed in an <a data-i13n="cpos:4;pos:1;slk:explainer last month;" href="https://www.engadget.com/mobile/smartphones/iphone-fold-rumors-everything-we-know-right-now-including-the-leaked-design-upgrades-price-and-more-130000733.html">explainer last month</a>, &quot;the project could slip into 2027 if Apple runs into manufacturing or durability issues, particularly around the hinge or display.&quot;&nbsp;</p>
+<p>Apple was reportedly prioritizing the foldable iPhone and other premium models for its September event this year due to constrained supplies of components like memory chips. &quot;Apple and the supply chain are working under a pressured timeline and the current solutions are not enough to completely solve the engineering challenge... more time is needed,&quot; <em>Nikkei&#39;</em>s source stated.&nbsp;</p>
+<p>The problems reportedly arose during Apple&#39;s production verification tests. That&#39;s the fourth of six steps the company&#39;s new products must go through before shipping, prior to the key pilot production and mass production phases. Since the foldable would be an all-new design, it would likely need to pass each stage with flying colors before proceeding to the next.&nbsp;</p>
+<p>Though likely to account for less than 10 percent of iPhone production, the foldable will be a key product for Apple designed to boost interest in iPhones across its range. Apple reportedly plans to produce seven to eight million of the devices initially, <em>Nikkei</em> reported. Apple has yet to announce the device.</p>
+<p><strong>Update April 7, 2026 at 3:02 PM ET</strong>: The article has been updated with information from <em>Bloomberg</em>&#39;s Mark Gurman stating that the foldable iPhone is still on schedule for a September 2026 launch.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/apples-foldable-iphone-may-be-delayed-due-to-engineering-snags-073813890.html?src=rss
