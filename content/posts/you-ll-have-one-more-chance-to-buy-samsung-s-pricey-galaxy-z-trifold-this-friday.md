@@ -1,0 +1,18 @@
+---
+title: >-
+  You'll have one more chance to buy Samsung's pricey Galaxy Z TriFold this
+  Friday
+date: '2026-04-08'
+excerpt: >-
+  If you missed your chance to pay Samsung $2,900 for a phone earlier this year,
+  we have great news for you. Android Police reported that what may be th...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/mobile/smartphones/youll-have-one-more-chance-to-buy-samsungs-pricey-galaxy-z-trifold-this-friday-225222969.html?src=rss
+---
+<p>If you missed your chance to pay Samsung <a target="_blank" class="link" href="https://www.engadget.com/mobile/smartphones/the-samsung-galaxy-z-trifold-will-cost-2900-in-the-us-140000013.html" data-i13n="cpos:1;pos:1">$2,900</a> for a phone earlier this year, we have great news for you. <a target="_blank" class="link" href="https://www.androidpolice.com/galaxy-z-trifold-goes-on-sale-one-last-time/" data-i13n="cpos:2;pos:1"><em>Android Police</em></a> reported that what may be the final shipment of the Samsung Galaxy Z TriFold will be arriving in the US on April 10. The unique foldable was <a target="_blank" class="link" href="https://www.engadget.com/mobile/smartphones/samsung-ends-galaxy-z-trifold-sales-three-months-after-launch-182903503.html" data-i13n="cpos:3;pos:1">discontinued</a> a mere three months after it first went on sale, and it seems like Samsung is clearing out whatever inventory it has left. So if you have a spare $3,000 that you're just desperate to get rid of, bookmark the TriFold's page where Samsung has a <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=f85e63cd-e13c-4f9d-991c-9fbaadede3ac&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=0204fbd3-0804-42dc-ae6f-3aab9f09af12&amp;featureId=text-link&amp;merchantName=Samsung+Electronics&amp;linkText=countdown&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5zYW1zdW5nLmNvbS91cy9zbWFydHBob25lcy9nYWxheHktei10cmlmb2xkLyIsImNvbnRlbnRVdWlkIjoiMDIwNGZiZDMtMDgwNC00MmRjLWFlNmYtM2FhYjlmMDlhZjEyIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5zYW1zdW5nLmNvbS91cy9zbWFydHBob25lcy9nYWxheHktei10cmlmb2xkLyJ9&amp;signature=AQAAASBG3tb9vhkLcGTG0ZdiFs_KnPTQNJBMoe-L2-QR9lop&amp;gcReferrer=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-z-trifold%2F" data-i13n="elm:affiliate_link;sellerN:Samsung Electronics;elmt:;cpos:4;pos:1" data-original-link="https://www.samsung.com/us/smartphones/galaxy-z-trifold/">countdown</a> ticking away.&nbsp;</p><p>All jokes aside, our <a target="_blank" class="link" href="https://www.engadget.com/mobile/smartphones/samsung-galaxy-z-trifold-hands-on-flexing-is-believing-at-ces-2026-224343480.html" data-i13n="cpos:5;pos:1">hands-on time</a> with the TriFold at CES 2026 revealed a pretty snazzy device that managed to strike a decent balance between size and heft. But perhaps unsurprisingly for a phone with such an intricate design and high price tag, the company didn't appear to have any intention to make the TriFold widely available. Samsung may have sold out each batch of the smartphone that went to retail, but the device didn't offer much in the way of profit, according to reports in South Korean newspaper <a target="_blank" class="link" href="https://www.donga.com/news/Economy/article/all/20260316/133538775/1" data-i13n="cpos:6;pos:1"><em>Dong-A Ilbo</em></a>. </p>This article originally appeared on Engadget at https://www.engadget.com/mobile/smartphones/youll-have-one-more-chance-to-buy-samsungs-pricey-galaxy-z-trifold-this-friday-225222969.html?src=rss
