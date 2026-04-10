@@ -1,0 +1,16 @@
+---
+title: Netflix adds three Jackbox games to its TV app
+date: '2026-04-09'
+excerpt: >-
+  Netflix has added a heavy hitter in party activities to its gaming lineup. The
+  streamer announced that Jackbox Party Essentials is joining the Netflix...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://www.engadget.com/gaming/netflix-adds-three-jackbox-games-to-its-tv-app-190220143.html?src=rss
+---
+<p>Netflix has added a heavy hitter in party activities to its gaming lineup. The streamer <a target="_blank" class="link rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=2a170a1e-7e5c-4edd-b5dd-ea6d3bd9416a&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=d28af37c-c8af-4f92-a4cb-930166b90713&amp;featureId=text-link&amp;merchantName=Netflix&amp;linkText=announced&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5uZXRmbGl4LmNvbS90dWR1bS9hcnRpY2xlcy9qYWNrYm94LWdhbWVzLXBhcnR5LWVzc2VudGlhbHMtbmV3cyIsImNvbnRlbnRVdWlkIjoiZDI4YWYzN2MtYzhhZi00ZjkyLWE0Y2ItOTMwMTY2YjkwNzEzIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5uZXRmbGl4LmNvbS90dWR1bS9hcnRpY2xlcy9qYWNrYm94LWdhbWVzLXBhcnR5LWVzc2VudGlhbHMtbmV3cyJ9&amp;signature=AQAAAdsAuwpfZ0QDIRVs7C9DhJcesRvYdiL1cA0cCBmieU-s&amp;gcReferrer=https%3A%2F%2Fwww.netflix.com%2Ftudum%2Farticles%2Fjackbox-games-party-essentials-news" data-i13n="elm:affiliate_link;sellerN:Netflix;elmt:;cpos:1;pos:1" data-original-link="https://www.netflix.com/tudum/articles/jackbox-games-party-essentials-news">announced</a> that Jackbox Party Essentials is joining the Netflix Party Games collection. This move makes three of the popular Jackbox group games available for free to Netflix subscribers: <em>Fibbage 4</em>, <em>Quiplash 3</em> and <em>Drawful 2</em>. Each one supports up to eight players.&nbsp;</p><p> Netflix has been refocusing its interactive strategy to <a target="_blank" class="link" href="https://www.engadget.com/entertainment/streaming/netflix-is-bringing-party-games-to-tvs-123034128.html" data-i13n="cpos:2;pos:1">highlight</a> family-friendly and party games. The company has even offered tie-ins to its original content; for instance, playing <em>Overcooked</em> through Netflix will let you use a <a target="_blank" class="link" href="https://www.engadget.com/gaming/netflixs-version-of-overcooked-lets-you-play-as-huntrx-212515187.html" data-i13n="cpos:3;pos:1">member of Huntr/x</a> from <em>Kpop Demon Hunters</em> as your in-game avatar. We also saw Netflix's Game Controller software, which turns any mobile device into a gamepad for its game library, take the crown as a <a target="_blank" class="link" href="https://www.gamefile.news/p/netflix-virtual-controller-chart-topper" data-i13n="cpos:4;pos:1">top-downloaded iOS app</a> around the Easter holiday weekend. That performance could indicate that many families were at least thinking of trying out the streamer's games as part of their festivities.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/netflix-adds-three-jackbox-games-to-its-tv-app-190220143.html?src=rss
