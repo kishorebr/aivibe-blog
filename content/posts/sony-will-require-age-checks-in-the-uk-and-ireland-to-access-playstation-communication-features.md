@@ -1,0 +1,19 @@
+---
+title: >-
+  Sony will require age checks in the UK and Ireland to access PlayStation
+  communication features
+date: '2026-04-20'
+excerpt: >-
+  Sony is adopting new age verification policies for PlayStation users in the UK
+  and Ireland. The company isn&#39;t making this a blanket requirement, b...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Tools
+category: General AI
+source: >-
+  https://www.engadget.com/gaming/playstation/sony-will-require-age-checks-in-the-uk-and-ireland-to-access-playstation-communication-features-194916442.html?src=rss
+---
+<p>Sony is adopting new age verification <a target="_blank" class="link" href="https://www.playstation.com/en-gb/support/account/age-verification-faq/" data-i13n="cpos:1;pos:1">policies</a> for PlayStation users in the UK and Ireland. The company isn&#39;t making this a blanket requirement, but steps to confirm age will be needed to access &quot;communication, broadcasting, and certain in-game features&quot; beginning in June 2026. That includes essentials for online and social gamers, such as joining a party, voice chatting, text messaging or using third-party chat programs such as Discord. Some in-game communication tools, like chats or sharing user-generated content, will also only be available after an age check is completed. Although the new requirements will not be enforced until summer, users are already being <a target="_blank" class="link" href="https://www.reddit.com/r/playstation/comments/1sqsxg3/uk_get_ready_to_verify_your_age/?solution=b0dc5ec4e2d71fc3b0dc5ec4e2d71fc3&amp;js_challenge=1&amp;token=bbbe4bf1c9a2b5160829c4be34da586194a7b87360274120a2a0be019b70e86f" data-i13n="cpos:2;pos:1">prompted</a> to get the verification process squared away.</p><p>Several states and countries began adopting this type of legislation in 2025, pushing restrictions as a way to protect children and teens from inappropriate content. It seems the trend will be continuing into this year, despite the <a target="_blank" class="link" href="https://www.engadget.com/big-tech/the-year-age-verification-laws-came-for-the-open-internet-130000979.html" data-i13n="cpos:3;pos:1">concerns about privacy risks</a> and new questions about whether these restrictive laws <a target="_blank" class="link" href="https://www.engadget.com/social-media/majority-of-australian-kids-are-still-on-banned-social-media-platforms-study-finds-162922768.html" data-i13n="cpos:4;pos:1">are even effective</a> at their stated goals, but companies have still been moving to comply. Discord was one of the more notable gaming-centric services to <a target="_blank" class="link" href="https://www.engadget.com/social-media/discord-will-soon-require-age-verification-to-access-adult-content-140000218.html" data-i13n="cpos:5;pos:1">begin</a> age verification policies last year, although the company did walk back some of its initial plans at the start of 2026 in order to <a target="_blank" class="link" href="https://www.engadget.com/social-media/discord-delays-age-verification-to-address-user-concerns-205500482.html" data-i13n="cpos:6;pos:1">better protect</a> users&#39; personal data and their anonymity. Roblox also began <a target="_blank" class="link" href="https://www.engadget.com/gaming/roblox-begins-asking-tens-of-millions-of-children-to-verify-their-age-with-a-selfie-120000311.html" data-i13n="cpos:7;pos:1">requiring</a> age checks and <a target="_blank" class="link" href="https://www.engadget.com/gaming/robloxs-age-verification-system-is-reportedly-a-trainwreck-220320016.html" data-i13n="cpos:8;pos:1">those results were not great</a>.</p>This article originally appeared on Engadget at https://www.engadget.com/gaming/playstation/sony-will-require-age-checks-in-the-uk-and-ireland-to-access-playstation-communication-features-194916442.html?src=rss
