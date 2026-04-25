@@ -1,0 +1,20 @@
+---
+title: The DOJ is backing xAI in its lawsuit against Colorado
+date: '2026-04-24'
+excerpt: >-
+  The Department of Justice has announced that it&#39;s intervening on the
+  behalf of xAI in the company&#39;s recent lawsuit against the state of
+  Colora...
+coverImage: >-
+  https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Healthcare
+  - Work
+  - Tools
+category: Healthcare
+source: >-
+  https://www.engadget.com/ai/the-doj-is-backing-xai-in-its-lawsuit-against-colorado-200500890.html?src=rss
+---
+<p>The Department of Justice <a target="_blank" class="link" href="https://www.justice.gov/opa/pr/justice-department-intervenes-xai-lawsuit-challenging-colorados-algorithmic-discrimination" data-i13n="cpos:1;pos:1">has announced</a> that it&#39;s intervening on the behalf of xAI in the company&#39;s recent lawsuit against the state of Colorado. <a target="_blank" class="link" href="https://www.reuters.com/legal/government/elon-musks-xai-sues-colorado-over-states-new-ai-law-2026-04-09/" data-i13n="cpos:2;pos:1">xAI first filed the suit</a> in early April in response to <a target="_blank" class="link" href="https://leg.colorado.gov/bills/sb24-205" data-i13n="cpos:3;pos:1">a recent Colorado law</a> that requires developers of &quot;high-risk&quot; AI systems (for example, ones used in healthcare, employment or housing) to both disclose and mitigate the risk of algorithmic discrimination in their systems. The law is set to go into effect in June, and the DOJ is now asking a Colorado District Court to declare it unconstitutional.</p><p>In xAI&#39;s original argument, Colorado Bill SB24-205 violated the company&#39;s First Amendment rights by forcing its developers to change how they create AI products and compelling them to align their products with Colorado&#39;s views on diversity and discrimination. The DOJ acknowledges those concerns in <a target="_blank" class="link" href="https://www.justice.gov/crt/media/1437846/dl" data-i13n="cpos:4;pos:1">its complaint</a>, but specifically focuses its argument on the idea that the law violates the Equal Protection Clause of the Fourteenth Amendment.</p><p>According to the DOJ, because the law relies on demographics and &quot;statistical disparities&quot; as evidence of discrimination, it will essentially require developers to distort an AI system&#39;s outputs and &quot;discriminate based on race, sex, religion and other protected characteristics,&quot; a violation of the Fourteenth Amendment. The department also positions Colorado&#39;s law as a risk to &quot;the United States&#39; position as the global AI leader,&quot; a title the current administration is committed to protecting.&nbsp;</p><p>As both an AI cheerleader and enabler, the Trump administration has been particularly sensitive to the notion of diversity, equity and inclusion being incorporated into AI. President Donald Trump signed several executive orders following the announcement of his <a target="_blank" class="link" href="https://www.engadget.com/ai/everyones-a-loser-in-trumps-ai-action-plan-160023247.html" data-i13n="cpos:5;pos:1">&quot;AI Action Plan&quot; in 2025</a> that specifically called for government agencies to use AI tools that avoid &quot;ideological dogmas such as DEI.&quot; He also called <a target="_blank" class="link" href="https://www.engadget.com/ai/trump-orders-creation-of-litigation-task-force-to-challenge-state-ai-laws-022657022.html" data-i13n="cpos:6;pos:1">for the creation of a task force</a> that could challenge state AI regulation in favor of a federal regulatory framework for AI. The irony is that the DOJ&#39;s argument, and the administration&#39;s stance in general, are equally idealogical, just in a way that&#39;s ahistorical, and ignores the downstream effects of discrimination in the US.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/the-doj-is-backing-xai-in-its-lawsuit-against-colorado-200500890.html?src=rss

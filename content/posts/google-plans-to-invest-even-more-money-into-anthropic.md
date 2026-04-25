@@ -1,0 +1,18 @@
+---
+title: Google plans to invest even more money into Anthropic
+date: '2026-04-24'
+excerpt: >-
+  Google plans to invest up to $40 billion into Anthropic in what could be
+  viewed as a circular deal with the AI startup (and frequent competitor),
+  Bloo...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Openai
+category: Finance
+source: >-
+  https://www.engadget.com/ai/google-plans-to-invest-even-more-money-into-anthropic-185000776.html?src=rss
+---
+<p>Google plans to invest up to $40 billion into Anthropic in what could be viewed as a circular deal with the AI startup (and frequent competitor), <a target="_blank" class="link" href="https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic" data-i13n="cpos:1;pos:1"><em>Bloomberg</em> reports</a>. The search giant <a target="_blank" class="link" href="https://www.engadget.com/ai/google-is-investing-another-billion-dollars-in-anthropic-145548826.html" data-i13n="cpos:2;pos:1">has invested in Anthropic</a> at multiple points in the past, but this new investment comes after an announcement that the AI startup had <a target="_blank" class="link" href="https://www.anthropic.com/news/google-broadcom-partnership-compute" data-i13n="cpos:3;pos:1">signed a joint agreement with Google and Broadcom</a> for &quot;multiple gigawatts of next-generation TPU capacity.&quot;</p><p>According to Anthropic, Google is committing $10 billion now at the company&#39;s current valuation, with an additional $30 billion on offer if Anthropic meets specific performance milestones. Through Anthropic&#39;s existing commitment to use Google&#39;s TPUs (tensor processing units) and servers, Anthropic says Google will also provide 5 gigawatts of computing capacity in 2027.</p><p>If the structure of the deal and business relationship between Google and Anthropic sounds familiar, it might be because the AI startup recently announced something similar with Amazon. Earlier in April, <a target="_blank" class="link" href="https://www.engadget.com/ai/amazon-will-invest-up-to-25-billion-in-anthropic-in-a-broad-deal-225239302.html" data-i13n="cpos:4;pos:1">Amazon announced</a> that it would invest $5 billion in Anthropic, with an additional $20 billion in payments available if certain milestones were met. Anthropic also agreed to use Amazon&#39;s Trainium chips for its AI models.</p><p>The deals are another example of Anthropic&#39;s ability to burn through money — the company <a target="_blank" class="link" href="https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation" data-i13n="cpos:5;pos:1">only just raised $30 billion</a> in its most recent round of funding. They could also serve as an example of the AI industry&#39;s love of circular deals. Anthropic agreeing to use Google and Amazon&#39;s silicon and servers, receiving investment from both companies and then presumably spending some of that investment on more silicon and servers, is a pattern seen in the relationship between <a target="_blank" class="link" href="https://www.engadget.com/ai/openai-agrees-to-buy-tens-of-billions-worth-of-amd-chips-134816630.html" data-i13n="cpos:6;pos:1">OpenAI</a>, <a target="_blank" class="link" href="https://www.engadget.com/ai/microsoft-and-nvidia-will-invest-up-to-15-billion-in-anthropic-173432863.html" data-i13n="cpos:7;pos:1">Nvidia, Microsoft</a> and plenty of other players in the AI race.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/google-plans-to-invest-even-more-money-into-anthropic-185000776.html?src=rss
