@@ -1,0 +1,24 @@
+---
+title: 'Star Trek: Strange New Worlds returns for its penultimate season on July 23'
+date: '2026-04-27'
+excerpt: >-
+  Star Trek: Strange New Worlds returns for its fourth season via Paramount Plus
+  on July 23. The ten episodes air weekly until September 24. This is act...
+coverImage: >-
+  https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: Transportation
+source: >-
+  https://www.engadget.com/entertainment/tv-movies/star-trek-strange-new-worlds-returns-for-its-penultimate-season-on-july-23-170946603.html?src=rss
+---
+<p><em>Star Trek: Strange New Worlds</em> <a data-i13n="cpos:1;pos:1" href="https://www.youtube.com/watch?v=7FaPm2QTy5w"><ins>returns for its fourth season</ins></a> via Paramount Plus on July 23. The ten episodes air weekly until September 24. This is actually the second-to-last batch of episodes, as the show was recently <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/entertainment/tv-movies/star-trek-strange-new-worlds-will-end-with-a-truncated-fifth-season-171054923.html"><ins>renewed for a fifth and final season</ins></a>.</p>
+<div id="5ed4350b409f43a5b6e6ea86626eed29"><iframe width="560" height="315" src="https://www.youtube.com/embed/7FaPm2QTy5w?si=S9ZxqM7Z3WMk0mwW" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
+<p>The streamer has dropped a trailer for season four and it looks promising. The tone looks slightly darker when compared to season three, which was maligned for <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/entertainment/tv-movies/star-trek-strange-new-worlds-third-season-falls-short-of-its-second-020030139.html"><ins>being a bit too silly and uneven</ins></a>. The trailer is narrated by Anson Mount&#39;s Captain Christopher Pike, who discusses the &quot;terror&quot; of space as a planet explodes.</p>
+<span id="end-legacy-contents"></span><p>This is still <em>Strange New Worlds</em>, so it won&#39;t be all doom and gloom. The trailer shows us a screeching alien dinosaur, which is pretty fun. There have also been reports that season four <a data-i13n="cpos:4;pos:1" href="https://www.startrek.com/news/strange-new-world-sdcc-puppet-verse-first-look"><ins>will feature a puppet episode</ins></a> with involvement from Jim Henson&#39;s Creature Shop.</p>
+<div id="60655187fc1c423dbb844e30129bfae0"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Gx-_r5LGAk?si=mzmdCF6DkXhdBf7-" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>
+<p>This new batch of episodes will lean even heavier into connections to the original <em>Star Trek</em> show from the 1960s. Paul Wesley&#39;s version of Captain Kirk features prominently in several scenes, with one looking like a direct callback to <em>Star Trek II: The Wrath of Khan</em>. A younger Scotty also makes an appearance.</p>
+<p>For the uninitiated, <em>Star Trek: Strange New Worlds</em> is a prequel to the first show and starts several years before Kirk takes over as captain of the Enterprise. It&#39;s been said that the series will end with Kirk taking the big chair. It&#39;s also primarily an episodic series, with no real serialized season-long arcs. <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/star-trek-strange-new-worlds-preview-040051197.html"><ins>It&#39;s pretty good</ins></a>!</p>
+<p>It&#39;s also ending in the near future. Season five will presumably premiere next year and will include just six episodes. As a matter of fact, it looks like the modern incarnation of Star Trek is ending in totality. Sets are being taken down and there are currently <a data-i13n="cpos:6;pos:1" href="https://trekmovie.com/2026/03/03/for-the-first-time-in-over-a-decade-no-star-trek-tv-is-in-production-or-greenlit/"><ins>no new shows in production</ins></a> for the first time in a decade.</p>
+<p>This is a bummer, <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/entertainment/streaming/star-trek-section-31-review-an-embarrassment-from-start-to-end-150051501.html"><ins>even if I didn&#39;t always love</ins></a> some of the newer content. The upcoming second season of <em>Starfleet Academy</em> will be its last, which is exceptionally sad because it was really <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/entertainment/starfleet-academy-is-the-best-first-season-of-a-star-trek-show-ever-133000945.html"><ins>beginning to fire on all cylinders</ins></a>. It was 12 years between the final episode of <em>Star Trek: Enterprise</em> and the first episode of <em>Star Trek: Discovery</em>, which kicked off the modern era. Who knows how long we&#39;ll have to wait this time.</p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/tv-movies/star-trek-strange-new-worlds-returns-for-its-penultimate-season-on-july-23-170946603.html?src=rss
