@@ -1,0 +1,43 @@
+---
+title: >-
+  Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s
+  scale
+date: '2026-06-12'
+excerpt: >-
+  India’s AI model output has been slow compared to the U.S., Europe, and China.
+  Only a few startups are releasing models, and most of them are large la...
+coverImage: >-
+  https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Tools
+category: Education
+source: >-
+  https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/
+---
+India’s AI model output has been slow compared to the U.S., Europe, and China. Only a few startups are releasing models, and most of them are large language models or voice models. To encourage more development, the government launched the India AI Mission, a roughly $1.2 billion initiative that — among other things — gives selected startups access to subsidized GPU compute in exchange for releasing their models publicly. One of the 12 startups selected for the program, Avataar AI, has launched a new video model called Varya that is built to understand local context — such as identifying different festivals, food, and clothing.
+
+The Peak XV-backed startup, which focuses on creating video tools for e-commerce, didn’t build Varya from scratch. It started with Wan 2.2, a publicly available video generation model released by Alibaba, and used a technique called distillation — essentially compressing the model’s capabilities into a leaner, faster version optimized for Avataar’s specific use cases. The result is a model that runs in four steps rather than Wan 2.2’s 50, producing video 10 times faster and at a fraction of the cost.
+
+
+	
+	
+
+
+
+
+	
+	
+
+
+
+To put that in concrete terms: using an NVIDIA H200 GPU, Varya can generate a 5-second 720p clip in 45 seconds, compared to 1,230 seconds for Wan 2.2.
+
+
+
+
+
+The most striking aspect of Varya may be its price. The company plans to charge ₹0.48 ($0.005) per second of video on its hosted service — far cheaper than models like Veo, Kling, Luma, and Runway, which typically charge $0.10 or more per second. That’s a roughly 20x price difference.
+
+“India is a video-first market. We see this across every large consumer internet product in India: video wins over text. Current AI video models are too expensive for population-scale use in India. If video AI is going to reach students, teachers, MSMEs, creators, enterprises, and public services, costs have to come down dramatically. Cost is the biggest unlock for AI adoption in India,” Peak X
