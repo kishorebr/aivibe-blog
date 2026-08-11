@@ -1,0 +1,36 @@
+---
+title: Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI
+date: '2026-08-10'
+excerpt: >-
+  On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI,
+  largely about the possibilities for the “personal superintelligence” sy...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+category: General AI
+source: >-
+  https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/
+---
+On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the “personal superintelligence” systems Meta AI is building. The ideas in the post aren’t totally new. A version of the essay ran in the Wall Street Journal two weeks ago, and he’s talked about them on Meta earnings calls before. But this is probably the most detailed version he’s shared.
+
+I’ve seen it described as an anti-doomer essay, but that’s not quite right. It’s more of a description of why Mark Zuckerberg is personally excited about the ways AI is going to change society. Yet, even as Zuckerberg tries to paint a picture of the wonderful future abundant superintelligence will bring, he keeps reminding us of all the ways it’s likely to go wrong.
+
+
+	
+	
+
+
+
+
+	
+	
+
+
+
+I find AI exciting too — that’s why I keep writing about it — but a lot of the public sees AI as creepy and unpleasant. So it’s worth pinning down exactly what’s happening here, and why Zuckerberg isn’t doing the industry any favors with essays like this.
+
+Social media is still a sensitive topic in the tech industry, and we don’t have the space here to litigate the relative merits of every single complaint people have about Facebook. Suffice it to say, Facebook as a product and Zuckerberg as a person are both unpopular with the U.S. public. A recent survey found that 64% of Americans believe social media has been harmful to democracy and a similar percentage believe it should be more heavily regulated, numbers that cut evenly across partisan lines. Just this weekend, a court fined the company $567 million for being harmful to children. The vibes are bad.
+
+I don’t bring this up to imply that Zuckerberg should withdraw to the wilderness in shame — but the fallout from social media is one of the central reasons we’re now seeing so much anxiety about the social impact of AI. Whether it’s fair or not, the public does not trust tech executives to make sure new technologies like this have a posi
