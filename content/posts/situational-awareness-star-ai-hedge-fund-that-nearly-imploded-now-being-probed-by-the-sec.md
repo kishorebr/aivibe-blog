@@ -1,0 +1,143 @@
+---
+title: >-
+  Situational Awareness, star AI hedge fund that nearly imploded, now being
+  probed by the SEC
+date: '2026-08-25'
+excerpt: >-
+  In Brief Posted: 5:23 PM PDT · August 24, 2026 Image Credits:Valerie
+  Plesch/Bloomberg / Getty Images Lucas Ropek Situational Awareness, star AI
+  hedge...
+coverImage: >-
+  https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Openai
+category: Finance
+source: >-
+  https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/
+---
+In Brief
+
+
+
+Posted:
+
+
+5:23 PM PDT · August 24, 2026
+
+
+
+Image Credits:Valerie Plesch/Bloomberg / Getty Images
+
+
+
+	
+		
+							
+											
+									
+					
+		
+							Lucas Ropek
+					
+	
+
+
+
+Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC
+
+
+Situational Awareness, the AI focused hedge fund that was Wall Street’s fleeting obsession, is having a very bad month.
+
+The company, led by twentysomething OpenAI alum Leopold Aschenbrenner, went all-in on a variety of AI investments and, for a period, enjoyed phenomenal growth. Then, at the end of July, a downturn in AI stocks erased billions of dollars in value at the firm. Now, federal regulators are reportedly probing the company as well.
+
+
+	
+	
+
+
+
+
+	
+	
+
+
+
+The New York Times reports that the Securities and Exchange Commission has been subpoenaing banks that did business with the hedge fund. The subpoenas focus on the banks that supervised the fund’s trading and that channeled funding to support it, the outlet says.
+
+The government reportedly warned the banks to “preserve any information” about the hedge fund, though it noted that Situational Awareness has not been accused of any wrongdoing.
+
+Situational Awareness did not respond to TechCrunch’s request for comment but told the Times that scrutiny of high-profile funds is to be expected, and that it would “cooperate to the fullest extent with any regulatory request.”
+
+The company, which very publicly hitched its wagon to AI’s star, may serve as a cautionary tale about the industry’s supposedly unstoppable trajectory.
+
+
+
+	
+	
+	
+
+
+
+
+
+
+	Topics
+	
+		AI, TC	
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+	
+					
+				
+							October 13 – 15
+										San Francisco
+					
+					In less than 48 hours, your chance to save up to $300 on your tickets will end!
+				
+
+
+REGISTER NOW
+
+
+	
+
+
+
+
+
+
+
+
+	
+		
+			Newsletters
+							
+					See More
+				
+					
+		Subscribe for the industry’s biggest tech news
+	
+	
+		
+			
+									
+						
+							TechCrunch Daily News
+							Every weekday and Sunday, 
