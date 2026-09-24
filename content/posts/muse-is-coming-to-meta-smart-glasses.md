@@ -1,0 +1,30 @@
+---
+title: Muse is coming to Meta smart glasses
+date: '2026-09-23'
+excerpt: >-
+  Just a couple of weeks after launching Muse, Meta announced that it's "working
+  on" bringing the agent to its smart glasses, including the new glasses...
+coverImage: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Work
+category: Work
+source: 'https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features'
+---
+
+											
+
+						
+<figure>
+
+<img alt="A promotional image of a person using the Hearing Enhancement feature on Meta AI glasses" data-caption="" data-portal-copyright="Image: Meta" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Hearing-enhancement-16x9-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption>
+		</figcaption>
+</figure>
+<p class="wp-block-paragraph">Just a couple of weeks after <a href="https://www.theverge.com/tech/993391/meta-muse-ai-hands-on">launching Muse</a>, Meta announced that it's "working on" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging meals, or <a href="https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping">helping them shop for products</a> they're looking at. </p>
+<p class="wp-block-paragraph">Muse is just one of several major updates coming to Meta's glasses. They're also getting some new accessibility features, like a Hearing Enhancement feature Meta says is "FDA-cleared software for adults with perceived mild to moderate hearing loss." It will be available lat …</p>
+<p><a href="https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features">Read the full story at The Verge.</a></p>
+						
+									
