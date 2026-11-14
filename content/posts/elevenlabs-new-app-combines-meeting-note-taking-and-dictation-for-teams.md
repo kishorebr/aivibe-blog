@@ -1,0 +1,30 @@
+---
+title: ElevenLabs’ new app combines meeting note-taking and dictation for teams
+date: '2026-11-13'
+excerpt: >-
+  In the last few months, Fireflies, Wispr Flow, and Granola have all released
+  competing capabilities in the dictation and meeting note-taking space. Th...
+coverImage: >-
+  https://images.unsplash.com/photo-1551434678-e076c223a692?w=400&h=200&fit=crop&auto=format
+author: AIVibe
+tags:
+  - Ai
+  - Productivity
+  - Tools
+category: Productivity
+source: >-
+  https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/
+---
+In the last few months, Fireflies, Wispr Flow, and Granola have all released competing capabilities in the dictation and meeting note-taking space. The newest entrant in that category is voice AI giant ElevenLabs, which this week released an experimental app called ElevenAI that combines meeting note-taking, dictation, and agent integration.
+
+Launched during its 11/11 Summit in New York, ElevenAI is still in preview, and you have to sign up for early access instead of just downloading an app. ElevenLabs, valued at $22 billion, is very much positioning this as a product that lives within a team as compared to a productivity tool for an individual.
+
+
+
+ElevenAI packs all the features typically found in other apps in the category. It can take meeting notes across your meetings and notify other participants that the conversation is being recorded. Users can query data across meetings and get live assistance during a chat, helping them recall a key detail from older conversations. ElevenLabs also allows companies to integrate ElevenAgent and take follow-up actions such as writing a draft email based on meeting notes.
+
+Plus, there’s a dictation feature, which lets users convert speech to cleaned-up text in any app with support for over 90 languages. The company said that the app is capable of understanding industry-specific terms across dictation and meeting transcription.
+
+ElevenAI allows the company to use its own model as a showcase and also utilize its agent platforms for better context funneling. The startup’s positioning might not be to directly compete in the productivity market, but rather to give enterprise teams an option to not buy licenses to a notetaker and use its solution instead. All meeting-related tools are rushing to become central knowledge hubs for companies while aiming to automate knowledge extraction and follow-up actions
+
+In the last week, the company also launched its v3 series of Scribe speech-to-text models with live transcription capabilities a
